@@ -1,0 +1,29 @@
+name: Weekly source archive
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out archive
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch upstream snapshots
+        env:
+          EUDA_COOKIE: ${{ secrets.EUDA_COOKIE }}
+        run: python scripts/fetch_sources.py
+      - name: Commit snapshots
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: archive weekly source snapshots"
+          file_pattern: "archive/**"
