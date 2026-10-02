@@ -20,7 +20,7 @@ EUDA 官方报告端点会对无会话请求返回 HTTP 403（上游文档也说
 
 ## 自动运行
 
-`.github/workflows/weekly-fetch.yml` 每周一 03:17 UTC 运行，也可在 GitHub Actions 页面手动执行。Action 使用仓库 `GITHUB_TOKEN` 将有变化的快照提交回当前分支；无需额外密钥。只有 EUDA 返回 403 时，该来源跳过并给出警告，其他来源照常提交；其它来源的抓取失败会使任务失败，防止提交不完整快照。
+`.github/workflows/weekly-fetch.yml` 每周一 03:17 UTC 运行，也可在 GitHub Actions 页面手动执行。Action 使用仓库 `GITHUB_TOKEN` 将有变化的快照提交回当前分支。只有归档检测到变化时，才会检查 [journal-android-multilingual](https://github.com/LoliLin/journal-android-multilingual) 是否已有标题为 `[SubstancesArchive] 上游数据快照已更新` 的未关闭 issue；已存在时不重复创建，也不重复留言，没有时创建 issue 并附本次归档提交与运行日志链接。请在 SubstancesArchive 仓库添加 `UPSTREAM_ISSUE_TOKEN` Actions secret：使用有权在目标仓库创建 issue 的 fine-grained PAT，并授予 `journal-android-multilingual` 的 Issues read/write 权限。只有 EUDA 返回 403 时，该来源跳过并给出警告，其他来源照常提交；其它来源的抓取失败会使任务失败，防止提交不完整快照。
 
 ## 本地运行
 
