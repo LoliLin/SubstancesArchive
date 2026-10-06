@@ -6,15 +6,15 @@
 
 | 路径 | 抓取内容 | 上游 |
 |---|---|---|
-| `archive/psychonautwiki/response.json` | PsychonautWiki GraphQL substance 完整字段响应 | [GraphQL API](https://api.psychonautwiki.org/) |
-| `archive/tripsit/drugs.json` | 上游原始 JSON 文件 | [TripSit/drugs](https://github.com/TripSit/drugs) |
-| `archive/wikidata/atc-medicines.json` | 含 ATC 码的 Wikidata 记录 SPARQL JSON 响应，按实体 URI/ATC 码排序 | [Wikidata Query Service](https://query.wikidata.org/) |
+| `archive/psychonautwiki/<substance>.json` | PsychonautWiki GraphQL 完整字段响应拆分后的单个物质记录 | [GraphQL API](https://api.psychonautwiki.org/) |
+| `archive/tripsit/<substance>.json` | TripSit 完整 drugs.json 响应拆分后的单个物质记录 | [TripSit/drugs](https://github.com/TripSit/drugs) |
+| `archive/wikidata/<QID>.json` | Wikidata SPARQL 完整响应按实体合并 ATC 记录后的单个物质文件 | [Wikidata Query Service](https://query.wikidata.org/) |
 | `archive/euda/european-drug-report.html` | EUDA European Drug Report 报告落地页响应 | [EUDA report](https://www.euda.europa.eu/publications/european-drug-report_en) |
 | `archive/freeodwiki/` | `药物/*.md`、许可与索引文件逐个按原始字节保存 | [FreeODwiki](https://github.com/SalviaSWC/FreeODwiki) |
 
-API 响应按固定文件名原始字节保存，JSON 不重新序列化。PsychonautWiki 与 Wikidata 是按查询条件返回的数据，不是整站数据库导出。FreeODwiki 只存与物质目录相关的 Markdown 和许可/索引文件，不含整个仓库的图片等无关资源；新增、修改、删除的上游文件会对应显示为 Git 文件差异。
+API 会先完整读取上游 JSON 响应，再解析并拆分为单物质文件，以 UTF-8、两空格缩进格式保存。PsychonautWiki 和 TripSit 文件名来自物质名称；Wikidata 按实体 QID 分组，同一实体的 ATC 查询记录保存在该物质文件的 `bindings` 数组中。JSON 文件只在内容变化时更新；过期的 JSON 文件会在该来源成功解析后清理。FreeODwiki 文件按原始字节保存。
 
-每次 Action 更新相同路径，**不会创建带日期的副本**；Git 提交历史就是快照历史。首次导入会显示整批新增，之后只显示源站变更。如果源内容、查询结果和顺序都没变，Action 不会产生归档 diff/提交。Wikidata 查询显式排序；其余源保留源站返回顺序与原始内容，不做排序或格式化，因此上游自身的顺序变化也可能出现在 diff 中。
+每次 Action 更新相同路径，**不会创建带日期的副本**；Git 提交历史就是快照历史。首次导入会显示整批新增，之后只显示源站变更。如果源内容、查询结果和顺序都没变，Action 不会产生归档 diff/提交。Wikidata 查询显式排序；源站记录的返回顺序会保留在各个物质文件中，格式化缩进会让 JSON 以便于审查的多行形式呈现。
 
 EUDA 官方报告端点会对无会话请求返回 HTTP 403（上游文档也说明 CSV 需要浏览器会话）。遇到 403 时其他来源仍照常归档，EUDA 本周不产生快照。可在仓库 Actions secrets 配置 `EUDA_COOKIE` 提供有效会话 cookie；否则每次运行日志会明确报告 EUDA 未能获取。当前自动端点是报告落地页，不是该年度 CSV。
 

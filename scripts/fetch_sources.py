@@ -42,6 +42,31 @@ def save(source: str, filename: str, content: bytes) -> bool:
     return True
 
 
+def save_json_records(source: str, records: dict[str, object]) -> int:
+    if not records:
+        raise ValueError(f"{source} response contained no substance records")
+
+    source_root = ROOT / "archive" / source
+    source_root.mkdir(parents=True, exist_ok=True)
+    expected = {source_root / f"{name}.json" for name in records}
+    for old_file in source_root.glob("*.json"):
+        if old_file not in expected:
+            old_file.unlink()
+
+    changed = 0
+    for name, record in records.items():
+        content = (json.dumps(record, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+        changed += save(source, f"{name}.json", content)
+    return changed
+
+
+def substance_filename(value: str) -> str:
+    filename = urllib.parse.quote(value.strip(), safe="-_.()")
+    if not filename or filename in {".", ".."}:
+        raise ValueError(f"invalid substance filename: {value!r}")
+    return filename
+
+
 def fetch_freeodwiki() -> None:
     tree_url = "https://api.github.com/repos/SalviaSWC/FreeODwiki/git/trees/main?recursive=1"
     tree = json.loads(request(tree_url))
@@ -99,18 +124,36 @@ def main() -> None:
       }
     }
     """
-    sources = [
-        ("psychonautwiki", "response.json", "https://api.psychonautwiki.org/",
+    for source, url, data, content_type in [
+        ("psychonautwiki", "https://api.psychonautwiki.org/",
          json.dumps({"query": pw_query}).encode("utf-8"), "application/json"),
-        ("tripsit", "drugs.json", "https://raw.githubusercontent.com/TripSit/drugs/main/drugs.json", None, None),
-    ]
-    for source, filename, url, data, content_type in sources:
+        ("tripsit", "https://raw.githubusercontent.com/TripSit/drugs/main/drugs.json", None, None),
+    ]:
         try:
             payload = request(url, data=data, content_type=content_type)
-            if source == "psychonautwiki" and json.loads(payload).get("errors"):
-                raise ValueError("GraphQL returned errors")
-            save(source, filename, payload)
-        except (urllib.error.URLError, TimeoutError, OSError, ValueError) as error:
+            response = json.loads(payload)
+            if source == "psychonautwiki":
+                if response.get("errors"):
+                    raise ValueError("GraphQL returned errors")
+                substances = response.get("data", {}).get("substances")
+                if not isinstance(substances, list):
+                    raise ValueError("GraphQL response contained no substances list")
+                records = {
+                    substance_filename(record["name"]): record
+                    for record in substances
+                    if isinstance(record, dict) and isinstance(record.get("name"), str)
+                }
+            else:
+                if not isinstance(response, dict):
+                    raise ValueError("TripSit response was not a substance mapping")
+                records = {
+                    substance_filename(name): record
+                    for name, record in response.items()
+                    if isinstance(name, str) and isinstance(record, dict)
+                }
+            changed = save_json_records(source, records)
+            print(f"{source}: {len(records)} substances, {changed} changed")
+        except (urllib.error.URLError, TimeoutError, OSError, ValueError, KeyError) as error:
             failures.append(f"{source}: {error}")
             print(f"FAILED {source}: {error}")
 
@@ -125,8 +168,20 @@ def main() -> None:
         {"query": query, "format": "json"}
     )
     try:
-        save("wikidata", "atc-medicines.json", request(endpoint))
-    except (urllib.error.URLError, TimeoutError, OSError) as error:
+        response = json.loads(request(endpoint))
+        bindings = response.get("results", {}).get("bindings")
+        if not isinstance(bindings, list):
+            raise ValueError("Wikidata response contained no bindings list")
+        records: dict[str, dict[str, object]] = {}
+        for binding in bindings:
+            entity = binding.get("item", {}).get("value", "")
+            qid = entity.rsplit("/", 1)[-1]
+            if not qid:
+                raise ValueError("Wikidata binding had no item identifier")
+            records.setdefault(qid, {"item": entity, "bindings": []})["bindings"].append(binding)
+        changed = save_json_records("wikidata", records)
+        print(f"wikidata: {len(records)} substances, {changed} changed")
+    except (urllib.error.URLError, TimeoutError, OSError, ValueError, AttributeError, KeyError) as error:
         failures.append(f"wikidata: {error}")
         print(f"FAILED wikidata: {error}")
 
