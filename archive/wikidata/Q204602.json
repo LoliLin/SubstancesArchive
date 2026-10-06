@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q204602",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q204602"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pyrithione zinc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Ephylone",
+  "url": "https://psychonautwiki.org/wiki/Ephylone",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Ephylone",
+    "bk-EBDP",
+    "βk-EBDP",
+    "bk-ethyl-K"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": null,
+    "zero": null
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": null,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "strong": {
+          "min": 40.0,
+          "max": 80.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

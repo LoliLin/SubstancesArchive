@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4482372",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4482372"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BD11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fesoterodine"
+      }
+    }
+  ]
+}

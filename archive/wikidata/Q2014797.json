@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2014797",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2014797"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AB15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ketorolac"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2014797"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ketorolac"
+      }
+    }
+  ]
+}

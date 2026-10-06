@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3995913",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3995913"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V10XA53"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tositumomab"
+      }
+    }
+  ]
+}

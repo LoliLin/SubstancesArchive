@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419401",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419401"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbachol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419401"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbachol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419401"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbachol"
+      }
+    }
+  ]
+}

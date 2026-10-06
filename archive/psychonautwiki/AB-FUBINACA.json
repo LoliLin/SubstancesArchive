@@ -1,0 +1,124 @@
+{
+  "name": "AB-FUBINACA",
+  "url": "https://psychonautwiki.org/wiki/AB-FUBINACA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ab-fubi"
+  ],
+  "class": {
+    "chemical": [
+      "Indazolecarboxamide"
+    ],
+    "psychoactive": [
+      "Cannabinoid"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "cannabinoids"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 5.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 3.0
+        },
+        "strong": {
+          "min": 3.0,
+          "max": 5.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 0.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DMT"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "LSD"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "Mushrooms"
+    },
+    {
+      "name": "25x-NBOMe"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

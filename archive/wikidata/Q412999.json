@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412999",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412999"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "angiotensin II"
+      }
+    }
+  ]
+}

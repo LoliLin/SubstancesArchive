@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q425440",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425440"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dexketoprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425440"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA27"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dexketoprofen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Mirtazapine",
+  "url": "https://psychonautwiki.org/wiki/Mirtazapine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Avanza",
+    "Axit",
+    "Mirtaz",
+    "Mirtazon",
+    "Remeron",
+    "Zispin"
+  ],
+  "class": {
+    "chemical": [
+      "Piperazinoazepine"
+    ],
+    "psychoactive": [
+      "Deliriant",
+      "Depressant",
+      "Antidepressants"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.5,
+        "heavy": 250.0,
+        "light": {
+          "min": 70.0,
+          "max": 130.0
+        },
+        "common": {
+          "min": 130.0,
+          "max": 190.0
+        },
+        "strong": {
+          "min": 190.0,
+          "max": 250.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 90.0,
+          "max": 180.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 14.0,
+          "max": 24.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Antidepressants"
+    }
+  ]
+}

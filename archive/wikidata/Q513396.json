@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q513396",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q513396"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BD09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "trospium"
+      }
+    }
+  ]
+}

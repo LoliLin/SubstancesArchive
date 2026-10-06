@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412850",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412850"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "coagulation factor VII"
+      }
+    }
+  ]
+}

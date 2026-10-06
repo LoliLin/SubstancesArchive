@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2421270",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2421270"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cortivazol"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6064817",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6064817"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ioxaglic acid"
+      }
+    }
+  ]
+}

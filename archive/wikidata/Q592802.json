@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q592802",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q592802"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benazepril"
+      }
+    }
+  ]
+}

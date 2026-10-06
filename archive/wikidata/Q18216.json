@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q18216",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q18216"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aspirin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q18216"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aspirin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q18216"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aspirin"
+      }
+    }
+  ]
+}

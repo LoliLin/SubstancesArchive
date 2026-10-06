@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3359058",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3359058"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxiconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3359058"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxiconazole"
+      }
+    }
+  ]
+}

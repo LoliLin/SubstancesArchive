@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q172395",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q172395"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "multivitamin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q172395"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "multivitamin"
+      }
+    }
+  ]
+}

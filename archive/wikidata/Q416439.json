@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416439",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416439"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "piritramide"
+      }
+    }
+  ]
+}

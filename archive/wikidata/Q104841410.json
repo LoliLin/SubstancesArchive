@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q104841410",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q104841410"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11CC"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vitamin D receptor modulator"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q104841410"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05AX"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vitamin D receptor modulator"
+      }
+    }
+  ]
+}

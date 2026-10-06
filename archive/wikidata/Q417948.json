@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417948",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417948"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlortetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417948"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlortetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417948"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlortetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417948"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlortetracycline"
+      }
+    }
+  ]
+}

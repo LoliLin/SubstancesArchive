@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415178",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415178"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX22"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ivermectin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415178"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02CF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ivermectin"
+      }
+    }
+  ]
+}

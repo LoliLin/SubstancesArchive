@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1365501",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1365501"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H03B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Antithyroid agent"
+      }
+    }
+  ]
+}

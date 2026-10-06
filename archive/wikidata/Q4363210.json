@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4363210",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4363210"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pipecuronium bromide"
+      }
+    }
+  ]
+}

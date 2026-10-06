@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q425386",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425386"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dyclonine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425386"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dyclonine"
+      }
+    }
+  ]
+}

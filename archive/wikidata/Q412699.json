@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412699",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412699"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AB17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bufexamac"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412699"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bufexamac"
+      }
+    }
+  ]
+}

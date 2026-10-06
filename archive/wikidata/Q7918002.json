@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7918002",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7918002"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA33"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vedolizumab"
+      }
+    }
+  ]
+}

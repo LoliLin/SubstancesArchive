@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4734932",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4734932"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BF"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alpha-glucosidase inhibitor"
+      }
+    }
+  ]
+}

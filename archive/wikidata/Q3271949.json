@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3271949",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3271949"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lepirudin"
+      }
+    }
+  ]
+}

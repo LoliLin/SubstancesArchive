@@ -1,0 +1,19 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4073320",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4073320"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07FA51"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q4073320"
+      }
+    }
+  ]
+}

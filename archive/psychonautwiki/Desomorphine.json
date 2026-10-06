@@ -1,0 +1,63 @@
+{
+  "name": "Desomorphine",
+  "url": "https://psychonautwiki.org/wiki/Desomorphine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Desomorphine",
+    "Krokodil",
+    "Krok"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

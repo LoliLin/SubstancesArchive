@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7250158",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7250158"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "propenidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7250158"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "propenidazole"
+      }
+    }
+  ]
+}

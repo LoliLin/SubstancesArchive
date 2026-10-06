@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4775337",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4775337"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antithrombotic"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4775337"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antithrombotic"
+      }
+    }
+  ]
+}

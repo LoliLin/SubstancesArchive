@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q139595346",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139595346"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10BX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "atorvastatin, amlodipine and perindopril"
+      }
+    }
+  ]
+}

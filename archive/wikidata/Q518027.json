@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q518027",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q518027"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenspiride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q518027"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03DX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenspiride"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Ibogaine",
+  "url": "https://psychonautwiki.org/wiki/Ibogaine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ibogaine",
+    "Endabuse",
+    "Iboga"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg/kg of body weight",
+        "threshold": null,
+        "heavy": null,
+        "light": null,
+        "common": {
+          "min": 15.0,
+          "max": 22.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 180.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 18.0,
+          "max": 36.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": null,
+        "afterglow": {
+          "min": 24.0,
+          "max": 72.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q37187",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q37187"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "red blood cell"
+      }
+    }
+  ]
+}

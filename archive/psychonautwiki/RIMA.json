@@ -1,0 +1,73 @@
+{
+  "name": "RIMA",
+  "url": "https://psychonautwiki.org/wiki/RIMA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": null,
+  "class": null,
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "roas": null,
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "NBOMes"
+    },
+    {
+      "name": "Opioids"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

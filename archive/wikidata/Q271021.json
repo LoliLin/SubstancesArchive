@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q271021",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q271021"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cephalosporin antibiotic"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q271021"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DC"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cephalosporin antibiotic"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q271021"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DD"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cephalosporin antibiotic"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q271021"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DE"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cephalosporin antibiotic"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5134764",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134764"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clobetasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134764"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clobetasone"
+      }
+    }
+  ]
+}

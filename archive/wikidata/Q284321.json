@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q284321",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q284321"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AG01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mefenamic acid"
+      }
+    }
+  ]
+}

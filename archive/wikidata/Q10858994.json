@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q10858994",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10858994"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "moxestrol"
+      }
+    }
+  ]
+}

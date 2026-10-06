@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q288705",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q288705"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A16AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "galactosidase alpha"
+      }
+    }
+  ]
+}

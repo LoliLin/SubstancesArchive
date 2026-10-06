@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408801",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408801"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX33"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "celecoxib"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408801"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AH01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "celecoxib"
+      }
+    }
+  ]
+}

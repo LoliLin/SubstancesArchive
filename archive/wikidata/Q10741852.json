@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q10741852",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10741852"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AK04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ipratropium bromide/salbutamol"
+      }
+    }
+  ]
+}

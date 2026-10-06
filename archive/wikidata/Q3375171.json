@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3375171",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3375171"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AJ18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxycodone/aspirin"
+      }
+    }
+  ]
+}

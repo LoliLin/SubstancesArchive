@@ -1,0 +1,109 @@
+{
+  "name": "Myristicin",
+  "url": "https://psychonautwiki.org/wiki/Myristicin",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Nutmeg"
+  ],
+  "class": {
+    "chemical": [
+      "Phenylpropenes"
+    ],
+    "psychoactive": [
+      "Deliriant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "is neurotoxic",
+    "can be fatal in extremely high doses"
+  ],
+  "addictionPotential": "is not known to be addictive",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": 800.0,
+        "light": {
+          "min": 50.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 500.0
+        },
+        "strong": {
+          "min": 500.0,
+          "max": 800.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 9.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 12.0,
+          "max": 48.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 12.0,
+          "max": 72.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 24.0,
+          "max": 72.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "Depressants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Serotonin releasers"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "DPH"
+    }
+  ]
+}

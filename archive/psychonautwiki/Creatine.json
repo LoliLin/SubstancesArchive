@@ -1,0 +1,63 @@
+{
+  "name": "Creatine",
+  "url": "https://psychonautwiki.org/wiki/Creatine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Creatine",
+    "N-Carbamimidoyl-N-methylglycine",
+    "Methylguanidoacetic acid"
+  ],
+  "class": {
+    "chemical": null,
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": "not habit-forming with a low potential for abuse",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "g",
+        "threshold": 0.25,
+        "heavy": 20.0,
+        "light": {
+          "min": 1.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 30.0,
+          "max": 36.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

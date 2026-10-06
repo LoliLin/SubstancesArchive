@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413546",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413546"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clotrimazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413546"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clotrimazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413546"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clotrimazole"
+      }
+    }
+  ]
+}

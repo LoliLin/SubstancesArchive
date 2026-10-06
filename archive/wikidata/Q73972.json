@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q73972",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q73972"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydroxocobalamin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q73972"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB33"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydroxocobalamin"
+      }
+    }
+  ]
+}

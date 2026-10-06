@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27281552",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27281552"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A09AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "betaine hydrochloride"
+      }
+    }
+  ]
+}

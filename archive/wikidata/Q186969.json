@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q186969",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q186969"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01EB16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibuprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q186969"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibuprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q186969"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibuprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q186969"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibuprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q186969"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibuprofen"
+      }
+    }
+  ]
+}

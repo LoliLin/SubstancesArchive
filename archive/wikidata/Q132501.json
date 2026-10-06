@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q132501",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132501"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AG04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glycerol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132501"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glycerol"
+      }
+    }
+  ]
+}

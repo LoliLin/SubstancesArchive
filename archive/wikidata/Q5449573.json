@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5449573",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5449573"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "protamine"
+      }
+    }
+  ]
+}

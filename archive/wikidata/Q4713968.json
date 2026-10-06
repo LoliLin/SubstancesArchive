@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4713968",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4713968"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10XA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Aldose reductase inhibitor"
+      }
+    }
+  ]
+}

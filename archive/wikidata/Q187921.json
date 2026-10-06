@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q187921",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q187921"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenolphthalein"
+      }
+    }
+  ]
+}

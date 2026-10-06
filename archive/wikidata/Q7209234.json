@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7209234",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7209234"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AB11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "poldine"
+      }
+    }
+  ]
+}

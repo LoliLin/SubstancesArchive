@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q95993810",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q95993810"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07C"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antivertiginous"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q95993810"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07CA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antivertiginous"
+      }
+    }
+  ]
+}

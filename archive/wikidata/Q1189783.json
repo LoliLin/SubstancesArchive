@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1189783",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1189783"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicotine replacement therapy"
+      }
+    }
+  ]
+}

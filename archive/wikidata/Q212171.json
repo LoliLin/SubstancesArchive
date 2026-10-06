@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q212171",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q212171"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02CC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rizatriptan"
+      }
+    }
+  ]
+}

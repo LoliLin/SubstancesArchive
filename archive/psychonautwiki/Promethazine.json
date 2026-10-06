@@ -1,0 +1,81 @@
+{
+  "name": "Promethazine",
+  "url": "https://psychonautwiki.org/wiki/Promethazine",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Phenergan",
+    "Lergigan"
+  ],
+  "class": {
+    "chemical": [
+      "Phenothiazine"
+    ],
+    "psychoactive": [
+      "Deliriant",
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 12.5,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "strong": {
+          "min": 50.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": null,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

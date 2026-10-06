@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4156948",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4156948"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AJ10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-decamethoxin hydrochloride"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q577377",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q577377"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "brimonidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q577377"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "brimonidine"
+      }
+    }
+  ]
+}

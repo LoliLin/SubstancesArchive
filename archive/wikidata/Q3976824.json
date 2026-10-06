@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3976824",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3976824"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamethizole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3976824"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamethizole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3976824"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01EB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamethizole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3976824"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamethizole"
+      }
+    }
+  ]
+}

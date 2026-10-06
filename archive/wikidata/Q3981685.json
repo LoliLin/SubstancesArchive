@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3981685",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3981685"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tazarotene"
+      }
+    }
+  ]
+}

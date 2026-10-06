@@ -1,0 +1,136 @@
+{
+  "name": "Dichloropane",
+  "url": "https://psychonautwiki.org/wiki/Dichloropane",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Dichloropane",
+    "RTI-111"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tropanes"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "2 - 4 days",
+    "zero": "1 - 1.5 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": 60.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "strong": {
+          "min": 40.0,
+          "max": 60.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.5,
+        "heavy": 50.0,
+        "light": {
+          "min": 2.5,
+          "max": 7.5
+        },
+        "common": {
+          "min": 7.5,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 50.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "seconds"
+        },
+        "peak": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 40.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

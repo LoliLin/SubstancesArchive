@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q920900",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q920900"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "otilonium bromide"
+      }
+    }
+  ]
+}

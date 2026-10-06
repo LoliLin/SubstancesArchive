@@ -1,0 +1,128 @@
+{
+  "name": "25N-NBOMe",
+  "url": "https://psychonautwiki.org/wiki/25N-NBOMe",
+  "featured": true,
+  "systematicName": "2-(2,5-dimethoxy-4-nitrophenyl)-N-(2-methoxybenzyl)ethanamine",
+  "commonNames": [
+    "25N-NBOMe"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "potentially fatal at heavy dosages"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxt"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "MXE"
+    }
+  ],
+  "roas": [
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 100.0,
+        "heavy": null,
+        "light": {
+          "min": 100.0,
+          "max": 300.0
+        },
+        "common": {
+          "min": 300.0,
+          "max": 800.0
+        },
+        "strong": {
+          "min": 800.0,
+          "max": 1300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "name": "O-Desmethyltramadol",
+  "url": "https://psychonautwiki.org/wiki/O-Desmethyltramadol",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "O-Desmethyltramadol"
+  ],
+  "class": {
+    "chemical": [
+      "Phenylpropylamine"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "moderate potential toxicity relative to its dose due to its potency",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 50.0,
+        "light": {
+          "min": 5.0,
+          "max": 12.5
+        },
+        "common": {
+          "min": 12.5,
+          "max": 25.0
+        },
+        "strong": {
+          "min": 25.0,
+          "max": 50.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 15.0,
+          "units": "seconds"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "Hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "strong": {
+          "min": 50.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 80.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "strong": {
+          "min": 50.0,
+          "max": 80.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

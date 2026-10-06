@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q426070",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426070"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethindene"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426070"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethindene"
+      }
+    }
+  ]
+}

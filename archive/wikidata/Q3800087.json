@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3800087",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3800087"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pyrilamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3800087"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pyrilamine"
+      }
+    }
+  ]
+}

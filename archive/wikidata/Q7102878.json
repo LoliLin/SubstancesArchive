@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7102878",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7102878"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oritavancin"
+      }
+    }
+  ]
+}

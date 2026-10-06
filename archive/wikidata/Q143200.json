@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q143200",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q143200"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AK03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mercuric chloride"
+      }
+    }
+  ]
+}

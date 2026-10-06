@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27294487",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27294487"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01EB23"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tiazotic acid"
+      }
+    }
+  ]
+}

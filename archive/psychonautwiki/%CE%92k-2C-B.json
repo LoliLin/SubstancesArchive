@@ -1,0 +1,73 @@
+{
+  "name": "Βk-2C-B",
+  "url": "https://psychonautwiki.org/wiki/%CE%92k-2C-B",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "βk-2C-B",
+    "beta-keto 2C-B",
+    "bk-2C-B"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 60.0,
+          "max": 80.0
+        },
+        "common": {
+          "min": 80.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 70.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 8.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

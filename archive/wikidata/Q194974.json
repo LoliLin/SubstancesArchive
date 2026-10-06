@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q194974",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q194974"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L02BG04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "letrozole"
+      }
+    }
+  ]
+}

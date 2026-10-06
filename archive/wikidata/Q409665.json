@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409665",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409665"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "disulfiram"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409665"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P03AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "disulfiram"
+      }
+    }
+  ]
+}

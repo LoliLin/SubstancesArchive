@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q206844",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q206844"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03BD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "theobromine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q206844"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03DA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "theobromine"
+      }
+    }
+  ]
+}

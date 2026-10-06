@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28856123",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28856123"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dalbavancin hydrochloride"
+      }
+    }
+  ]
+}

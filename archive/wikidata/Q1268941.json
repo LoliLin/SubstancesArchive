@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1268941",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1268941"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lomitapide"
+      }
+    }
+  ]
+}

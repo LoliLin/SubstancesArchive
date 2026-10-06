@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q324147",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q324147"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01BA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "terlipressin"
+      }
+    }
+  ]
+}

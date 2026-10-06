@@ -1,0 +1,79 @@
+{
+  "name": "25E-NBOH",
+  "url": "https://psychonautwiki.org/wiki/25E-NBOH",
+  "featured": null,
+  "systematicName": "2-(4-Ethyl-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine",
+  "commonNames": [
+    "25E-NBOH"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": null,
+        "light": {
+          "min": 200.0,
+          "max": 600.0
+        },
+        "common": {
+          "min": 600.0,
+          "max": 1000.0
+        },
+        "strong": {
+          "min": 1000.0,
+          "max": 1200.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.5,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q21083261",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q21083261"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XC31"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "avelumab"
+      }
+    }
+  ]
+}

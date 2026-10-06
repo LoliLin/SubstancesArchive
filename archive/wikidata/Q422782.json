@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422782",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422782"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-dobutamine"
+      }
+    }
+  ]
+}

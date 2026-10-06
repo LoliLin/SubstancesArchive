@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420051",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420051"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dexibuprofen"
+      }
+    }
+  ]
+}

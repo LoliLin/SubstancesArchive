@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4673299",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4673299"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acetyldigitoxin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4673299"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acetyldigitoxin"
+      }
+    }
+  ]
+}

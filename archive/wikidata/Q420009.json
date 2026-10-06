@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420009",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420009"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02DA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diazoxide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420009"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AH01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diazoxide"
+      }
+    }
+  ]
+}

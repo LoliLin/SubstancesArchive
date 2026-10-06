@@ -1,0 +1,72 @@
+{
+  "name": "Grayanotoxin",
+  "url": "https://psychonautwiki.org/wiki/Grayanotoxin",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": {
+    "chemical": [
+      "Diterpene"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": null,
+          "max": null,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": null,
+          "max": null,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": null,
+          "max": null,
+          "units": "hours"
+        },
+        "offset": {
+          "min": null,
+          "max": null,
+          "units": "hours"
+        },
+        "total": {
+          "min": null,
+          "max": null,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": null,
+          "max": null,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Cholinergics"
+    },
+    {
+      "name": "Depressants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Opioids"
+    }
+  ]
+}

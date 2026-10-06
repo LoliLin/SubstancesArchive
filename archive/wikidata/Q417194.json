@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417194",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417194"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A14AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methandrostenolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417194"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methandrostenolone"
+      }
+    }
+  ]
+}

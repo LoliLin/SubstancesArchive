@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q97479031",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q97479031"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "LAKTULOSA SANDOZ"
+      }
+    }
+  ]
+}

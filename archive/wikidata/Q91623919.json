@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q91623919",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q91623919"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J06BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antibody injection"
+      }
+    }
+  ]
+}

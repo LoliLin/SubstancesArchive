@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2195393",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2195393"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01CA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vinflunine"
+      }
+    }
+  ]
+}

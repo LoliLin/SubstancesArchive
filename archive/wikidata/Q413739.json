@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413739",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413739"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium gluconate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413739"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium gluconate"
+      }
+    }
+  ]
+}

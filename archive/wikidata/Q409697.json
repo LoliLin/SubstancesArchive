@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409697",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409697"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pegvisomant"
+      }
+    }
+  ]
+}

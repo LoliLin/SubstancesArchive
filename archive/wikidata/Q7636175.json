@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7636175",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7636175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01ED09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamazone"
+      }
+    }
+  ]
+}

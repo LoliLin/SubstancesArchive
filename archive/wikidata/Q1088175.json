@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1088175",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1088175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polymyxin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1088175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polymyxin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1088175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polymyxin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1088175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polymyxin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1088175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polymyxin B"
+      }
+    }
+  ]
+}

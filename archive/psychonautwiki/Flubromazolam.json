@@ -1,0 +1,68 @@
+{
+  "name": "Flubromazolam",
+  "url": "https://psychonautwiki.org/wiki/Flubromazolam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Flubromazolam"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "μg",
+        "threshold": 50.0,
+        "heavy": 400.0,
+        "light": {
+          "min": 100.0,
+          "max": 150.0
+        },
+        "common": {
+          "min": 150.0,
+          "max": 250.0
+        },
+        "strong": {
+          "min": 250.0,
+          "max": 400.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 12.0,
+          "max": 18.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

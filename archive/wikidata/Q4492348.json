@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4492348",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4492348"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "framycetin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4492348"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "framycetin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4492348"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "framycetin"
+      }
+    }
+  ]
+}

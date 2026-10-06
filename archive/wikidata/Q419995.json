@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419995",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419995"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03DB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amiloride"
+      }
+    }
+  ]
+}

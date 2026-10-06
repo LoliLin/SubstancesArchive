@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408427",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfathiazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01EB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfathiazole"
+      }
+    }
+  ]
+}

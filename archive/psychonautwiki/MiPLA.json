@@ -1,0 +1,99 @@
+{
+  "name": "MiPLA",
+  "url": "https://psychonautwiki.org/wiki/MiPLA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "MiPLA",
+    "Lamide"
+  ],
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "5-7 days",
+    "zero": "14 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "low potential for abuse and dependence",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 100.0,
+          "max": 150.0
+        },
+        "common": {
+          "min": 150.0,
+          "max": 200.0
+        },
+        "strong": {
+          "min": 200.0,
+          "max": 250.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

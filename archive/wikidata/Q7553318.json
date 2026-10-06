@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7553318",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7553318"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03AC"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium ferric gluconate complex"
+      }
+    }
+  ]
+}

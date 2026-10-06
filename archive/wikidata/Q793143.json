@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q793143",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q793143"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzydamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q793143"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzydamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q793143"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzydamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q793143"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzydamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q793143"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzydamine"
+      }
+    }
+  ]
+}

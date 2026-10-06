@@ -1,0 +1,157 @@
+{
+  "name": "Dextromethorphan",
+  "url": "https://psychonautwiki.org/wiki/Dextromethorphan",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DXM",
+    "DMO",
+    "DM",
+    "Dex",
+    "Robitussin",
+    "Delsym",
+    "DexAlone",
+    "Duract"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociatives"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "produces dependence with chronic use and has moderate abuse potential",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 75.0,
+        "heavy": 700.0,
+        "light": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 400.0
+        },
+        "strong": {
+          "min": 400.0,
+          "max": 700.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "Cannabis"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Bupropion"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "ΑMT"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "Antihistamines"
+    }
+  ]
+}

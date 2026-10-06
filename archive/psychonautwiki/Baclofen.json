@@ -1,0 +1,121 @@
+{
+  "name": "Baclofen",
+  "url": "https://psychonautwiki.org/wiki/Baclofen",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Baclofen",
+    "Lioresal"
+  ],
+  "class": {
+    "chemical": [
+      "Butyric acid",
+      "Gabapentinoids"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "GABA"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
+  ],
+  "addictionPotential": "moderately physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 50.0
+        },
+        "strong": {
+          "min": 50.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.5,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 14.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Dissociatives"
+    },
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "Barbiturates"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Methaqualone"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Depressants"
+    }
+  ]
+}

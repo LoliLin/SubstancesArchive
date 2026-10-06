@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q188543",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q188543"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ammonium chloride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q188543"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ammonium chloride"
+      }
+    }
+  ]
+}

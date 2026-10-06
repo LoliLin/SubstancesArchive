@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1321320",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1321320"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tinidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1321320"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tinidazole"
+      }
+    }
+  ]
+}

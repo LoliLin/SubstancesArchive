@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423989",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423989"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diethylstilbestrol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423989"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diethylstilbestrol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423989"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L02AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diethylstilbestrol"
+      }
+    }
+  ]
+}

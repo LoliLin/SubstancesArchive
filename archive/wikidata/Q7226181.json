@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7226181",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7226181"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AC07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polycarbophil calcium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7226181"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polycarbophil calcium"
+      }
+    }
+  ]
+}

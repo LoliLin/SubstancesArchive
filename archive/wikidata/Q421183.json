@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421183",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421183"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AF02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexobarbital"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421183"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexobarbital"
+      }
+    }
+  ]
+}

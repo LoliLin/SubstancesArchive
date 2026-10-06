@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q45044",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q45044"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium citrate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q45044"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium citrate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q45044"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium citrate"
+      }
+    }
+  ]
+}

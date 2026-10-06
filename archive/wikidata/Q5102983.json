@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5102983",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5102983"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlormezanone"
+      }
+    }
+  ]
+}

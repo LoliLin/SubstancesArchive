@@ -1,0 +1,99 @@
+{
+  "name": "Bromazepam",
+  "url": "https://psychonautwiki.org/wiki/Bromazepam",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Bromazepam",
+    "Brozam",
+    "Lectopam",
+    "Lexomil",
+    "Lexotan",
+    "Lexilium",
+    "Lexaurin",
+    "Brazepam",
+    "Rekotnil",
+    "Bromaze",
+    "Somalium",
+    "Lexatin",
+    "Calmepam",
+    "Zepam",
+    "Lexotanil"
+  ],
+  "class": null,
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.5,
+        "heavy": 12.0,
+        "light": {
+          "min": 1.5,
+          "max": 3.0
+        },
+        "common": {
+          "min": 3.0,
+          "max": 6.0
+        },
+        "strong": {
+          "min": 6.0,
+          "max": 12.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 14.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 15.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 12.0,
+          "max": 22.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ]
+}

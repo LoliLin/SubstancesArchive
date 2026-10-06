@@ -1,0 +1,74 @@
+{
+  "name": "Hexedrone",
+  "url": "https://psychonautwiki.org/wiki/Hexedrone",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Hexedrone"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 30.0,
+        "heavy": 125.0,
+        "light": {
+          "min": 50.0,
+          "max": 70.0
+        },
+        "common": {
+          "min": 70.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 125.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

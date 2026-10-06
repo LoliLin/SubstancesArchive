@@ -1,0 +1,110 @@
+{
+  "name": "PMA",
+  "url": "https://psychonautwiki.org/wiki/PMA",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "PMA"
+  ],
+  "class": {
+    "chemical": [
+      "Amphetamine",
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Hallucinogens"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "can be considered extremely toxic when compared to other substances such as Methamphetamine or MDMA",
+    "Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), seizures, hyperthermia, and death"
+  ],
+  "addictionPotential": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": null,
+        "light": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "common": {
+          "min": 40.0,
+          "max": 60.0
+        },
+        "strong": null
+      },
+      "duration": null,
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "Methoxetamine"
+    },
+    {
+      "name": "Psychedelics"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "DOx"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

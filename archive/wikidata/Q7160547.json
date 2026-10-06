@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7160547",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7160547"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX24"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pegaspargase"
+      }
+    }
+  ]
+}

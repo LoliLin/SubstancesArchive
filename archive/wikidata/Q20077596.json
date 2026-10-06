@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20077596",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20077596"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02BA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "roxatidine acetate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q12415847",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12415847"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "17α/β-estradiol"
+      }
+    }
+  ]
+}

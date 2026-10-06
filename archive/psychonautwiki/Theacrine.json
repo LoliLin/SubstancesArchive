@@ -1,0 +1,102 @@
+{
+  "name": "Theacrine",
+  "url": "https://psychonautwiki.org/wiki/Theacrine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Theacrine",
+    "Temurin",
+    "Temorine"
+  ],
+  "class": {
+    "chemical": [
+      "Xanthines",
+      "Purine alkaloid"
+    ],
+    "psychoactive": [
+      "Stimulants",
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [],
+  "toxicity": null,
+  "addictionPotential": "produces dependence with chronic use and has a low abuse potential",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": null,
+        "light": null,
+        "common": {
+          "min": 25.0,
+          "max": 100.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 150.0
+        },
+        "strong": {
+          "min": 150.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

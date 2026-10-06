@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2553496",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2553496"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01GB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "netilmicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2553496"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA23"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "netilmicin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q62903",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q62903"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anxiolytic"
+      }
+    }
+  ]
+}

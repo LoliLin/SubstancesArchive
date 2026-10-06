@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419608",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419608"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419608"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419608"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419608"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracaine"
+      }
+    }
+  ]
+}

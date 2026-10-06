@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410237",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410237"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clopidogrel"
+      }
+    }
+  ]
+}

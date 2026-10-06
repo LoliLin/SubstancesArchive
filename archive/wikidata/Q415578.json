@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415578",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415578"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antipyrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415578"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02DA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antipyrine"
+      }
+    }
+  ]
+}

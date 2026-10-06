@@ -1,0 +1,33 @@
+{
+  "item": "http://www.wikidata.org/entity/Q135197125",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q135197125"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "QB03AC"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q135197125"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q135197125"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "QB03AC91"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q135197125"
+      }
+    }
+  ]
+}

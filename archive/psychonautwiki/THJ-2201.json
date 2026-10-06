@@ -1,0 +1,124 @@
+{
+  "name": "THJ-2201",
+  "url": "https://psychonautwiki.org/wiki/THJ-2201",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "THJ-2201"
+  ],
+  "class": {
+    "chemical": [
+      "Naphthoylindazole"
+    ],
+    "psychoactive": [
+      "Cannabinoid"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "cannabinoids"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 5.0,
+        "light": {
+          "min": 0.5,
+          "max": 1.0
+        },
+        "common": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "strong": {
+          "min": 2.0,
+          "max": 5.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 30.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 0.0,
+          "max": 0.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DMT"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "LSD"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "Mushrooms"
+    },
+    {
+      "name": "25x-NBOMe"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

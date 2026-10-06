@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q16252338",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q16252338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10AD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Insulin degludec"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q16252338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10AE06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Insulin degludec"
+      }
+    }
+  ]
+}

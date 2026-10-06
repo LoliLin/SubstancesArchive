@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412909",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412909"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "certolizumab pegol"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q816759",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q816759"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "beta blocker"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "name": "4-FA",
+  "url": "https://psychonautwiki.org/wiki/4-FA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "4-FA",
+    "4-FMP",
+    "PAL-303",
+    "Flux"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulants"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 40.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 40.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 130.0
+        },
+        "strong": {
+          "min": 130.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.5,
+          "max": 3.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "Methoxetamine"
+    },
+    {
+      "name": "Psychedelics"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "DOx"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

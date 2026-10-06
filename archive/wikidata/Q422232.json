@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422232",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422232"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methotrexate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422232"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methotrexate"
+      }
+    }
+  ]
+}

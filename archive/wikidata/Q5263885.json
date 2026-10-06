@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5263885",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5263885"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "deserpidine"
+      }
+    }
+  ]
+}

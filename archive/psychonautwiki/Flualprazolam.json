@@ -1,0 +1,86 @@
+{
+  "name": "Flualprazolam",
+  "url": "https://psychonautwiki.org/wiki/Flualprazolam",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Flualprazolam"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.05,
+        "heavy": 1.0,
+        "light": {
+          "min": 0.1,
+          "max": 0.3
+        },
+        "common": {
+          "min": 0.3,
+          "max": 0.5
+        },
+        "strong": {
+          "min": 0.5,
+          "max": 1.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

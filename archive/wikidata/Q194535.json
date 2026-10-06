@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q194535",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q194535"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mepartricin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q194535"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mepartricin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q194535"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mepartricin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q194535"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04CX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mepartricin"
+      }
+    }
+  ]
+}

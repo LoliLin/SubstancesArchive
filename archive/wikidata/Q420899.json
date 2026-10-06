@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420899",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420899"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CM03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bromisoval"
+      }
+    }
+  ]
+}

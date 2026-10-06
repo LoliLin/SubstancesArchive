@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423765",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423765"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polymyxins"
+      }
+    }
+  ]
+}

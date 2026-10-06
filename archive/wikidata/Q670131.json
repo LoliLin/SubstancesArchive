@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q670131",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q670131"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "simvastatin"
+      }
+    }
+  ]
+}

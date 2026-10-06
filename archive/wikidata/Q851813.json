@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q851813",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q851813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methohexital"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q851813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methohexital"
+      }
+    }
+  ]
+}

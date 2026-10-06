@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418274",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418274"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AX13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glatiramer acetate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7616156",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7616156"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02BX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "stibophen anhydrous"
+      }
+    }
+  ]
+}

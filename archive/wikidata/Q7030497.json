@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7030497",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7030497"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicomorphine"
+      }
+    }
+  ]
+}

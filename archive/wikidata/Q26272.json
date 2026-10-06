@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q26272",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q26272"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "atropine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q26272"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01FA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "atropine"
+      }
+    }
+  ]
+}

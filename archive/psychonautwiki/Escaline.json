@@ -1,0 +1,90 @@
+{
+  "name": "Escaline",
+  "url": "https://psychonautwiki.org/wiki/Escaline",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Escaline"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 30.0,
+          "max": 50.0
+        },
+        "common": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 90.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 8.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5637062",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5637062"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hachimycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5637062"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hachimycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5637062"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hachimycin"
+      }
+    }
+  ]
+}

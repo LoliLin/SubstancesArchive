@@ -1,0 +1,79 @@
+{
+  "name": "Secobarbital",
+  "url": "https://psychonautwiki.org/wiki/Secobarbital",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Secobarbital",
+    "Secobarbitone",
+    "Seconal"
+  ],
+  "class": {
+    "chemical": [
+      "Barbiturates"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "moderate toxicity"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": null,
+        "light": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "common": {
+          "min": 50.0,
+          "max": 150.0
+        },
+        "strong": {
+          "min": 150.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

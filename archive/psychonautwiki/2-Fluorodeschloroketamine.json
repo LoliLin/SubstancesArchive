@@ -1,0 +1,149 @@
+{
+  "name": "2-Fluorodeschloroketamine",
+  "url": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine",
+  "featured": true,
+  "systematicName": "2-(2-Fluorophenyl)-2-methylamino-cyclohexanone",
+  "commonNames": [
+    "2-Fluorodeschloroketamine",
+    "Fluoroketamine",
+    "2-FDCK"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "unsafeInteractions": null,
+  "uncertainInteractions": [
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ],
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 175.0,
+        "light": {
+          "min": 10.0,
+          "max": 45.0
+        },
+        "common": {
+          "min": 45.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 175.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 1.5,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 140.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 70.0
+        },
+        "strong": {
+          "min": 70.0,
+          "max": 140.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 50.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 50.0,
+          "max": 100.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": {
+          "min": 2.5,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 8.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

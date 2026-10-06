@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415654",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415654"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05DB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clobutinol"
+      }
+    }
+  ]
+}

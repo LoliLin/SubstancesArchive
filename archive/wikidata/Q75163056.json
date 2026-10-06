@@ -1,0 +1,95 @@
+{
+  "item": "http://www.wikidata.org/entity/Q75163056",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q75163056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-miconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q75163056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-miconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q75163056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-miconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q75163056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-miconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q75163056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J02AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-miconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q75163056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-miconazole"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q15424759",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15424759"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AC27"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "selexipag"
+      }
+    }
+  ]
+}

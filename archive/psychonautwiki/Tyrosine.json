@@ -1,0 +1,115 @@
+{
+  "name": "Tyrosine",
+  "url": "https://psychonautwiki.org/wiki/Tyrosine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Tyrosine",
+    "L-Tyrosine",
+    "4-Hydroxyphenylalanine"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines",
+      "Amino acid"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "after repeated and frequent usage",
+    "half": "7 days",
+    "zero": "14 days"
+  },
+  "crossTolerances": [
+    "dopamine"
+  ],
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "mildly habit forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 300.0,
+        "heavy": 3000.0,
+        "light": {
+          "min": 500.0,
+          "max": 1000.0
+        },
+        "common": {
+          "min": 1000.0,
+          "max": 2000.0
+        },
+        "strong": {
+          "min": 2000.0,
+          "max": 3000.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

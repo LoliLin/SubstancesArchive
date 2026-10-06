@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3704421",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3704421"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02CC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "debrisoquin"
+      }
+    }
+  ]
+}

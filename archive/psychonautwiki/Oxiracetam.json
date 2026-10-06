@@ -1,0 +1,74 @@
+{
+  "name": "Oxiracetam",
+  "url": "https://psychonautwiki.org/wiki/Oxiracetam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Oxiracetam"
+  ],
+  "class": {
+    "chemical": [
+      "Racetams"
+    ],
+    "psychoactive": [
+      "Stimulants",
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "racetam",
+    "nootropic"
+  ],
+  "toxicity": [
+    "safe even when high doses are consumed for a long period of time",
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "non-addictive with a low potential for abuse",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 250.0,
+        "heavy": 2400.0,
+        "light": {
+          "min": 500.0,
+          "max": 1200.0
+        },
+        "common": {
+          "min": 1200.0,
+          "max": 1800.0
+        },
+        "strong": {
+          "min": 1800.0,
+          "max": 2400.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 8.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

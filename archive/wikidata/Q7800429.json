@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7800429",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7800429"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tibezonium iodide"
+      }
+    }
+  ]
+}

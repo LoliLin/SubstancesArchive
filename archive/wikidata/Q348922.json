@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q348922",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q348922"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "busulfan"
+      }
+    }
+  ]
+}

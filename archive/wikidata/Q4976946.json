@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4976946",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4976946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "broxyquinoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4976946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "broxyquinoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4976946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "broxyquinoline"
+      }
+    }
+  ]
+}

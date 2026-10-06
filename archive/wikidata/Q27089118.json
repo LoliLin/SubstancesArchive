@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27089118",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27089118"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07XX13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "valbenazine"
+      }
+    }
+  ]
+}

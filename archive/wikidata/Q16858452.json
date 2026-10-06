@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q16858452",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q16858452"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BD11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "catridecacog"
+      }
+    }
+  ]
+}

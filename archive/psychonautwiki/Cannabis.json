@@ -1,0 +1,220 @@
+{
+  "name": "Cannabis",
+  "url": "https://psychonautwiki.org/wiki/Cannabis",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Cannabis",
+    "Marijuana",
+    "Weed",
+    "Pot",
+    "Mary Jane",
+    "Grass",
+    "Herb",
+    "Green",
+    "Bud",
+    "Tree",
+    "THC"
+  ],
+  "class": {
+    "chemical": [
+      "Cannabinoid"
+    ],
+    "psychoactive": null
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "1 - 2 weeks",
+    "zero": "2 - 3 weeks"
+  },
+  "crossTolerances": [
+    "cannabinoids"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately habit-forming",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 25.0,
+        "light": {
+          "min": 2.5,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.4,
+        "heavy": 10.0,
+        "light": {
+          "min": 0.4,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 10.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 0.1,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.5,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 45.0,
+          "max": 180.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DMT"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "LSD"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "Mushrooms"
+    },
+    {
+      "name": "25x-NBOMe"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

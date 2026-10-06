@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408676",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408676"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "piroxicam"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408676"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "piroxicam"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408676"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "piroxicam"
+      }
+    }
+  ]
+}

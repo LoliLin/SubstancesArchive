@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q16274676",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q16274676"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "copper IUD"
+      }
+    }
+  ]
+}

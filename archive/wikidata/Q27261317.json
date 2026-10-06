@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27261317",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27261317"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01MA25"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lascufloxacin"
+      }
+    }
+  ]
+}

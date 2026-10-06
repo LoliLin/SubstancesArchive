@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q414462",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414462"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AF02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "apixaban"
+      }
+    }
+  ]
+}

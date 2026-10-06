@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421567",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421567"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethosuximide"
+      }
+    }
+  ]
+}

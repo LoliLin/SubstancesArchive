@@ -1,0 +1,19 @@
+{
+  "item": "http://www.wikidata.org/entity/Q10435528",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10435528"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC03"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q10435528"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2943789",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2943789"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitazoxanide"
+      }
+    }
+  ]
+}

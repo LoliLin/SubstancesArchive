@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7272085",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7272085"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A14AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "quinbolone"
+      }
+    }
+  ]
+}

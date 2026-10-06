@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27286979",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27286979"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09IX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iobenguane I-131"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27286979"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V10XA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iobenguane I-131"
+      }
+    }
+  ]
+}

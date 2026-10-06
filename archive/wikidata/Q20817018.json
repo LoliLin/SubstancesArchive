@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20817018",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817018"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05BB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "myristyl sulfate"
+      }
+    }
+  ]
+}

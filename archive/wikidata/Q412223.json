@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412223",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412223"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amphotericin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412223"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amphotericin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412223"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amphotericin B"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412223"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J02AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amphotericin B"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7698204",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7698204"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "temoporfin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418145",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418145"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clemastine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418145"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clemastine"
+      }
+    }
+  ]
+}

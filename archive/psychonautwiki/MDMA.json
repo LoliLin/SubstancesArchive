@@ -1,0 +1,163 @@
+{
+  "name": "MDMA",
+  "url": "https://psychonautwiki.org/wiki/MDMA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "MDMA",
+    "Molly",
+    "Mandy",
+    "Emma",
+    "MD",
+    "Ecstasy",
+    "E",
+    "X",
+    "XTC",
+    "Rolls",
+    "Beans",
+    "Pingers"
+  ],
+  "class": {
+    "chemical": [
+      "Amphetamine",
+      "MDxx",
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged and repeated use",
+    "half": "1 month",
+    "zero": "2.5 months"
+  },
+  "crossTolerances": [
+    "dopaminergic",
+    "serotonergic",
+    "stimulant"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 20.0,
+          "max": 80.0
+        },
+        "common": {
+          "min": 80.0,
+          "max": 120.0
+        },
+        "strong": {
+          "min": 120.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.5,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 12.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "ΑMT"
+    },
+    {
+      "name": "Protease Inhibitors"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "SNRIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "DXM"
+    }
+  ]
+}

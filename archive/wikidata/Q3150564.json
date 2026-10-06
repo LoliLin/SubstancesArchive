@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3150564",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3150564"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03G"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ovulation induction"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q907104",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q907104"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01EB18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ranolazine"
+      }
+    }
+  ]
+}

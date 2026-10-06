@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422482",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422482"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gentamicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422482"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01GB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gentamicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422482"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gentamicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422482"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gentamicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422482"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gentamicin"
+      }
+    }
+  ]
+}

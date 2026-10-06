@@ -1,0 +1,35 @@
+{
+  "name": "Changa",
+  "url": "https://psychonautwiki.org/wiki/Changa",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": null,
+  "class": null,
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": null,
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

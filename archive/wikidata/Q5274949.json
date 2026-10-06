@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5274949",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5274949"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dienestrol (E,E-isomer)"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5274949"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dienestrol (E,E-isomer)"
+      }
+    }
+  ]
+}

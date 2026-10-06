@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410374",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410374"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "papaverine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410374"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "papaverine"
+      }
+    }
+  ]
+}

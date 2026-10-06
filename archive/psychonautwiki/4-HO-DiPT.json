@@ -1,0 +1,99 @@
+{
+  "name": "4-HO-DiPT",
+  "url": "https://psychonautwiki.org/wiki/4-HO-DiPT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "4-HO-DiPT",
+    "Iprocin"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 3.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

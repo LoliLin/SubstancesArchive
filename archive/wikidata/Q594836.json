@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q594836",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q594836"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-magnesium lactate"
+      }
+    }
+  ]
+}

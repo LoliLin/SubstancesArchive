@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420035",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420035"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfasalazine"
+      }
+    }
+  ]
+}

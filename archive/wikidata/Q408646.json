@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408646",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AE04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triclosan"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triclosan"
+      }
+    }
+  ]
+}

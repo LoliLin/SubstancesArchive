@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2211523",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2211523"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04BD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "safinamide"
+      }
+    }
+  ]
+}

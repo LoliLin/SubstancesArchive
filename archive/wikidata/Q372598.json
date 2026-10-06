@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q372598",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q372598"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01EB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfisoxazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q372598"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfisoxazole"
+      }
+    }
+  ]
+}

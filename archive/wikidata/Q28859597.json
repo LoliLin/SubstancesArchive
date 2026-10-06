@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28859597",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28859597"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BD13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alogliptin / metformin"
+      }
+    }
+  ]
+}

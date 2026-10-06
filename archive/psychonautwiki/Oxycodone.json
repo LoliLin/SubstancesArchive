@@ -1,0 +1,260 @@
+{
+  "name": "Oxycodone",
+  "url": "https://psychonautwiki.org/wiki/Oxycodone",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "OxyContin",
+    "Oxy",
+    "Roxicodone",
+    "Oxecta",
+    "OxyIR",
+    "Endone",
+    "Oxynor",
+    "Codilek",
+    "Oxydor",
+    "Redocam",
+    "Oxygesic",
+    "Percodan",
+    "Percocet"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 25.0,
+        "light": {
+          "min": 2.5,
+          "max": 7.5
+        },
+        "common": {
+          "min": 7.5,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 2.0,
+          "max": 7.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.5,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 45.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 15.0,
+        "light": {
+          "min": 2.5,
+          "max": 5.0
+        },
+        "common": {
+          "min": 7.5,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 12.5,
+          "max": 15.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 0.0,
+          "max": 1.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 40.0,
+        "light": {
+          "min": 2.5,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "strong": {
+          "min": 25.0,
+          "max": 40.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 0.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 1.5,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 35.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    }
+  ]
+}

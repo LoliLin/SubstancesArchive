@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7181394",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7181394"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AH04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenoperidine"
+      }
+    }
+  ]
+}

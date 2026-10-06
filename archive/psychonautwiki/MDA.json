@@ -1,0 +1,136 @@
+{
+  "name": "MDA",
+  "url": "https://psychonautwiki.org/wiki/MDA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "MDA",
+    "Sass",
+    "Sally",
+    "Tenamfetamine"
+  ],
+  "class": {
+    "chemical": [
+      "Amphetamine"
+    ],
+    "psychoactive": [
+      "Psychedelic",
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "repeated and heavy usage",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic",
+    "stimulant"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 145.0,
+        "light": {
+          "min": 40.0,
+          "max": 60.0
+        },
+        "common": {
+          "min": 60.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 145.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.5,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

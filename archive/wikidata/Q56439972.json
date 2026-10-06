@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q56439972",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q56439972"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05D"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "peritoneal dialysis fluid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4880388",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4880388"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01ED06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "befunolol"
+      }
+    }
+  ]
+}

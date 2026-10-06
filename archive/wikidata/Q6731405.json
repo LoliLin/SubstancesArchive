@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6731405",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6731405"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Magnesium pyridoxal 5-phosphate glutamate"
+      }
+    }
+  ]
+}

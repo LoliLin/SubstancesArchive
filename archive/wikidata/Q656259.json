@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q656259",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q656259"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pheniramine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q656259"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pheniramine"
+      }
+    }
+  ]
+}

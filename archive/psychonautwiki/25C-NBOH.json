@@ -1,0 +1,94 @@
+{
+  "name": "25C-NBOH",
+  "url": "https://psychonautwiki.org/wiki/25C-NBOH",
+  "featured": true,
+  "systematicName": "2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine",
+  "commonNames": [
+    "25C-NBOH"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "1 week",
+    "zero": "2 weeks"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "potentially fatal at heavy dosages"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 100.0,
+        "heavy": null,
+        "light": {
+          "min": 250.0,
+          "max": 500.0
+        },
+        "common": {
+          "min": 500.0,
+          "max": 750.0
+        },
+        "strong": {
+          "min": 750.0,
+          "max": 1000.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 5.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

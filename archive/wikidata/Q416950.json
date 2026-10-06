@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416950",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416950"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levonorgestrel"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416950"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levonorgestrel"
+      }
+    }
+  ]
+}

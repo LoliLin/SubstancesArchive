@@ -1,0 +1,123 @@
+{
+  "name": "JWH-073",
+  "url": "https://psychonautwiki.org/wiki/JWH-073",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "JWH-073",
+    "Spice"
+  ],
+  "class": {
+    "chemical": [
+      "Naphthoylindole"
+    ],
+    "psychoactive": [
+      "Cannabinoid"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "cannabinoids"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": null,
+        "light": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 15.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DMT"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "LSD"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "Mushrooms"
+    },
+    {
+      "name": "25x-NBOMe"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

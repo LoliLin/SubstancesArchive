@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q975059",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q975059"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ulipristal acetate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q975059"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03XB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ulipristal acetate"
+      }
+    }
+  ]
+}

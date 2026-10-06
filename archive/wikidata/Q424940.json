@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424940",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424940"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01MA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "moxifloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424940"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AE07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "moxifloxacin"
+      }
+    }
+  ]
+}

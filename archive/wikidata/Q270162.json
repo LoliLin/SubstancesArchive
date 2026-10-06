@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q270162",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q270162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyquinoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q270162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AH03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyquinoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q270162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AC30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyquinoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q270162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyquinoline"
+      }
+    }
+  ]
+}

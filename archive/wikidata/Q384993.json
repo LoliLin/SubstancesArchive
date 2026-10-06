@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q384993",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q384993"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoflurophate"
+      }
+    }
+  ]
+}

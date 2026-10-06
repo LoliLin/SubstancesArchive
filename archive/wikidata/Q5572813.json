@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5572813",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5572813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glymidine"
+      }
+    }
+  ]
+}

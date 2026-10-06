@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q523771",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q523771"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azanidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q523771"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azanidazole"
+      }
+    }
+  ]
+}

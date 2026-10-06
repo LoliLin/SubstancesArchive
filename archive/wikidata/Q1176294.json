@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1176294",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1176294"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AA30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metharbital"
+      }
+    }
+  ]
+}

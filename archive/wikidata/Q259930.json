@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q259930",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q259930"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fusidic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q259930"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fusidic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q259930"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fusidic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q259930"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fusidic acid"
+      }
+    }
+  ]
+}

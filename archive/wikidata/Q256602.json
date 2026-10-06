@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q256602",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q256602"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01MA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciprofloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q256602"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AE03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciprofloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q256602"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciprofloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q256602"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciprofloxacin"
+      }
+    }
+  ]
+}

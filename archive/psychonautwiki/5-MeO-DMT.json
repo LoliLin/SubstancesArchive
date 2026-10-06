@@ -1,0 +1,182 @@
+{
+  "name": "5-MeO-DMT",
+  "url": "https://psychonautwiki.org/wiki/5-MeO-DMT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "5-MeO-DMT",
+    "The God Molecule",
+    "Toad",
+    "Jaguar"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "1 hour",
+    "zero": "2 hours"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "non-addictive with a low abuse potential",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": null,
+        "light": {
+          "min": 5.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 10.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 20.0,
+        "light": {
+          "min": 3.0,
+          "max": 6.0
+        },
+        "common": {
+          "min": 6.0,
+          "max": 12.0
+        },
+        "strong": {
+          "min": 12.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 60.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "seconds"
+        },
+        "peak": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "afterglow": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "NBOMe"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "PCP"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5102980",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5102980"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03DB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlormadinone acetate"
+      }
+    }
+  ]
+}

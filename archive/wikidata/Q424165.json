@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424165",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424165"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02DC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "minoxidil"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424165"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "minoxidil"
+      }
+    }
+  ]
+}

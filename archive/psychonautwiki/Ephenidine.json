@@ -1,0 +1,79 @@
+{
+  "name": "Ephenidine",
+  "url": "https://psychonautwiki.org/wiki/Ephenidine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ephenidine",
+    "NEDPA"
+  ],
+  "class": {
+    "chemical": [
+      "Diarylethylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 30.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 30.0,
+          "max": 70.0
+        },
+        "common": {
+          "min": 70.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 5.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Depressants"
+    }
+  ]
+}

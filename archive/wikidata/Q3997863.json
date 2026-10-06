@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3997863",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3997863"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XC14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ado-trastuzumab emtansine"
+      }
+    }
+  ]
+}

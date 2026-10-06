@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q33093419",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q33093419"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Polysulfated glycosaminoglycan"
+      }
+    }
+  ]
+}

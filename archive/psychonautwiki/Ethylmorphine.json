@@ -1,0 +1,111 @@
+{
+  "name": "Ethylmorphine",
+  "url": "https://psychonautwiki.org/wiki/Ethylmorphine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ethylmorphine",
+    "Codethyline",
+    "Dionine"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+  ],
+  "addictionPotential": "very addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 200.0,
+        "light": {
+          "min": 40.0,
+          "max": 50.0
+        },
+        "common": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 200.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    }
+  ]
+}

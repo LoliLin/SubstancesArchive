@@ -1,0 +1,155 @@
+{
+  "item": "http://www.wikidata.org/entity/Q11426176",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01CB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11426176"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisolone"
+      }
+    }
+  ]
+}

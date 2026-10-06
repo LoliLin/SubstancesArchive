@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q214863",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q214863"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iron(II) sulfate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q214863"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03AD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iron(II) sulfate"
+      }
+    }
+  ]
+}

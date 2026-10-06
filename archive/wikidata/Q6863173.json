@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6863173",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6863173"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "minaprine"
+      }
+    }
+  ]
+}

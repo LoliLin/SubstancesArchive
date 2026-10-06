@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q368941",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q368941"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lofepramine"
+      }
+    }
+  ]
+}

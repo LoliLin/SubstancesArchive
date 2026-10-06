@@ -1,0 +1,64 @@
+{
+  "name": "MiPT",
+  "url": "https://psychonautwiki.org/wiki/MiPT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "MiPT"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": 75.0,
+        "light": null,
+        "common": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "strong": {
+          "min": 25.0,
+          "max": 75.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

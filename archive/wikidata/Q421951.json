@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421951",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421951"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "kanamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421951"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01GB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "kanamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421951"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA24"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "kanamycin"
+      }
+    }
+  ]
+}

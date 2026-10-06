@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4918862",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4918862"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bithionol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4918862"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02BX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bithionol"
+      }
+    }
+  ]
+}

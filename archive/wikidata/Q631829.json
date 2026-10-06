@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q631829",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q631829"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03FA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alizapride"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417222",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417222"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methylprednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417222"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methylprednisolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417222"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methylprednisolone"
+      }
+    }
+  ]
+}

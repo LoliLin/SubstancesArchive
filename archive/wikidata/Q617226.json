@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q617226",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q617226"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thonzylamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q617226"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thonzylamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q617226"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thonzylamine"
+      }
+    }
+  ]
+}

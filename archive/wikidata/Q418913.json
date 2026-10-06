@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418913",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418913"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06BA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "armodafinil"
+      }
+    }
+  ]
+}

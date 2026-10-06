@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5379471",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5379471"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CE03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "enoximone"
+      }
+    }
+  ]
+}

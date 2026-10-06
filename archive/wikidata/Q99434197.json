@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q99434197",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q99434197"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mesulfen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q99434197"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P03AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mesulfen"
+      }
+    }
+  ]
+}

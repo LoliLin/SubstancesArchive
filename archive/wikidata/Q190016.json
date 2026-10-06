@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q190016",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q190016"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heparin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q190016"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heparin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q190016"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heparin"
+      }
+    }
+  ]
+}

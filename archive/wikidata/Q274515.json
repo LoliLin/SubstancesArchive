@@ -1,0 +1,110 @@
+{
+  "item": "http://www.wikidata.org/entity/Q274515",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AF03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloramphenicol"
+      }
+    }
+  ]
+}

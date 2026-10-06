@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q729213",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q729213"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C08CA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicardipine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423401",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423401"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01DA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isosorbide mononitrate"
+      }
+    }
+  ]
+}

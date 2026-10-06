@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5462793",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462793"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocortolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462793"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocortolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462793"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocortolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462793"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocortolone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "name": "25I-NBOMe",
+  "url": "https://psychonautwiki.org/wiki/25I-NBOMe",
+  "featured": true,
+  "systematicName": "2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+  "commonNames": [
+    "25i-NBOMe",
+    "25i",
+    "Cimbi-5"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "1 week",
+    "zero": "2 weeks"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "potentially fatal at heavy dosages"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxt"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "MXE"
+    }
+  ],
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": null,
+        "light": {
+          "min": 200.0,
+          "max": 500.0
+        },
+        "common": {
+          "min": 500.0,
+          "max": 700.0
+        },
+        "strong": {
+          "min": 700.0,
+          "max": null
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 120.0,
+          "max": 180.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 7.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": null,
+        "light": {
+          "min": 200.0,
+          "max": 500.0
+        },
+        "common": {
+          "min": 500.0,
+          "max": 700.0
+        },
+        "strong": {
+          "min": 700.0,
+          "max": 1000.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

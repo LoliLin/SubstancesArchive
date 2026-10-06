@@ -1,0 +1,122 @@
+{
+  "name": "GBL",
+  "url": "https://psychonautwiki.org/wiki/GBL",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "GBL",
+    "gamma-Butyrolactone"
+  ],
+  "class": {
+    "chemical": [
+      "Lactone"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within several days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": "highly physically and moderately to highly psychologically addictive",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mL",
+        "threshold": 0.3,
+        "heavy": 3.0,
+        "light": {
+          "min": 0.3,
+          "max": 0.9
+        },
+        "common": {
+          "min": 0.9,
+          "max": 1.5
+        },
+        "strong": {
+          "min": 1.5,
+          "max": 3.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 30.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Cocaine"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Benzodiazepines"
+    }
+  ]
+}

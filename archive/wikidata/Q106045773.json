@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q106045773",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q106045773"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01DB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "5,12-Naphthacenedione, 10-[[3-amino-2,3,6-trideoxy-4-O-(tetrahydro-2H-pyran-2-yl)-α-L-lyxo-hexopyranosyl]oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-, [8S-[8α,10α(R*)]]-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413772",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413772"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413772"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolazoline"
+      }
+    }
+  ]
+}

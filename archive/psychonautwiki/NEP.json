@@ -1,0 +1,201 @@
+{
+  "name": "NEP",
+  "url": "https://psychonautwiki.org/wiki/NEP",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "N-Ethylpentedrone",
+    "NEP",
+    "Ethyl-Pentedrone"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 60.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "strong": {
+          "min": 40.0,
+          "max": 60.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 8.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 60.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 40.0
+        },
+        "strong": {
+          "min": 40.0,
+          "max": 60.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 50.0,
+        "light": {
+          "min": 5.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 50.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 1.5,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

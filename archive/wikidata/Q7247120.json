@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7247120",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7247120"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "procaterol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7247120"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "procaterol"
+      }
+    }
+  ]
+}

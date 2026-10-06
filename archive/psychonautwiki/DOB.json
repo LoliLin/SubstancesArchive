@@ -1,0 +1,104 @@
+{
+  "name": "DOB",
+  "url": "https://psychonautwiki.org/wiki/DOB",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DOB",
+    "Brolamfetamine",
+    "Bromo-DMA"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "4-7 days",
+    "zero": "7-10 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.2,
+        "heavy": 3.0,
+        "light": {
+          "min": 0.2,
+          "max": 0.75
+        },
+        "common": {
+          "min": 0.75,
+          "max": 1.75
+        },
+        "strong": {
+          "min": 1.75,
+          "max": 3.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 14.0,
+          "max": 24.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 16.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

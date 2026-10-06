@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422645",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422645"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AG03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "efavirenz"
+      }
+    }
+  ]
+}

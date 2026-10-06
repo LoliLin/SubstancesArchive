@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417625",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417625"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01DC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mitomycins"
+      }
+    }
+  ]
+}

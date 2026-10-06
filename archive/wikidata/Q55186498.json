@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q55186498",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q55186498"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AF03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-thiopental"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q55186498"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CA19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-thiopental"
+      }
+    }
+  ]
+}

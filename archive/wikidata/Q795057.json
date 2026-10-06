@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q795057",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q795057"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE26"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cabozantinib"
+      }
+    }
+  ]
+}

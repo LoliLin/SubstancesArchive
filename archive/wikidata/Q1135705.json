@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1135705",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1135705"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J04AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rifabutin"
+      }
+    }
+  ]
+}

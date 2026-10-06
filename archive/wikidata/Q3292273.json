@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3292273",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3292273"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "orphenadrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3292273"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "orphenadrine"
+      }
+    }
+  ]
+}

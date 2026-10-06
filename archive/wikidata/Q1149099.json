@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1149099",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1149099"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methazolamide"
+      }
+    }
+  ]
+}

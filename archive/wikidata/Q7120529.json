@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7120529",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7120529"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB38"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "andexanet alfa"
+      }
+    }
+  ]
+}

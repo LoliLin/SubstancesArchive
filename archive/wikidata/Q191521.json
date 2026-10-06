@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q191521",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q191521"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BE03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sildenafil"
+      }
+    }
+  ]
+}

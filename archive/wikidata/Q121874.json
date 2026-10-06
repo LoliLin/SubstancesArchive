@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q121874",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q121874"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium iodide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q121874"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium iodide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q121874"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium iodide"
+      }
+    }
+  ]
+}

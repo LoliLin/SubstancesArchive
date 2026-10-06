@@ -1,0 +1,155 @@
+{
+  "name": "DMT",
+  "url": "https://psychonautwiki.org/wiki/DMT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DMT",
+    "N,N-DMT",
+    "Dmitry",
+    "The Glory",
+    "The Spirit Molecule"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "does not appear to occur",
+    "half": null,
+    "zero": null
+  },
+  "crossTolerances": [
+    "psychedelics"
+  ],
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "non-addictive with a low abuse potential",
+  "roas": [
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 4.0,
+        "heavy": 20.0,
+        "light": {
+          "min": 4.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 2.0,
+          "max": 10.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 70.0,
+          "max": 100.0,
+          "units": "seconds"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 60.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "strong": {
+          "min": 40.0,
+          "max": 60.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 8.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 6.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "afterglow": {
+          "min": 10.0,
+          "max": 60.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

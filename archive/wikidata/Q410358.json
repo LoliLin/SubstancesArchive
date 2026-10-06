@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410358",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410358"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-salbutamol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410358"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rac-salbutamol"
+      }
+    }
+  ]
+}

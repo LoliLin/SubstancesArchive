@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28163596",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163596"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J04AM02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoniazid/rifampicin"
+      }
+    }
+  ]
+}

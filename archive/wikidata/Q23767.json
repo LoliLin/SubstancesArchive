@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q23767",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q23767"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium carbonate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q23767"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium carbonate"
+      }
+    }
+  ]
+}

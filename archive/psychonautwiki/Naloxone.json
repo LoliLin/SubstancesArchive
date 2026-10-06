@@ -1,0 +1,174 @@
+{
+  "name": "Naloxone",
+  "url": "https://psychonautwiki.org/wiki/Naloxone",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Naloxone",
+    "Narcan",
+    "Evzio"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": null,
+        "light": null,
+        "common": {
+          "min": 1.0,
+          "max": 4.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": {
+          "min": 0.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intramuscular",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": null,
+        "light": null,
+        "common": {
+          "min": 0.4,
+          "max": 2.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": {
+          "min": 0.25,
+          "max": 2.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": null,
+        "light": null,
+        "common": {
+          "min": 0.4,
+          "max": 2.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": {
+          "min": 0.25,
+          "max": 2.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 4.0,
+        "heavy": 28.0,
+        "light": {
+          "min": 4.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 16.0
+        },
+        "strong": {
+          "min": 16.0,
+          "max": 28.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q434298",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q434298"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code S01"
+      }
+    }
+  ]
+}

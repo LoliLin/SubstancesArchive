@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27262770",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27262770"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V10BX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "strontium chloride sr-89"
+      }
+    }
+  ]
+}

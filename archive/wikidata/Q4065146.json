@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4065146",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4065146"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vasoprotective"
+      }
+    }
+  ]
+}

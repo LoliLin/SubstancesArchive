@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q259569",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q259569"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code J05"
+      }
+    }
+  ]
+}

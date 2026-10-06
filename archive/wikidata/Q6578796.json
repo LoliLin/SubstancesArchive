@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6578796",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6578796"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thenalidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6578796"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thenalidine"
+      }
+    }
+  ]
+}

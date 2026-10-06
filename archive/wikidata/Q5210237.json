@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5210237",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5210237"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dalbavancin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4008956",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4008956"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01D"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vasodilator agent"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4008956"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vasodilator agent"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416667",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416667"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "medroxyprogesterone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416667"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03DA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "medroxyprogesterone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416667"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L02AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "medroxyprogesterone"
+      }
+    }
+  ]
+}

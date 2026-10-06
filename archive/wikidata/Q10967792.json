@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q10967792",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10967792"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04BA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "melevodopa"
+      }
+    }
+  ]
+}

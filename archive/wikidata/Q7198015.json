@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7198015",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7198015"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06BX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pirisudanol"
+      }
+    }
+  ]
+}

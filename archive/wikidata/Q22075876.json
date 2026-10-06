@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q22075876",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q22075876"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "human fibrinogen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6890329",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6890329"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mofebutazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6890329"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mofebutazone"
+      }
+    }
+  ]
+}

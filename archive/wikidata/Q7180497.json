@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7180497",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7180497"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phanquone"
+      }
+    }
+  ]
+}

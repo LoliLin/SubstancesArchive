@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1236146",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1236146"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pinaverium"
+      }
+    }
+  ]
+}

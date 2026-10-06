@@ -1,0 +1,130 @@
+{
+  "name": "Armodafinil",
+  "url": "https://psychonautwiki.org/wiki/Armodafinil",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Armodafinil",
+    "Nuvigil",
+    "Waklert",
+    "Artvigil",
+    "R-Modawake",
+    "Neoresotyl"
+  ],
+  "class": {
+    "chemical": [
+      "Benzhydryl"
+    ],
+    "psychoactive": [
+      "Stimulants",
+      "Eugeroics"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "benzhydryl",
+    "nootropic"
+  ],
+  "toxicity": [
+    "The median lethal dose at which 50% of participants die (LD50) from either armodafinil or modafinil for human beings has never been reached"
+  ],
+  "addictionPotential": "mildly addictive with a low potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 40.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "strong": {
+          "min": 200.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 4.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 15.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Hormonal birth control"
+    }
+  ]
+}

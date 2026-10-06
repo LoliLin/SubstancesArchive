@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2186476",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2186476"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "adrenalone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2186476"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "adrenalone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3077133",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3077133"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA31"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "teriflunomide"
+      }
+    }
+  ]
+}

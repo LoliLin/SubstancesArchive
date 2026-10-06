@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4383636",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4383636"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flumetasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4383636"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flumetasone"
+      }
+    }
+  ]
+}

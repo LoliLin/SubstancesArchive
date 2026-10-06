@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424446",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424446"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lisuride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424446"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02CA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lisuride"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27077223",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27077223"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BK04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ertugliflozin"
+      }
+    }
+  ]
+}

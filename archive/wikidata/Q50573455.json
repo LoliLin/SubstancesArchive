@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q50573455",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q50573455"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AE"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antihyperkalemic agents"
+      }
+    }
+  ]
+}

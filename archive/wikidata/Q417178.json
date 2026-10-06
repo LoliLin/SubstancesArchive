@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417178",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417178"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CM02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clomethiazole"
+      }
+    }
+  ]
+}

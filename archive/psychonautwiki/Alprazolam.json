@@ -1,0 +1,150 @@
+{
+  "name": "Alprazolam",
+  "url": "https://psychonautwiki.org/wiki/Alprazolam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Xanax",
+    "Alprazolam",
+    "Ksalol"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7-14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol, opioids, or barbiturates"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "inhaled",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.05,
+        "heavy": 1.0,
+        "light": {
+          "min": 0.05,
+          "max": 0.25
+        },
+        "common": {
+          "min": 0.25,
+          "max": 0.5
+        },
+        "strong": {
+          "min": 0.5,
+          "max": 1.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.1,
+        "heavy": 2.0,
+        "light": {
+          "min": 0.25,
+          "max": 0.5
+        },
+        "common": {
+          "min": 0.5,
+          "max": 1.5
+        },
+        "strong": {
+          "min": 1.5,
+          "max": 2.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 50.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

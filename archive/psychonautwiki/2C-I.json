@@ -1,0 +1,102 @@
+{
+  "name": "2C-I",
+  "url": "https://psychonautwiki.org/wiki/2C-I",
+  "featured": true,
+  "systematicName": "2-(4-Iodo-2,5-dimethoxyphenyl)ethan-1-amine",
+  "commonNames": [
+    "2C-I"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3-5 days",
+    "zero": "7-10 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q15708351",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15708351"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AH03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naloxegol"
+      }
+    }
+  ]
+}

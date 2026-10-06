@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416444",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416444"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04BX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "entacapone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423098",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA51"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01GB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423098"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neomycin"
+      }
+    }
+  ]
+}

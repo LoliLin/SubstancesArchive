@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q135368",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q135368"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07FA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Saccharomyces boulardii"
+      }
+    }
+  ]
+}

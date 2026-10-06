@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q8074531",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q8074531"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01DB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Zorubicin"
+      }
+    }
+  ]
+}

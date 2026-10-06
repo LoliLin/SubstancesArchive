@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417813",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX27"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxymetazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxymetazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxymetazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417813"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxymetazoline"
+      }
+    }
+  ]
+}

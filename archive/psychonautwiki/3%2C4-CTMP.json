@@ -1,0 +1,100 @@
+{
+  "name": "3,4-CTMP",
+  "url": "https://psychonautwiki.org/wiki/3%2C4-CTMP",
+  "featured": true,
+  "systematicName": "Methyl 2-(3,4-dichlorophenyl)-2-(piperidin-2-yl)acetate",
+  "commonNames": [
+    "3,4-CTMP"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenidates"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 8.0,
+        "light": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "common": {
+          "min": 4.0,
+          "max": 6.0
+        },
+        "strong": {
+          "min": 6.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 18.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

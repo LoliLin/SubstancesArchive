@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4064289",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4064289"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AX"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "enisamium iodide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4064289"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AX17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "enisamium iodide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424972",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424972"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424972"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prednisone"
+      }
+    }
+  ]
+}

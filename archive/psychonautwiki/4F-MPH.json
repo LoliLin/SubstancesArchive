@@ -1,0 +1,158 @@
+{
+  "name": "4F-MPH",
+  "url": "https://psychonautwiki.org/wiki/4F-MPH",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "4F-MPH",
+    "4-FMPH"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenidates"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 20.0,
+        "light": {
+          "min": 5.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 14.0
+        },
+        "strong": {
+          "min": 14.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 20.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "EPT",
+  "url": "https://psychonautwiki.org/wiki/EPT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "EPT"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "does not produce dependence and has low abuse potential",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": 110.0,
+        "light": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "common": {
+          "min": 40.0,
+          "max": 80.0
+        },
+        "strong": {
+          "min": 80.0,
+          "max": 110.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

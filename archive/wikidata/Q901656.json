@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q901656",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q901656"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "immunostimulant"
+      }
+    }
+  ]
+}

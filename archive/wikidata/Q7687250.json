@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7687250",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7687250"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CH03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tasimelteon"
+      }
+    }
+  ]
+}

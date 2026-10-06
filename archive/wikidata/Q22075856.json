@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q22075856",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q22075856"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX48"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sonidegib"
+      }
+    }
+  ]
+}

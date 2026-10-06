@@ -1,0 +1,125 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1074056",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1074056"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "triamcinolone"
+      }
+    }
+  ]
+}

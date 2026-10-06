@@ -1,0 +1,144 @@
+{
+  "name": "3-FPM",
+  "url": "https://psychonautwiki.org/wiki/3-FPM",
+  "featured": true,
+  "systematicName": "2-(3-Fluorophenyl)-3-methylmorpholine",
+  "commonNames": [
+    "3-FPM",
+    "PAL-593"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted amphetamines",
+      "Phenylmorpholine"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": null,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 35.0
+        },
+        "strong": {
+          "min": 35.0,
+          "max": 50.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 90.0,
+        "light": {
+          "min": 10.0,
+          "max": 30.0
+        },
+        "common": {
+          "min": 30.0,
+          "max": 60.0
+        },
+        "strong": {
+          "min": 60.0,
+          "max": 90.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

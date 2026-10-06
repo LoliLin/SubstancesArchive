@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420082",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420082"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benoxaprofen"
+      }
+    }
+  ]
+}

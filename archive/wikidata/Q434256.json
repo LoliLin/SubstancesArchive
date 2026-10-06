@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q434256",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q434256"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code R02"
+      }
+    }
+  ]
+}

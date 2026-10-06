@@ -1,0 +1,193 @@
+{
+  "name": "Methoxetamine",
+  "url": "https://psychonautwiki.org/wiki/Methoxetamine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Methoxetamine",
+    "MXE",
+    "Mexxy"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 60.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 35.0
+        },
+        "strong": {
+          "min": 35.0,
+          "max": 60.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 70.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 45.0
+        },
+        "strong": {
+          "min": 45.0,
+          "max": 70.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.5,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "SSRIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "MAOIs"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "ΑMT"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

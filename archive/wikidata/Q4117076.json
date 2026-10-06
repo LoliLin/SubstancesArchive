@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4117076",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4117076"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AE06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Colestilan"
+      }
+    }
+  ]
+}

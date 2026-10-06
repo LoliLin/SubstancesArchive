@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q72073013",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q72073013"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfur compound"
+      }
+    }
+  ]
+}

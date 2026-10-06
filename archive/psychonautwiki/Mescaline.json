@@ -1,0 +1,115 @@
+{
+  "name": "Mescaline",
+  "url": "https://psychonautwiki.org/wiki/Mescaline",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Mescaline",
+    "Peyote",
+    "San Pedro",
+    "Cactus",
+    "Buttons"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 800.0,
+        "light": {
+          "min": 50.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 400.0
+        },
+        "strong": {
+          "min": 400.0,
+          "max": 800.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 14.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 36.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "ΑMT"
+    }
+  ]
+}

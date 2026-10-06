@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5103226",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5103226"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AE07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlorphenesin"
+      }
+    }
+  ]
+}

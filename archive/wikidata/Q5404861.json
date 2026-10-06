@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5404861",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5404861"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03CX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "etozoline"
+      }
+    }
+  ]
+}

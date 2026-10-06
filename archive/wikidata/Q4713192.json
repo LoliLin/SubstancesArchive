@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4713192",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4713192"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alclometasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4713192"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alclometasone"
+      }
+    }
+  ]
+}

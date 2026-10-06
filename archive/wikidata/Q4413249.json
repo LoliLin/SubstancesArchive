@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4413249",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4413249"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "secnidazole"
+      }
+    }
+  ]
+}

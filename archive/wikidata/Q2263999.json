@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2263999",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2263999"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05BA21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clotiazepam"
+      }
+    }
+  ]
+}

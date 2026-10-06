@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408570",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408570"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methoxsalen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408570"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methoxsalen"
+      }
+    }
+  ]
+}

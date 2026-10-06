@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7248362",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7248362"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02BX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "proglumide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q251005",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q251005"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nystatin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q251005"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nystatin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q251005"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nystatin"
+      }
+    }
+  ]
+}

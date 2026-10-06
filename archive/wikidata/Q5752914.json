@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5752914",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5752914"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05CA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hidrosmin"
+      }
+    }
+  ]
+}

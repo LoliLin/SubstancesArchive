@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q139890438",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139890438"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11JA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Dizpharm Multivitamin"
+      }
+    }
+  ]
+}

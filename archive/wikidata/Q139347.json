@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q139347",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139347"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11CC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cholecalciferol"
+      }
+    }
+  ]
+}

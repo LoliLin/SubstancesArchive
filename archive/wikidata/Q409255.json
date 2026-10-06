@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409255",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409255"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09XA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "renin inhibitor"
+      }
+    }
+  ]
+}

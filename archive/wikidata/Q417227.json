@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417227",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417227"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AX14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(S)-etiracetam"
+      }
+    }
+  ]
+}

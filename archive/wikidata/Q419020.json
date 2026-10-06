@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419020",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419020"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BG10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "JWH-018"
+      }
+    }
+  ]
+}

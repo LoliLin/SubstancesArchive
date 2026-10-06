@@ -1,0 +1,68 @@
+{
+  "name": "Ayahuasca",
+  "url": "https://psychonautwiki.org/wiki/Ayahuasca",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+  ],
+  "class": {
+    "chemical": null,
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "LD50 is around 50 times a regular dose"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 8.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

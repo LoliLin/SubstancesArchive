@@ -1,0 +1,125 @@
+{
+  "name": "Kratom",
+  "url": "https://psychonautwiki.org/wiki/Kratom",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Mitragyna Speciosa",
+    "กระท่อม (Thai)",
+    "Ketum",
+    "Kratom",
+    "Kratum"
+  ],
+  "class": {
+    "chemical": [
+      "Indole alkaloids"
+    ],
+    "psychoactive": [
+      "Stimulants",
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "low toxicity"
+  ],
+  "addictionPotential": "produces dependence with chronic use and has a high abuse potential",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "g",
+        "threshold": 1.0,
+        "heavy": 8.0,
+        "light": {
+          "min": 2.0,
+          "max": 3.0
+        },
+        "common": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "strong": {
+          "min": 5.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    }
+  ]
+}

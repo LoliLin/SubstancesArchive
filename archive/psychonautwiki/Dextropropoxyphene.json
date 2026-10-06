@@ -1,0 +1,135 @@
+{
+  "name": "Dextropropoxyphene",
+  "url": "https://psychonautwiki.org/wiki/Dextropropoxyphene",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Dextropropoxyphene",
+    "Propoxyphene",
+    "Darvon"
+  ],
+  "class": {
+    "chemical": [
+      "Phenylpropylamine"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "high toxicity",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
+    "known to cause potentially fatal heart arrhythmias"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 15.0,
+        "heavy": 200.0,
+        "light": {
+          "min": 30.0,
+          "max": 65.0
+        },
+        "common": {
+          "min": 65.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 200.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": null,
+        "afterglow": {
+          "min": 1.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

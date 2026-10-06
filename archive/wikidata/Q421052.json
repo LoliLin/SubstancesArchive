@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421052",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421052"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "everolimus"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421052"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "everolimus"
+      }
+    }
+  ]
+}

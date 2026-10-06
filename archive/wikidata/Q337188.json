@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q337188",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q337188"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A04AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "L-scopolamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q337188"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CM05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "L-scopolamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q337188"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01FA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "L-scopolamine"
+      }
+    }
+  ]
+}

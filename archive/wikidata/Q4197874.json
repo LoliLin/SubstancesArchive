@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4197874",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4197874"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06BX13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "idebenone"
+      }
+    }
+  ]
+}

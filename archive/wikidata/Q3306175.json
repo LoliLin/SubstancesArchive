@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3306175",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3306175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mepolizumab"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3306175"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03DX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mepolizumab"
+      }
+    }
+  ]
+}

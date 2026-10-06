@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7838676",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7838676"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "trepibutone"
+      }
+    }
+  ]
+}

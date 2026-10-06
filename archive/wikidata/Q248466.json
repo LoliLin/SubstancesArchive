@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q248466",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q248466"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "natamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q248466"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "natamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q248466"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "natamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q248466"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "natamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q248466"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "natamycin"
+      }
+    }
+  ]
+}

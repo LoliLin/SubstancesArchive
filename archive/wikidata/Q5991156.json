@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5991156",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5991156"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AX28"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ifenprodil"
+      }
+    }
+  ]
+}

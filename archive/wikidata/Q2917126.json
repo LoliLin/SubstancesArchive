@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2917126",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2917126"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09GA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "technetium Tc-99m sestamibi"
+      }
+    }
+  ]
+}

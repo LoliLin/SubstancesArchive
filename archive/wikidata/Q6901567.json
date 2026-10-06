@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6901567",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6901567"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(Z)-ethanolamine oleate"
+      }
+    }
+  ]
+}

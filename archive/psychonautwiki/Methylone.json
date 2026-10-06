@@ -1,0 +1,137 @@
+{
+  "name": "Methylone",
+  "url": "https://psychonautwiki.org/wiki/Methylone",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Methylone",
+    "bk-MDMA",
+    "M1",
+    "MDMC"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "1 - 3 weeks",
+    "zero": "3 - 6 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 75.0,
+        "heavy": 325.0,
+        "light": {
+          "min": 75.0,
+          "max": 150.0
+        },
+        "common": {
+          "min": 150.0,
+          "max": 225.0
+        },
+        "strong": {
+          "min": 225.0,
+          "max": 325.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.5,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

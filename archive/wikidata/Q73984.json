@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q73984",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q73984"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AX"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "disinfectant"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q73984"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V07AV"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "disinfectant"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424167",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424167"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "finasteride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424167"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04CB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "finasteride"
+      }
+    }
+  ]
+}

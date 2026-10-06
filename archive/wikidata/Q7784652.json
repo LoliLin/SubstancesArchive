@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7784652",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7784652"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J04AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Thiocarlide"
+      }
+    }
+  ]
+}

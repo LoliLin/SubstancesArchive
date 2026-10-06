@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411646",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxytetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxytetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxytetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxytetracycline"
+      }
+    }
+  ]
+}

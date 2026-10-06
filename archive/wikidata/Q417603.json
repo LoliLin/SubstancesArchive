@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417603",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibucaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibucaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibucaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibucaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02DA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibucaine"
+      }
+    }
+  ]
+}

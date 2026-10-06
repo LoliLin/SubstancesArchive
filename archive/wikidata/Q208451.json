@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q208451",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q208451"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium chloride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q208451"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium chloride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q208451"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium chloride"
+      }
+    }
+  ]
+}

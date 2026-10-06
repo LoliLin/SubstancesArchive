@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5131021",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5131021"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03FA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clebopride"
+      }
+    }
+  ]
+}

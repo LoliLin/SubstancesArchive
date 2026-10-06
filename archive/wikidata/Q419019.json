@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419019",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419019"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lentinan"
+      }
+    }
+  ]
+}

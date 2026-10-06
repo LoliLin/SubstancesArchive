@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1077314",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1077314"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code V03"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2358146",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2358146"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ornidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2358146"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ornidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2358146"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ornidazole"
+      }
+    }
+  ]
+}

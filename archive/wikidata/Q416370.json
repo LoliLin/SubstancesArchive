@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416370",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416370"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iron(II) fumarate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416370"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iron(II) fumarate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q375613",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q375613"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05CB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "N-acetyl-L-cysteine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q375613"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "N-acetyl-L-cysteine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q375613"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB23"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "N-acetyl-L-cysteine"
+      }
+    }
+  ]
+}

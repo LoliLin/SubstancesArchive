@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410546",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410546"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neostigmine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410546"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "neostigmine"
+      }
+    }
+  ]
+}

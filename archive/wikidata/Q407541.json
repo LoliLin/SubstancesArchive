@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407541",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407541"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AH01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fentanyl"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407541"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fentanyl"
+      }
+    }
+  ]
+}

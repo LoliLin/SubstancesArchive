@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3702534",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3702534"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BD12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mirabegron"
+      }
+    }
+  ]
+}

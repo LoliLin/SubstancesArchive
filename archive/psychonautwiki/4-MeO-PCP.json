@@ -1,0 +1,141 @@
+{
+  "name": "4-MeO-PCP",
+  "url": "https://psychonautwiki.org/wiki/4-MeO-PCP",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "4-MeO-PCP",
+    "Methoxydine"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 15.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 30.0,
+          "max": 75.0
+        },
+        "common": {
+          "min": 75.0,
+          "max": 150.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": null,
+          "units": "hours"
+        },
+        "total": {
+          "min": 12.0,
+          "max": 18.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": null,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": 250.0,
+        "light": {
+          "min": 75.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 170.0
+        },
+        "strong": {
+          "min": 170.0,
+          "max": 250.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 12.0,
+          "max": 20.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Depressants"
+    }
+  ]
+}

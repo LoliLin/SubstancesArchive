@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6823610",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6823610"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methantheline"
+      }
+    }
+  ]
+}

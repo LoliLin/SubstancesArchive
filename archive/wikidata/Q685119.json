@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q685119",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q685119"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methoxamine"
+      }
+    }
+  ]
+}

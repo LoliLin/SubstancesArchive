@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q665843",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q665843"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thiazide"
+      }
+    }
+  ]
+}

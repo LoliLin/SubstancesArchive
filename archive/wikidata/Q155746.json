@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q155746",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q155746"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H05BX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "paricalcitol"
+      }
+    }
+  ]
+}

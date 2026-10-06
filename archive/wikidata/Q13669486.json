@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q13669486",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q13669486"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01M"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "quinolone antibiotic"
+      }
+    }
+  ]
+}

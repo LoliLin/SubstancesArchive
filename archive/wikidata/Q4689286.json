@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4689286",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4689286"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX44"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aflibercept"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4689286"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01LA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aflibercept"
+      }
+    }
+  ]
+}

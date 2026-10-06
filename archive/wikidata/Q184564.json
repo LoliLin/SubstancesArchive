@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q184564",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q184564"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aldosterone"
+      }
+    }
+  ]
+}

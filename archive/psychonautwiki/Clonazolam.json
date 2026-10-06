@@ -1,0 +1,86 @@
+{
+  "name": "Clonazolam",
+  "url": "https://psychonautwiki.org/wiki/Clonazolam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Clonazolam",
+    "Clonitrazolam",
+    "Clam",
+    "C-lam"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": 500.0,
+        "light": {
+          "min": 75.0,
+          "max": 125.0
+        },
+        "common": {
+          "min": 125.0,
+          "max": 300.0
+        },
+        "strong": {
+          "min": 300.0,
+          "max": 500.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

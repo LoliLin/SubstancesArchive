@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1868462",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1868462"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "local anesthetic"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1868462"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "local anesthetic"
+      }
+    }
+  ]
+}

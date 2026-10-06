@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q134658",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q134658"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicotinic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q134658"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicotinic acid"
+      }
+    }
+  ]
+}

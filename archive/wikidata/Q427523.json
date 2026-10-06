@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q427523",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q427523"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "opioid"
+      }
+    }
+  ]
+}

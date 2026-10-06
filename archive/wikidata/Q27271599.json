@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27271599",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27271599"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AX13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "umifenovir"
+      }
+    }
+  ]
+}

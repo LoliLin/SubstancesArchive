@@ -1,0 +1,93 @@
+{
+  "name": "Diazepam",
+  "url": "https://psychonautwiki.org/wiki/Diazepam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Valium",
+    "Diastat",
+    "Mother's Little Helper",
+    "Apaurin"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7-14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 2.5,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 12.0,
+          "max": 36.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ]
+}

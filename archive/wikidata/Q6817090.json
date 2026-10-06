@@ -1,0 +1,155 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6817090",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817090"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AH09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meningococcal vaccine"
+      }
+    }
+  ]
+}

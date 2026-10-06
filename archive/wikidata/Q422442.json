@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422442",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422442"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB22"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "doxycycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422442"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "doxycycline"
+      }
+    }
+  ]
+}

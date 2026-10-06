@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q22075835",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q22075835"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01CB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "somatostatin"
+      }
+    }
+  ]
+}

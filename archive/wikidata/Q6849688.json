@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6849688",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6849688"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "contrast agent"
+      }
+    }
+  ]
+}

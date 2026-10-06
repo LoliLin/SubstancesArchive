@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q58356",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q58356"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AA17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amoxapine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28208887",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28208887"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mometasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28208887"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mometasone"
+      }
+    }
+  ]
+}

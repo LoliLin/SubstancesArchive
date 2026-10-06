@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3498849",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3498849"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium monofluorophosphate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3498849"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium monofluorophosphate"
+      }
+    }
+  ]
+}

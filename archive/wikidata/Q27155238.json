@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27155238",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27155238"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AF06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Sodium folinate"
+      }
+    }
+  ]
+}

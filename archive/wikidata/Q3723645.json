@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3723645",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3723645"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XC23"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "elotuzumab"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27287834",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27287834"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01LA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anecortave"
+      }
+    }
+  ]
+}

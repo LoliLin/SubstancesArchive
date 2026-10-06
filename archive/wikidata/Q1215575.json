@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1215575",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1215575"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naproxen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1215575"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naproxen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1215575"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naproxen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Psilocin",
+  "url": "https://psychonautwiki.org/wiki/Psilocin",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Psilocin",
+    "Psilocine",
+    "Psilocyn",
+    "Psilotsin",
+    "4-HO-DMT",
+    "4-OH-DMT"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 40.0,
+        "light": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 25.0
+        },
+        "strong": {
+          "min": 25.0,
+          "max": 40.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.5,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

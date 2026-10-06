@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5462984",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462984"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flutrimazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462984"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flutrimazole"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q139857",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139857"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fumaric acid"
+      }
+    }
+  ]
+}

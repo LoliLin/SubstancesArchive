@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q894611",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q894611"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bosutinib"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q178566",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q178566"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chlordiazepoxide"
+      }
+    }
+  ]
+}

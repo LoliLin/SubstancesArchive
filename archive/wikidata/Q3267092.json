@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3267092",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3267092"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "olopatadine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3267092"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "olopatadine"
+      }
+    }
+  ]
+}

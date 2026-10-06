@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7127523",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7127523"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AF08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "palifermin"
+      }
+    }
+  ]
+}

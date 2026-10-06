@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5383041",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5383041"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03GB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epimestrol"
+      }
+    }
+  ]
+}

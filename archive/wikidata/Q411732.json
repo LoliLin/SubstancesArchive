@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411732",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411732"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicotinyl alcohol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411732"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nicotinyl alcohol"
+      }
+    }
+  ]
+}

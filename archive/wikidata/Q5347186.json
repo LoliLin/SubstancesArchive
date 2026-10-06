@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5347186",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5347186"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "efaproxiral"
+      }
+    }
+  ]
+}

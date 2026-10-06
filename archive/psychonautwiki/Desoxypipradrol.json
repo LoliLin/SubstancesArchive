@@ -1,0 +1,162 @@
+{
+  "name": "Desoxypipradrol",
+  "url": "https://psychonautwiki.org/wiki/Desoxypipradrol",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Desoxypipradol",
+    "2-DPMP",
+    "Ivory Wave"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted piperidines"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.25,
+        "heavy": 5.0,
+        "light": {
+          "min": 0.5,
+          "max": 1.5
+        },
+        "common": {
+          "min": 1.5,
+          "max": 3.5
+        },
+        "strong": {
+          "min": 3.5,
+          "max": 5.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 240.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 6.0,
+          "max": 30.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 6.0,
+          "max": 40.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 10.0,
+          "max": 72.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.25,
+        "heavy": 8.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 6.0
+        },
+        "strong": {
+          "min": 6.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 9.0,
+          "max": 30.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 6.0,
+          "max": 40.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 16.0,
+          "max": 72.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

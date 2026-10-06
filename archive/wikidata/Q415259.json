@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415259",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415259"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AE15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "terbinafine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415259"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "terbinafine"
+      }
+    }
+  ]
+}

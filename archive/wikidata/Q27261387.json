@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27261387",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27261387"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11HA31"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium pantothenate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27261387"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D03AX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcium pantothenate"
+      }
+    }
+  ]
+}

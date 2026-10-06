@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q130336",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q130336"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05BB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q130336"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AE03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q130336"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q130336"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenol"
+      }
+    }
+  ]
+}

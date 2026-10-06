@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422418",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422418"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05AL01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-sulpiride"
+      }
+    }
+  ]
+}

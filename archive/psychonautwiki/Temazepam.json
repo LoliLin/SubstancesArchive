@@ -1,0 +1,78 @@
+{
+  "name": "Temazepam",
+  "url": "https://psychonautwiki.org/wiki/Temazepam",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Temazepam",
+    "Restoril",
+    "Normison"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7-14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 40.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 40.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 7.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.5,
+          "max": 18.4,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

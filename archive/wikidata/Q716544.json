@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q716544",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q716544"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzoxonium chloride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q716544"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AJ05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzoxonium chloride"
+      }
+    }
+  ]
+}

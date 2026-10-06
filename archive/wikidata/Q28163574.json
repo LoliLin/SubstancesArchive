@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28163574",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163574"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethinylestradiol/levonorgestrel"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163574"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethinylestradiol/levonorgestrel"
+      }
+    }
+  ]
+}

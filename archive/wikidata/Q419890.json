@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419890",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419890"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-flurbiprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419890"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-flurbiprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419890"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-flurbiprofen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419890"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-flurbiprofen"
+      }
+    }
+  ]
+}

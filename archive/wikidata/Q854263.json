@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q854263",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q854263"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "trioxsalen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q854263"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "trioxsalen"
+      }
+    }
+  ]
+}

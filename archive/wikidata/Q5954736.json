@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5954736",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5954736"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrocortisone buteprate"
+      }
+    }
+  ]
+}

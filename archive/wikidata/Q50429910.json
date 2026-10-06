@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q50429910",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q50429910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cariostatic agent"
+      }
+    }
+  ]
+}

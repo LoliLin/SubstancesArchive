@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3560696",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3560696"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "virginiamycin group"
+      }
+    }
+  ]
+}

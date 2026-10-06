@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3791611",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3791611"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AE13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibuproxam"
+      }
+    }
+  ]
+}

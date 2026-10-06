@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27265805",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27265805"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09IX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorocholine F-18"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27265805"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09IX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorocholine F-18"
+      }
+    }
+  ]
+}

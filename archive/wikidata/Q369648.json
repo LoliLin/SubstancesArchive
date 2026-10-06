@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q369648",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q369648"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolperisone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q369648"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolperisone"
+      }
+    }
+  ]
+}

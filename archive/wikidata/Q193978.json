@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q193978",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193978"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H05BX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cinacalcet"
+      }
+    }
+  ]
+}

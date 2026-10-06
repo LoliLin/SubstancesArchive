@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7234718",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7234718"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium salicylate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5566483",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5566483"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BG03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glafenine"
+      }
+    }
+  ]
+}

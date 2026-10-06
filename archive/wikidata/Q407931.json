@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407931",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407931"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium carbonate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407931"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium carbonate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q50259252",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q50259252"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BD08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "factor VIIa [extracellular region]"
+      }
+    }
+  ]
+}

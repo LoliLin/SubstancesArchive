@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27257213",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27257213"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "avatrombopag"
+      }
+    }
+  ]
+}

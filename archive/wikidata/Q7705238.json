@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7705238",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7705238"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C07AA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tertatolol"
+      }
+    }
+  ]
+}

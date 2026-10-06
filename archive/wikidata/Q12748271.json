@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q12748271",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12748271"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AE"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ergot alkaloids"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12748271"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02AB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ergot alkaloids"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12748271"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ergot alkaloids"
+      }
+    }
+  ]
+}

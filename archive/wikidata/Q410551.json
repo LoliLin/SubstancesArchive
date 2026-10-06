@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410551",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410551"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AE12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "boceprevir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410551"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AP03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "boceprevir"
+      }
+    }
+  ]
+}

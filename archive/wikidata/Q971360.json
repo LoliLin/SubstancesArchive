@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q971360",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q971360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AB12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bemiparin"
+      }
+    }
+  ]
+}

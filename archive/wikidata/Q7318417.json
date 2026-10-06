@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7318417",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7318417"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "reviparin"
+      }
+    }
+  ]
+}

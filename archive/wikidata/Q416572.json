@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416572",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416572"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P03AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thiram"
+      }
+    }
+  ]
+}

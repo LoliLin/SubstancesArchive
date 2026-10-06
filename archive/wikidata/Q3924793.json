@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3924793",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3924793"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01MA17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prulifloxacin"
+      }
+    }
+  ]
+}

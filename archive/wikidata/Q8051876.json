@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q8051876",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q8051876"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BL"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "yellow fever vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q8051876"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BL01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "yellow fever vaccine"
+      }
+    }
+  ]
+}

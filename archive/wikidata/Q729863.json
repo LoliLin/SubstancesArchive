@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q729863",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q729863"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloropyramine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q729863"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloropyramine"
+      }
+    }
+  ]
+}

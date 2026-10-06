@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7517689",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7517689"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AE14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "simeprevir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7517689"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AP05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "simeprevir"
+      }
+    }
+  ]
+}

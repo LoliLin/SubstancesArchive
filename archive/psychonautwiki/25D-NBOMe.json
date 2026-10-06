@@ -1,0 +1,118 @@
+{
+  "name": "25D-NBOMe",
+  "url": "https://psychonautwiki.org/wiki/25D-NBOMe",
+  "featured": true,
+  "systematicName": "1-2-(2,5-Dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethanamine",
+  "commonNames": [
+    "25D-NBOMe"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": [
+    "psychedelics"
+  ],
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxt"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "MXE"
+    }
+  ],
+  "roas": [
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 300.0,
+        "heavy": 1200.0,
+        "light": {
+          "min": 300.0,
+          "max": 800.0
+        },
+        "common": {
+          "min": 800.0,
+          "max": 1000.0
+        },
+        "strong": {
+          "min": 1000.0,
+          "max": 1200.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

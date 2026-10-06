@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27166518",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27166518"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzethonium"
+      }
+    }
+  ]
+}

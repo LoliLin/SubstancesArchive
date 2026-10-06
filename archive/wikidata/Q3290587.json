@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3290587",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3290587"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03DA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antimineralocorticoid"
+      }
+    }
+  ]
+}

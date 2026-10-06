@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423741",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423741"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "procaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423741"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "procaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423741"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "procaine"
+      }
+    }
+  ]
+}

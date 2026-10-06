@@ -1,0 +1,48 @@
+{
+  "name": "25B-NBOH",
+  "url": "https://psychonautwiki.org/wiki/25B-NBOH",
+  "featured": true,
+  "systematicName": "2-({[2-(4-bromo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+  "commonNames": [
+    "25B-NBOH"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "1 week",
+    "zero": "2 weeks"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "potentially fatal at heavy dosages"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": null
+}

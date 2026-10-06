@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2581447",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2581447"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11DA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulbutiamine"
+      }
+    }
+  ]
+}

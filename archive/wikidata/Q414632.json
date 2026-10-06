@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q414632",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414632"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AK30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mercury(II) iodide"
+      }
+    }
+  ]
+}

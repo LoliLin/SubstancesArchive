@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q84976438",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q84976438"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BD14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "susoctocog alfa"
+      }
+    }
+  ]
+}

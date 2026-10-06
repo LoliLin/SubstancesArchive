@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6807292",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6807292"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "medrysone"
+      }
+    }
+  ]
+}

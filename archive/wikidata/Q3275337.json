@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3275337",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3275337"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Iodinated contrast"
+      }
+    }
+  ]
+}

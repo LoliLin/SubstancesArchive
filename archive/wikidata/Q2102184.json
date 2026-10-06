@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2102184",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2102184"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P03AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Bioallethrin"
+      }
+    }
+  ]
+}

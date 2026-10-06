@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q85620089",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q85620089"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prolactine inhibitors"
+      }
+    }
+  ]
+}

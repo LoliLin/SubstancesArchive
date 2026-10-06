@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q999936",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q999936"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AX18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "feprazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q999936"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "feprazone"
+      }
+    }
+  ]
+}

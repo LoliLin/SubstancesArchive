@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5134843",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134843"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clocortolone"
+      }
+    }
+  ]
+}

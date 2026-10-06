@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28852345",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28852345"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M09AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "autologous cultured chondrocytes"
+      }
+    }
+  ]
+}

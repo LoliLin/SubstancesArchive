@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412685",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412685"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gemtuzumab ozogamicin"
+      }
+    }
+  ]
+}

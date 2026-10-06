@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q142880",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q142880"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "biguanide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q142880"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01BB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "biguanide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q47512",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q47512"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acetic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q47512"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acetic acid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "name": "Pregabalin",
+  "url": "https://psychonautwiki.org/wiki/Pregabalin",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Pregabalin",
+    "Lyrica",
+    "Nervalin"
+  ],
+  "class": {
+    "chemical": [
+      "Gabapentinoids"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within several months of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "low toxicity"
+  ],
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 900.0,
+        "light": {
+          "min": 50.0,
+          "max": 225.0
+        },
+        "common": {
+          "min": 225.0,
+          "max": 600.0
+        },
+        "strong": {
+          "min": 600.0,
+          "max": 900.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 9.0,
+          "max": 17.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 10.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": {
+        "min": null,
+        "max": 90.0
+      }
+    },
+    {
+      "name": "rectal",
+      "dose": {
+        "units": "mg",
+        "threshold": 40.0,
+        "heavy": 600.0,
+        "light": {
+          "min": 40.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 450.0
+        },
+        "strong": {
+          "min": 450.0,
+          "max": 600.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Oxycodone"
+    },
+    {
+      "name": "SSRI"
+    },
+    {
+      "name": "MDMA"
+    }
+  ]
+}

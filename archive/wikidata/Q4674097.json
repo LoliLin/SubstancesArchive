@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4674097",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4674097"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acidifier"
+      }
+    }
+  ]
+}

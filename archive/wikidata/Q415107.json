@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415107",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415107"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vidarabine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415107"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vidarabine"
+      }
+    }
+  ]
+}

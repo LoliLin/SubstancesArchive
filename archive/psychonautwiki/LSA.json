@@ -1,0 +1,92 @@
+{
+  "name": "LSA",
+  "url": "https://psychonautwiki.org/wiki/LSA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "LSA",
+    "Ergine"
+  ],
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": null,
+    "zero": "7 days"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "non-addictive with a low abuse potential",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "seeds",
+        "threshold": 20.0,
+        "heavy": 400.0,
+        "light": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 250.0
+        },
+        "strong": {
+          "min": 250.0,
+          "max": 400.0
+        }
+      },
+      "duration": null,
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "seeds",
+        "threshold": 1.0,
+        "heavy": 12.0,
+        "light": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 7.0
+        },
+        "strong": {
+          "min": 7.0,
+          "max": 12.0
+        }
+      },
+      "duration": null,
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

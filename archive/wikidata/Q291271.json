@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q291271",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q291271"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CH30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aminohippuric acid"
+      }
+    }
+  ]
+}

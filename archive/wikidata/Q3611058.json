@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3611058",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3611058"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alfaxalone"
+      }
+    }
+  ]
+}

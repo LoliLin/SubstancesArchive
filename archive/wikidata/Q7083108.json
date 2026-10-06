@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7083108",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7083108"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XC27"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "olaratumab"
+      }
+    }
+  ]
+}

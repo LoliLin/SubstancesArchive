@@ -1,0 +1,80 @@
+{
+  "name": "Pentobarbital",
+  "url": "https://psychonautwiki.org/wiki/Pentobarbital",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Pentobarbital",
+    "pentobarbitone",
+    "Nembutal"
+  ],
+  "class": {
+    "chemical": [
+      "Barbiturates"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "moderate toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": null,
+        "light": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "strong": {
+          "min": 200.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 36.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

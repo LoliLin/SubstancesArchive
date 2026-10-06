@@ -1,0 +1,48 @@
+{
+  "name": "Cake",
+  "url": "https://psychonautwiki.org/wiki/Cake",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Cake",
+    "Caky",
+    "Cokoo"
+  ],
+  "class": {
+    "chemical": null,
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "g",
+        "threshold": 30.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 30.0,
+          "max": 65.0
+        },
+        "common": {
+          "min": 65.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 300.0
+        }
+      },
+      "duration": null,
+      "bioavailability": null
+    }
+  ]
+}

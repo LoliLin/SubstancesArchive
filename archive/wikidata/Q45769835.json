@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q45769835",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q45769835"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alteplase"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q45769835"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alteplase"
+      }
+    }
+  ]
+}

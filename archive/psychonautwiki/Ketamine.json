@@ -1,0 +1,195 @@
+{
+  "name": "Ketamine",
+  "url": "https://psychonautwiki.org/wiki/Ketamine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ketamine",
+    "K",
+    "Ket",
+    "Kitty",
+    "Special K",
+    "Cat Tranquilizer",
+    "Ketaset",
+    "Ketalar",
+    "Ketanest",
+    "Vitamin K",
+    "Purple",
+    "Jet"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": null,
+    "zero": null
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": null,
+  "addictionPotential": "moderate to high abuse potential and produces psychological dependence with chronic use",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 10.0,
+          "max": 30.0
+        },
+        "common": {
+          "min": 30.0,
+          "max": 75.0
+        },
+        "strong": {
+          "min": 75.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": {
+        "min": null,
+        "max": 45.0
+      }
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 450.0,
+        "light": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 300.0
+        },
+        "strong": {
+          "min": 300.0,
+          "max": 450.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": null,
+        "afterglow": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": {
+        "min": null,
+        "max": 17.0
+      }
+    },
+    {
+      "name": "sublingual",
+      "dose": null,
+      "duration": null,
+      "bioavailability": {
+        "min": 20.0,
+        "max": 29.0
+      }
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Trazodone"
+    },
+    {
+      "name": "Grapefruit"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

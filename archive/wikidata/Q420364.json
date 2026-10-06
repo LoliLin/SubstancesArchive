@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420364",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420364"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "penciclovir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420364"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AB13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "penciclovir"
+      }
+    }
+  ]
+}

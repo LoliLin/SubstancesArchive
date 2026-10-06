@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q31030",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q31030"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "xylometazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q31030"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "xylometazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q31030"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "xylometazoline"
+      }
+    }
+  ]
+}

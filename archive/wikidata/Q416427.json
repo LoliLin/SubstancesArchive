@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416427",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cromoglicic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AH03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cromoglicic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cromoglicic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cromoglicic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416427"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cromoglicic acid"
+      }
+    }
+  ]
+}

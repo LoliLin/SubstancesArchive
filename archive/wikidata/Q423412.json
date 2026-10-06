@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423412",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423412"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01FG01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pristinamycin"
+      }
+    }
+  ]
+}

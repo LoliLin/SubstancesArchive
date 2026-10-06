@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q12458398",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12458398"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AJ04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetrimide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12458398"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetrimide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408529",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408529"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amikacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408529"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01GB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amikacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408529"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amikacin"
+      }
+    }
+  ]
+}

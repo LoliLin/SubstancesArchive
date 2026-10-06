@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424193",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424193"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01MA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levofloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424193"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AE05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levofloxacin"
+      }
+    }
+  ]
+}

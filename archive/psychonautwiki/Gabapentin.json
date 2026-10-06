@@ -1,0 +1,86 @@
+{
+  "name": "Gabapentin",
+  "url": "https://psychonautwiki.org/wiki/Gabapentin",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Gabapentin",
+    "Neurontin",
+    "Gabarone",
+    "Gralise"
+  ],
+  "class": {
+    "chemical": [
+      "Gabapentinoids"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged continuous usage",
+    "half": null,
+    "zero": "7-14 days"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "low toxicity"
+  ],
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 200.0,
+        "heavy": 2400.0,
+        "light": {
+          "min": 200.0,
+          "max": 900.0
+        },
+        "common": {
+          "min": 900.0,
+          "max": 1500.0
+        },
+        "strong": {
+          "min": 1500.0,
+          "max": 2400.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 120.0,
+          "max": 180.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": {
+        "min": 27.0,
+        "max": 60.0
+      }
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Depressants"
+    }
+  ]
+}

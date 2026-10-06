@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5038111",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5038111"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbuterol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5038111"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbuterol"
+      }
+    }
+  ]
+}

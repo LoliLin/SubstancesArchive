@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q84589377",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q84589377"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gestodene and ethinylestradiol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q84589377"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gestodene and ethinylestradiol"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1829318",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1829318"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A04AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dolasetron"
+      }
+    }
+  ]
+}

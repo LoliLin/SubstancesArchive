@@ -1,0 +1,112 @@
+{
+  "name": "DiPT",
+  "url": "https://psychonautwiki.org/wiki/DiPT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DiPT"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 15.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 15.0,
+          "max": 30.0
+        },
+        "common": {
+          "min": 30.0,
+          "max": 75.0
+        },
+        "strong": {
+          "min": 75.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": null,
+        "light": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

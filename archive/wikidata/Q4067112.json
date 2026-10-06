@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4067112",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4067112"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J06AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rabies immunoglobulin or antiserum"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4067112"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J06BB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rabies immunoglobulin or antiserum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1109018",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1109018"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dezocine"
+      }
+    }
+  ]
+}

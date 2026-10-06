@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q822929",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q822929"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nifuroxazide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q22137013",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q22137013"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cadmium compound"
+      }
+    }
+  ]
+}

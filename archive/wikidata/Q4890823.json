@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4890823",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4890823"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H03BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzylthiouracil"
+      }
+    }
+  ]
+}

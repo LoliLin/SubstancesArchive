@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2362603",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2362603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aceclidine"
+      }
+    }
+  ]
+}

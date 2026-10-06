@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q250360",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q250360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexamidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q250360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexamidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q250360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexamidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q250360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexamidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q250360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hexamidine"
+      }
+    }
+  ]
+}

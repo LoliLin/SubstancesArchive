@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6811647",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6811647"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CH"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Melatonin receptor agonist"
+      }
+    }
+  ]
+}

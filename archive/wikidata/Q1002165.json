@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1002165",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1002165"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluticasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1002165"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluticasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1002165"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluticasone"
+      }
+    }
+  ]
+}

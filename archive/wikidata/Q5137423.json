@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5137423",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5137423"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03EB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Co-amilofruse"
+      }
+    }
+  ]
+}

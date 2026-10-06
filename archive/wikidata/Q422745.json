@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422745",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422745"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422745"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422745"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422745"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzocaine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6890447",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6890447"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XC25"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mogamulizumab"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q83871",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83871"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AE"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzodiazepine drug"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83871"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05BA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzodiazepine drug"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83871"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CD"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzodiazepine drug"
+      }
+    }
+  ]
+}

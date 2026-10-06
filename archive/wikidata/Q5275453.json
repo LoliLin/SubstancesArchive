@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5275453",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5275453"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diflucortolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5275453"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diflucortolone"
+      }
+    }
+  ]
+}

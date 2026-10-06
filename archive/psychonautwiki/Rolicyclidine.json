@@ -1,0 +1,248 @@
+{
+  "name": "Rolicyclidine",
+  "url": "https://psychonautwiki.org/wiki/Rolicyclidine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "PCPy"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative|dissociatives"
+  ],
+  "toxicity": null,
+  "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": null,
+        "light": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "common": {
+          "min": 4.0,
+          "max": 8.0
+        },
+        "strong": {
+          "min": 8.0,
+          "max": 15.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": null,
+        "light": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 9.0
+        },
+        "strong": {
+          "min": 9.0,
+          "max": 13.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 12.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": null,
+        "light": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "common": {
+          "min": 4.0,
+          "max": 8.0
+        },
+        "strong": {
+          "min": 8.0,
+          "max": 12.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 2.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Caffeine"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "DXM"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "ΑMT"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Opioids"
+    }
+  ]
+}

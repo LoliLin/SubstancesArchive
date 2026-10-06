@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q15410941",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15410941"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01AA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "eravacycline"
+      }
+    }
+  ]
+}

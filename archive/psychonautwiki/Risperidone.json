@@ -1,0 +1,71 @@
+{
+  "name": "Risperidone",
+  "url": "https://psychonautwiki.org/wiki/Risperidone",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Risperdal"
+  ],
+  "class": {
+    "chemical": [
+      "Benzisoxazole"
+    ],
+    "psychoactive": [
+      "Antipsychotic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.25,
+        "heavy": 6.0,
+        "light": {
+          "min": 0.5,
+          "max": 1.0
+        },
+        "common": {
+          "min": 1.0,
+          "max": 3.0
+        },
+        "strong": {
+          "min": 3.0,
+          "max": 6.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 12.0,
+          "max": 20.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

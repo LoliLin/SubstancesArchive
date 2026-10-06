@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1519099",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1519099"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BF"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polio vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1519099"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polio vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1519099"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BF03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polio vaccine"
+      }
+    }
+  ]
+}

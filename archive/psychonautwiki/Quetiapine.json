@@ -1,0 +1,96 @@
+{
+  "name": "Quetiapine",
+  "url": "https://psychonautwiki.org/wiki/Quetiapine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Quetiapine",
+    "Seroquel"
+  ],
+  "class": {
+    "chemical": [
+      "Dibenzothiazepine"
+    ],
+    "psychoactive": [
+      "Antipsychotic"
+    ]
+  },
+  "tolerance": {
+    "full": "within a week of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "low toxicity"
+  ],
+  "addictionPotential": "moderately physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "common": {
+          "min": 50.0,
+          "max": 150.0
+        },
+        "strong": {
+          "min": 150.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.5,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 6.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 24.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 24.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": {
+        "min": 100.0,
+        "max": 100.0
+      }
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    }
+  ]
+}

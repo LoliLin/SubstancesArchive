@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424027",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424027"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vancomycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424027"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vancomycin"
+      }
+    }
+  ]
+}

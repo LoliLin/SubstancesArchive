@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423185",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423185"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cortisone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423185"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cortisone"
+      }
+    }
+  ]
+}

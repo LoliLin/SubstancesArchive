@@ -1,0 +1,102 @@
+{
+  "name": "Progesterone",
+  "url": "https://psychonautwiki.org/wiki/Progesterone",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": {
+    "chemical": [
+      "Steroid"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": 600.0,
+        "light": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 400.0
+        },
+        "strong": {
+          "min": 400.0,
+          "max": 600.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "rectal",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": 600.0,
+        "light": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 400.0
+        },
+        "strong": {
+          "min": 400.0,
+          "max": 600.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 8.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

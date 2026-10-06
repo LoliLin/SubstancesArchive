@@ -1,0 +1,88 @@
+{
+  "name": "Methoxphenidine",
+  "url": "https://psychonautwiki.org/wiki/Methoxphenidine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Methoxphenidine",
+    "Methoxyphenidine",
+    "MXP",
+    "2-MXP"
+  ],
+  "class": {
+    "chemical": [
+      "Diarylethylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 30.0,
+        "heavy": null,
+        "light": {
+          "min": 50.0,
+          "max": 75.0
+        },
+        "common": {
+          "min": 75.0,
+          "max": 120.0
+        },
+        "strong": {
+          "min": 120.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

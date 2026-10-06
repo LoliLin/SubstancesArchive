@@ -1,0 +1,86 @@
+{
+  "name": "5-MeO-DiBF",
+  "url": "https://psychonautwiki.org/wiki/5-MeO-DiBF",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "5-MeO-DiBF"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted benzofurans"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 140.0,
+        "light": {
+          "min": 50.0,
+          "max": 80.0
+        },
+        "common": {
+          "min": 80.0,
+          "max": 110.0
+        },
+        "strong": {
+          "min": 110.0,
+          "max": 140.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2858961",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2858961"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA32"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "apremilast"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5065700",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5065700"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AJ02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetrimonium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5065700"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetrimonium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422970",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422970"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-promethazine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422970"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-promethazine"
+      }
+    }
+  ]
+}

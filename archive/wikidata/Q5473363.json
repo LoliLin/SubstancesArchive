@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5473363",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5473363"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fosphenytoin"
+      }
+    }
+  ]
+}

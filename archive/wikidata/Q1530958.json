@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1530958",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1530958"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxybuprocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1530958"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxybuprocaine"
+      }
+    }
+  ]
+}

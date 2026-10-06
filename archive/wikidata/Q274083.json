@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q274083",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q274083"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antacid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5373824",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5373824"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BK03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "empagliflozin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5373824"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "empagliflozin"
+      }
+    }
+  ]
+}

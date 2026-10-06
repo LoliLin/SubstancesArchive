@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419849",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419849"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09IX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fludeoxyglucose (18F)"
+      }
+    }
+  ]
+}

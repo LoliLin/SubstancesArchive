@@ -1,0 +1,113 @@
+{
+  "name": "MDPV",
+  "url": "https://psychonautwiki.org/wiki/MDPV",
+  "featured": true,
+  "systematicName": "1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one",
+  "commonNames": [
+    "MDPV",
+    "Bath Salts",
+    "NRG-1"
+  ],
+  "class": {
+    "chemical": [
+      "MDxx",
+      "Substituted cathinones",
+      "Substituted pyrrolidines"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 25.0,
+        "light": {
+          "min": 4.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 14.0
+        },
+        "strong": {
+          "min": 14.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 0.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

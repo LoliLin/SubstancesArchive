@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419374",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419374"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AC07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dipyridamole"
+      }
+    }
+  ]
+}

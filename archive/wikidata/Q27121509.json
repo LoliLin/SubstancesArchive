@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27121509",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27121509"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09IX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorodopa F-18"
+      }
+    }
+  ]
+}

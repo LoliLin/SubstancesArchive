@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424976",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424976"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "retinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424976"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "retinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424976"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "retinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424976"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "retinol"
+      }
+    }
+  ]
+}

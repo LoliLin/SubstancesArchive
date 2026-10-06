@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412236",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412236"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J02AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "voriconazole"
+      }
+    }
+  ]
+}

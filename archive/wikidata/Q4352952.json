@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4352952",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4352952"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "echothiophate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q10910504",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10910504"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gusperimus"
+      }
+    }
+  ]
+}

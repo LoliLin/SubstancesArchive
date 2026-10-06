@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q196473",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q196473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11HA30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-panthenol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q196473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D03AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-panthenol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q196473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-panthenol"
+      }
+    }
+  ]
+}

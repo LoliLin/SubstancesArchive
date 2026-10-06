@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q314036",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q314036"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aluminum chloride"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q703",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q703"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12BA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium"
+      }
+    }
+  ]
+}

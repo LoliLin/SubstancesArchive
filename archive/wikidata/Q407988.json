@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407988",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407988"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clonazepam"
+      }
+    }
+  ]
+}

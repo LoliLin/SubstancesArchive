@@ -1,0 +1,79 @@
+{
+  "name": "Benzydamine",
+  "url": "https://psychonautwiki.org/wiki/Benzydamine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Benzydamine",
+    "Tantum Verde"
+  ],
+  "class": {
+    "chemical": [
+      "Indazole"
+    ],
+    "psychoactive": [
+      "Deliriant",
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 150.0,
+        "heavy": 2000.0,
+        "light": {
+          "min": 300.0,
+          "max": 500.0
+        },
+        "common": {
+          "min": 500.0,
+          "max": 1000.0
+        },
+        "strong": {
+          "min": 1000.0,
+          "max": 2000.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 24.0,
+          "max": 72.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

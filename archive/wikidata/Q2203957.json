@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2203957",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2203957"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbaspirin calcium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2203957"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "carbaspirin calcium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "name": "Alcohol",
+  "url": "https://psychonautwiki.org/wiki/Alcohol",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Alcohol",
+    "Booze",
+    "Liquor",
+    "Moonshine",
+    "Sauce",
+    "Juice",
+    "Bevvy"
+  ],
+  "class": {
+    "chemical": [
+      "Alcohol"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "GABA",
+    "depressants"
+  ],
+  "toxicity": [
+    "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
+  ],
+  "addictionPotential": "extremely addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "g",
+        "threshold": 10.0,
+        "heavy": 40.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 40.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 45.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 1.5,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "AMT"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "SSRIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "ALDH2 inhibitors"
+    },
+    {
+      "name": "Hepatotoxic drugs"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

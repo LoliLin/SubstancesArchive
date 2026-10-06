@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412496",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412496"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "quinidine"
+      }
+    }
+  ]
+}

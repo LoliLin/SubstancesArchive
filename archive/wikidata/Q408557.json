@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408557",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408557"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AE11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "telaprevir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408557"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AP02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "telaprevir"
+      }
+    }
+  ]
+}

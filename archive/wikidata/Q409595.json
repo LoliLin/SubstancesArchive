@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409595",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409595"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isocarboxazid"
+      }
+    }
+  ]
+}

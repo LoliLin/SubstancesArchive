@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2823284",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2823284"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AG04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meclofenamic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2823284"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meclofenamic acid"
+      }
+    }
+  ]
+}

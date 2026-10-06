@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418928",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418928"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A08AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-fenfluramine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6482953",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6482953"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lanatoside C"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "LAE-32",
+  "url": "https://psychonautwiki.org/wiki/LAE-32",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": null,
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "µg",
+        "threshold": null,
+        "heavy": null,
+        "light": null,
+        "common": {
+          "min": 500.0,
+          "max": 1500.0
+        },
+        "strong": null
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

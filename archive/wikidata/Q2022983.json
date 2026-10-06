@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2022983",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2022983"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AF06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfacetamide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2022983"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfacetamide"
+      }
+    }
+  ]
+}

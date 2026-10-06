@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3887768",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3887768"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AB13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxametacin"
+      }
+    }
+  ]
+}

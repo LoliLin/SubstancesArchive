@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2208070",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2208070"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AB14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "proglumetacin"
+      }
+    }
+  ]
+}

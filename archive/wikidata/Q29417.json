@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q29417",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q29417"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tretinoin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q29417"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tretinoin"
+      }
+    }
+  ]
+}

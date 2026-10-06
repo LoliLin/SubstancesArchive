@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q958087",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q958087"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C07AG01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "labetalol"
+      }
+    }
+  ]
+}

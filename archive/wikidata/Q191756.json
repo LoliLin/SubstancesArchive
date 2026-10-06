@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q191756",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q191756"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "omega-3 fatty acid"
+      }
+    }
+  ]
+}

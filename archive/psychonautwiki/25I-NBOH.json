@@ -1,0 +1,103 @@
+{
+  "name": "25I-NBOH",
+  "url": "https://psychonautwiki.org/wiki/25I-NBOH",
+  "featured": true,
+  "systematicName": "2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine",
+  "commonNames": [
+    "25i-NBOH",
+    "Cimbi-27"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "1 week",
+    "zero": "2 weeks"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "potentially fatal at heavy dosages"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": null,
+        "light": {
+          "min": 200.0,
+          "max": 500.0
+        },
+        "common": {
+          "min": 500.0,
+          "max": 900.0
+        },
+        "strong": {
+          "min": 900.0,
+          "max": 1400.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.5,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 12.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

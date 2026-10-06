@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411917",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411917"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glycopyrrolate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411917"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glycopyrrolate"
+      }
+    }
+  ]
+}

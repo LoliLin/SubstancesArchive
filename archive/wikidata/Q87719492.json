@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q87719492",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q87719492"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BN"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "COVID-19 vaccine"
+      }
+    }
+  ]
+}

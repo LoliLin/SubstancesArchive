@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q414626",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414626"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium selenite"
+      }
+    }
+  ]
+}

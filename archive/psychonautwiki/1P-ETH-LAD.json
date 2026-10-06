@@ -1,0 +1,95 @@
+{
+  "name": "1P-ETH-LAD",
+  "url": "https://psychonautwiki.org/wiki/1P-ETH-LAD",
+  "featured": false,
+  "systematicName": null,
+  "commonNames": [
+    "1P-ETH-LAD",
+    "1-Propionyl-6-ethyl-6-nor-lysergic acid diethyamide"
+  ],
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "µg",
+        "threshold": 25.0,
+        "heavy": 200.0,
+        "light": {
+          "min": 30.0,
+          "max": 60.0
+        },
+        "common": {
+          "min": 60.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 200.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

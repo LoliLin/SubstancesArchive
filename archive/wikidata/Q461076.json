@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q461076",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q461076"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dopaminergic"
+      }
+    }
+  ]
+}

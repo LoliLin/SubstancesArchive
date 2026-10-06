@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5462791",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462791"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AA11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocinonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5462791"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocinonide"
+      }
+    }
+  ]
+}

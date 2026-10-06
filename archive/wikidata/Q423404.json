@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423404",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423404"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AE09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tipranavir"
+      }
+    }
+  ]
+}

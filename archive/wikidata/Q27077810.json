@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27077810",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27077810"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX63"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glasdegib"
+      }
+    }
+  ]
+}

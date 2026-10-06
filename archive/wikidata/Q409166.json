@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409166",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409166"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Coagulation factor II, thrombin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409166"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BD30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Coagulation factor II, thrombin"
+      }
+    }
+  ]
+}

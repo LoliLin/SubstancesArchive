@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q17400905",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q17400905"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A16AB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "galsulfase"
+      }
+    }
+  ]
+}

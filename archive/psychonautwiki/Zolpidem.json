@@ -1,0 +1,86 @@
+{
+  "name": "Zolpidem",
+  "url": "https://psychonautwiki.org/wiki/Zolpidem",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Ambien",
+    "Intermezzo",
+    "Edluar",
+    "Zolpimist"
+  ],
+  "class": {
+    "chemical": [
+      "Imidazopyridine"
+    ],
+    "psychoactive": [
+      "Hallucinogens",
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "moderately addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 50.0,
+        "light": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "common": {
+          "min": 20.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 50.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

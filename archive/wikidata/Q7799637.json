@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7799637",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7799637"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thymopentin"
+      }
+    }
+  ]
+}

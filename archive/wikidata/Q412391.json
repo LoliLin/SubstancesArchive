@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412391",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412391"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R07AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pentetrazol"
+      }
+    }
+  ]
+}

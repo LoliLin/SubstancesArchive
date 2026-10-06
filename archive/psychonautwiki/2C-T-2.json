@@ -1,0 +1,133 @@
+{
+  "name": "2C-T-2",
+  "url": "https://psychonautwiki.org/wiki/2C-T-2",
+  "featured": true,
+  "systematicName": "2-[4-(Ethylthio)-2,5-dimethoxyphenyl]ethanamine",
+  "commonNames": [
+    "2C-T-2",
+    "Rosy"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "no negative health effects attributed to trying this drug"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 25.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.5,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

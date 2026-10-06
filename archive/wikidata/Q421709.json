@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421709",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421709"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A14AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nandrolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421709"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nandrolone"
+      }
+    }
+  ]
+}

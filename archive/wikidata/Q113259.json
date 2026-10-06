@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q113259",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q113259"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anticholinergic"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q113259"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anticholinergic"
+      }
+    }
+  ]
+}

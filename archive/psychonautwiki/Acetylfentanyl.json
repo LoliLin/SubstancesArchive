@@ -1,0 +1,166 @@
+{
+  "name": "Acetylfentanyl",
+  "url": "https://psychonautwiki.org/wiki/Acetylfentanyl",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Acetylfentanyl"
+  ],
+  "class": {
+    "chemical": [
+      "Anilidopiperidine"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "potentially fatal at heavy dosages",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
+    "unintentionally spilling a very small amount of acetylfentanyl on one's skin could result in a fatal overdose."
+  ],
+  "addictionPotential": "extremely addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": null,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 7.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": null,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

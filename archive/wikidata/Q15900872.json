@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q15900872",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15900872"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08D"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ultrasound contrast media"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15900872"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08DA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ultrasound contrast media"
+      }
+    }
+  ]
+}

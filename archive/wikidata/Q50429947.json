@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q50429947",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q50429947"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AD"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "postcoital contraceptives"
+      }
+    }
+  ]
+}

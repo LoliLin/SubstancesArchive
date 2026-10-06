@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q84770474",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q84770474"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09BB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lisinopril/amlodipine"
+      }
+    }
+  ]
+}

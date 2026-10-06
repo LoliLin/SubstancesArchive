@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7916882",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7916882"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01BA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Vasopressin receptor agonist"
+      }
+    }
+  ]
+}

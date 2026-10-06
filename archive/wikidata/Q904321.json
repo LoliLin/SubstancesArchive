@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q904321",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q904321"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "propiverine"
+      }
+    }
+  ]
+}

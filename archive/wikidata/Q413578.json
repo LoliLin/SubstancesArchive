@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413578",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413578"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mupirocin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413578"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mupirocin"
+      }
+    }
+  ]
+}

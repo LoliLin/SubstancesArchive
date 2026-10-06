@@ -1,0 +1,48 @@
+{
+  "name": "Meclofenoxate",
+  "url": "https://psychonautwiki.org/wiki/Meclofenoxate",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": null,
+  "class": {
+    "chemical": [
+      "Cholinergic"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": 600.0,
+        "light": {
+          "min": 50.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 400.0,
+          "max": 800.0
+        },
+        "strong": {
+          "min": 800.0,
+          "max": 1000.0
+        }
+      },
+      "duration": null,
+      "bioavailability": null
+    }
+  ]
+}

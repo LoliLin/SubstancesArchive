@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3143635",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3143635"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D03AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hyaluronan sodium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3143635"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M09AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hyaluronan sodium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3143635"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hyaluronan sodium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3143635"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01KA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Hyaluronan sodium"
+      }
+    }
+  ]
+}

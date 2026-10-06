@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3611854",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3611854"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AH04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alitretinoin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3611854"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX22"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alitretinoin"
+      }
+    }
+  ]
+}

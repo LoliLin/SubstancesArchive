@@ -1,0 +1,148 @@
+{
+  "name": "3C-E",
+  "url": "https://psychonautwiki.org/wiki/3C-E",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "3C-E",
+    "3C-Escaline"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 15.0,
+        "heavy": 70.0,
+        "light": {
+          "min": 20.0,
+          "max": 35.0
+        },
+        "common": {
+          "min": 35.0,
+          "max": 60.0
+        },
+        "strong": {
+          "min": 60.0,
+          "max": 70.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 4.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 20.0,
+        "heavy": 80.0,
+        "light": {
+          "min": 30.0,
+          "max": 40.0
+        },
+        "common": {
+          "min": 40.0,
+          "max": 60.0
+        },
+        "strong": {
+          "min": 60.0,
+          "max": 80.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 10.0,
+          "max": 16.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413994",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413994"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C07AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(S)-(−)-timolol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413994"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01ED01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(S)-(−)-timolol"
+      }
+    }
+  ]
+}

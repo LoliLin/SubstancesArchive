@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q33150707",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q33150707"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluprednidene"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q33150707"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluprednidene"
+      }
+    }
+  ]
+}

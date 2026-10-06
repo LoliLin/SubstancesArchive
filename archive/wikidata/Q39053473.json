@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q39053473",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q39053473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AR23"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "atazanavir/ritonavir"
+      }
+    }
+  ]
+}

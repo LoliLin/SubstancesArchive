@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q41576",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q41576"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q41576"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q41576"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q41576"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02DA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cocaine"
+      }
+    }
+  ]
+}

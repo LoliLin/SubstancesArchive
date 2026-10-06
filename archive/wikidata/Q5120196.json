@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5120196",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5120196"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M04AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cinchophen"
+      }
+    }
+  ]
+}

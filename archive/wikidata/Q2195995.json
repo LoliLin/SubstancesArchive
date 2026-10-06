@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2195995",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2195995"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "repaglinide"
+      }
+    }
+  ]
+}

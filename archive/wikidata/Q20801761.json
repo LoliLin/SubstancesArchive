@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20801761",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20801761"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "interferon Alfa-2a, recombinant"
+      }
+    }
+  ]
+}

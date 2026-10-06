@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418666",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418666"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tranexamic acid"
+      }
+    }
+  ]
+}

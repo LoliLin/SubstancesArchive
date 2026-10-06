@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412443",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412443"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05AX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "risperidone"
+      }
+    }
+  ]
+}

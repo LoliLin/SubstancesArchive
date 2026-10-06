@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411635",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411635"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P03AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "permethrin"
+      }
+    }
+  ]
+}

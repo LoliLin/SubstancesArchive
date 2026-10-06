@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2502747",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2502747"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AP08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sofosbuvir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2502747"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AX15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sofosbuvir"
+      }
+    }
+  ]
+}

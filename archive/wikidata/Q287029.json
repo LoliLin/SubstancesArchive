@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q287029",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q287029"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isotretinoin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q287029"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isotretinoin"
+      }
+    }
+  ]
+}

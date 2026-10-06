@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3934263",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3934263"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01GB10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ribostamycin"
+      }
+    }
+  ]
+}

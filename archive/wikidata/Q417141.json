@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417141",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417141"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-econazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417141"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-econazole"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20817118",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817118"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CG03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "histamine phosphate"
+      }
+    }
+  ]
+}

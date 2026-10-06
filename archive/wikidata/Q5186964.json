@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5186964",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5186964"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "crizotinib"
+      }
+    }
+  ]
+}

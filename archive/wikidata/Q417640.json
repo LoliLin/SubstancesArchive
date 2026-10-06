@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417640",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417640"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ganciclovir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417640"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AD09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ganciclovir"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27888708",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27888708"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AC15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aloxiprin"
+      }
+    }
+  ]
+}

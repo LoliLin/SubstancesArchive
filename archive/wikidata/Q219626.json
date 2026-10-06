@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q219626",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q219626"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA26"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(−)-ephedrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q219626"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(−)-ephedrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q219626"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(−)-ephedrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q219626"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(−)-ephedrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q219626"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01FB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(−)-ephedrine"
+      }
+    }
+  ]
+}

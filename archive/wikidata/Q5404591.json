@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5404591",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5404591"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A08AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "N-ethylamphetamine"
+      }
+    }
+  ]
+}

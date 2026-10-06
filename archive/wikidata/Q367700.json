@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q367700",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q367700"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cyclosporine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q367700"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cyclosporine"
+      }
+    }
+  ]
+}

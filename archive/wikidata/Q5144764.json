@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5144764",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5144764"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R07AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "colfosceril palmitate"
+      }
+    }
+  ]
+}

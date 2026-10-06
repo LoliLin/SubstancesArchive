@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2363115",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2363115"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vaccine against diphtheria, tetanus, and poliomyelitis"
+      }
+    }
+  ]
+}

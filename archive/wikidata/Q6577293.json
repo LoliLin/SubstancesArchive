@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6577293",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6577293"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01ED08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfaphenazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6577293"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfaphenazole"
+      }
+    }
+  ]
+}

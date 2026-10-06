@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5984881",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5984881"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE27"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibrutinib"
+      }
+    }
+  ]
+}

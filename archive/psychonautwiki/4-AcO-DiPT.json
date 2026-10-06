@@ -1,0 +1,105 @@
+{
+  "name": "4-AcO-DiPT",
+  "url": "https://psychonautwiki.org/wiki/4-AcO-DiPT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "4-AcO-DiPT",
+    "4-Acetoxy-DiPT",
+    "Ipracetin",
+    "Aces"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": 45.0,
+        "light": {
+          "min": 5.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 45.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q695611",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q695611"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AD07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amlexanox"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q695611"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03DX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "amlexanox"
+      }
+    }
+  ]
+}

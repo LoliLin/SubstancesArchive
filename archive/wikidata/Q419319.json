@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419319",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419319"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX32"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bortezomib"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "item": "http://www.wikidata.org/entity/Q241516",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q241516"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AG02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "povidone-iodine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q241516"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "povidone-iodine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q241516"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "povidone-iodine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q241516"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "povidone-iodine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q241516"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "povidone-iodine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q241516"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AX18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "povidone-iodine"
+      }
+    }
+  ]
+}

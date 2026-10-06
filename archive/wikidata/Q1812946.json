@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1812946",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1812946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AE"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cholera vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1812946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cholera vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1812946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cholera vaccine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Blue Lotus",
+  "url": "https://psychonautwiki.org/wiki/Blue%20Lotus",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": null,
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 60.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "g",
+        "threshold": 0.5,
+        "heavy": 5.0,
+        "light": {
+          "min": 0.75,
+          "max": 1.0
+        },
+        "common": {
+          "min": 1.25,
+          "max": 2.0
+        },
+        "strong": {
+          "min": 2.5,
+          "max": 3.0
+        }
+      },
+      "duration": null,
+      "bioavailability": null
+    }
+  ]
+}

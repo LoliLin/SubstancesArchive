@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416410",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416410"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB34"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fomepizole"
+      }
+    }
+  ]
+}

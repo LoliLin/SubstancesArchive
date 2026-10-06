@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421475",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421475"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "beclomethasone dipropionate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421475"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "beclomethasone dipropionate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421475"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "beclomethasone dipropionate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421475"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "beclomethasone dipropionate"
+      }
+    }
+  ]
+}

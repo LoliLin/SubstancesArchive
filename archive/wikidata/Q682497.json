@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q682497",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q682497"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxamniquine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Midazolam",
+  "url": "https://psychonautwiki.org/wiki/Midazolam",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Midazolam",
+    "Versed"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 5.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 5.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 0.5,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 2.5,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

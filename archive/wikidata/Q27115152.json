@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27115152",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27115152"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetylpyridinium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27115152"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AJ03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetylpyridinium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27115152"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetylpyridinium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27115152"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cetylpyridinium"
+      }
+    }
+  ]
+}

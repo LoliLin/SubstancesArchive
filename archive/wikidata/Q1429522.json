@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1429522",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1429522"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03F"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prokinetic agent"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1429522"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03FA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prokinetic agent"
+      }
+    }
+  ]
+}

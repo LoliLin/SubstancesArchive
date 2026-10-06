@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q257331",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q257331"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "α-streptozocin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q72500089",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q72500089"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05BA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Pentosan polysulfate sodium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q72500089"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BX15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Pentosan polysulfate sodium"
+      }
+    }
+  ]
+}

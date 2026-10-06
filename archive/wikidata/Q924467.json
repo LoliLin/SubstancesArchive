@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q924467",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q924467"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocinolone acetonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q924467"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocinolone acetonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q924467"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocinolone acetonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q924467"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02BA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluocinolone acetonide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q189334",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q189334"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01DA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pentaerythritol tetranitrate"
+      }
+    }
+  ]
+}

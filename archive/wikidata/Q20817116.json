@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20817116",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817116"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gonadorelin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817116"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CM01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gonadorelin"
+      }
+    }
+  ]
+}

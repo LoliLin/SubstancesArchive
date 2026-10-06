@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5036030",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5036030"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "caplacizumab"
+      }
+    }
+  ]
+}

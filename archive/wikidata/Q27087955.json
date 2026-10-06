@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27087955",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27087955"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03BB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-N-methylscopolamine(1+)"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27087955"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01FA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(±)-N-methylscopolamine(1+)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Bromantane",
+  "url": "https://psychonautwiki.org/wiki/Bromantane",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Bromantane",
+    "Bromantan",
+    "Ladasten"
+  ],
+  "class": {
+    "chemical": [
+      "Adamantanes"
+    ],
+    "psychoactive": [
+      "Stimulants",
+      "Nootropic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 200.0,
+        "light": {
+          "min": 10.0,
+          "max": 50.0
+        },
+        "common": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 200.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": {
+        "min": null,
+        "max": 42.0
+      }
+    }
+  ]
+}

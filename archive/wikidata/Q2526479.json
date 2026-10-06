@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2526479",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2526479"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BJ02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "liraglutide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2526479"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "liraglutide"
+      }
+    }
+  ]
+}

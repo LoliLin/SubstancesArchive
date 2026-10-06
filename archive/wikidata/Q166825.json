@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q166825",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q166825"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M05BA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ibandronic acid"
+      }
+    }
+  ]
+}

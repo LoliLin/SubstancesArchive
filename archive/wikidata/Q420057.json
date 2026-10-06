@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420057",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420057"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M05BA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alendronic acid"
+      }
+    }
+  ]
+}

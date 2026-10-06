@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q901963",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q901963"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dapiprazole"
+      }
+    }
+  ]
+}

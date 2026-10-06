@@ -1,0 +1,92 @@
+{
+  "name": "Diphenhydramine",
+  "url": "https://psychonautwiki.org/wiki/Diphenhydramine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DPH",
+    "Benadryl",
+    "Nytol",
+    "Sominex",
+    "Unisom SleepMelts",
+    "ZzzQuil"
+  ],
+  "class": {
+    "chemical": [
+      "Ethanolamine"
+    ],
+    "psychoactive": [
+      "Deliriant"
+    ]
+  },
+  "tolerance": {
+    "full": "with repeated use",
+    "half": null,
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "deliriant"
+  ],
+  "toxicity": [
+    "fatal at amounts close to or exceeding 2 grams"
+  ],
+  "addictionPotential": "produces dependence with chronic use",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": 700.0,
+        "light": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "common": {
+          "min": 200.0,
+          "max": 400.0
+        },
+        "strong": {
+          "min": 400.0,
+          "max": 700.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": null,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

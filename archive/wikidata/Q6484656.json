@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6484656",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6484656"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C07AB14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "landiolol"
+      }
+    }
+  ]
+}

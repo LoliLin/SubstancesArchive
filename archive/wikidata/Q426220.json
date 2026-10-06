@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q426220",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426220"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethacridine lactate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426220"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethacridine lactate"
+      }
+    }
+  ]
+}

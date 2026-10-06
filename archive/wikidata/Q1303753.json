@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1303753",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1303753"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anti-obesity medication"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1303753"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A08A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anti-obesity medication"
+      }
+    }
+  ]
+}

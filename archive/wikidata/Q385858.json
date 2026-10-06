@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q385858",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q385858"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ajmaline"
+      }
+    }
+  ]
+}

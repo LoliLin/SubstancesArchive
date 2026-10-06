@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27277134",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27277134"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XD07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "padeliporfin"
+      }
+    }
+  ]
+}

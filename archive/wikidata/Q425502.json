@@ -1,0 +1,95 @@
+{
+  "item": "http://www.wikidata.org/entity/Q425502",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425502"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitrofurazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425502"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitrofurazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425502"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitrofurazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425502"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitrofurazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425502"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitrofurazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425502"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nitrofurazone"
+      }
+    }
+  ]
+}

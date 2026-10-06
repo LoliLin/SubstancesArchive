@@ -1,0 +1,67 @@
+{
+  "name": "Haloperidol",
+  "url": "https://psychonautwiki.org/wiki/Haloperidol",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Haldol"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted piperidines",
+      "Butyrophenone"
+    ],
+    "psychoactive": [
+      "Antipsychotic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "can have serious side effects at higher dosages",
+    "risk of having severe extrapyramidal symptoms and muscle rigidity"
+  ],
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.25,
+        "heavy": 10.0,
+        "light": {
+          "min": 0.25,
+          "max": 1.0
+        },
+        "common": {
+          "min": 1.0,
+          "max": 5.0
+        },
+        "strong": {
+          "min": 5.0,
+          "max": 10.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 12.0,
+          "max": 36.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

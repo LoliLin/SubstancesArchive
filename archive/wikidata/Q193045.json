@@ -1,0 +1,110 @@
+{
+  "item": "http://www.wikidata.org/entity/Q193045",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01AA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q193045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S03AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetracycline"
+      }
+    }
+  ]
+}

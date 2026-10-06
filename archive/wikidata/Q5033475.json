@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5033475",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5033475"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C03DA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "canrenone"
+      }
+    }
+  ]
+}

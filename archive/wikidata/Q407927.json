@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407927",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407927"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BX13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethyl sulfoxide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407927"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethyl sulfoxide"
+      }
+    }
+  ]
+}

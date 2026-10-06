@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420673",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420673"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "guanethidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420673"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "guanethidine"
+      }
+    }
+  ]
+}

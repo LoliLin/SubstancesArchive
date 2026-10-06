@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409579",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409579"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CA09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vinbarbital"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1996249",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1996249"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA26"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "belimumab"
+      }
+    }
+  ]
+}

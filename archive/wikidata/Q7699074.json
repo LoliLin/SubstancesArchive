@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7699074",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7699074"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "temsirolimus"
+      }
+    }
+  ]
+}

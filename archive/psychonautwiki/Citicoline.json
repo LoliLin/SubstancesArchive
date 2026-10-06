@@ -1,0 +1,81 @@
+{
+  "name": "Citicoline",
+  "url": "https://psychonautwiki.org/wiki/Citicoline",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Citicoline"
+  ],
+  "class": {
+    "chemical": [
+      "Ammonium salt"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 2000.0,
+        "light": {
+          "min": 100.0,
+          "max": 250.0
+        },
+        "common": {
+          "min": 250.0,
+          "max": 1000.0
+        },
+        "strong": {
+          "min": 1000.0,
+          "max": 2000.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "comeup": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 2.5,
+          "max": 3.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 40.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 58.0,
+          "max": 74.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 40.0,
+          "max": 60.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

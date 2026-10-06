@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q263958",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q263958"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(+)-pseudoephedrine"
+      }
+    }
+  ]
+}

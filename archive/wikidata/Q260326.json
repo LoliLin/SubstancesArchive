@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q260326",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q260326"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tioconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q260326"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tioconazole"
+      }
+    }
+  ]
+}

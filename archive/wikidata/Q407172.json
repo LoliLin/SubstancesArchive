@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407172",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407172"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03GA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chorionic gonadotropin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407172"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03GA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chorionic gonadotropin"
+      }
+    }
+  ]
+}

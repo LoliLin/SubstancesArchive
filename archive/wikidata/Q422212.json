@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422212",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422212"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "budesonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422212"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "budesonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422212"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "budesonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422212"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "budesonide"
+      }
+    }
+  ]
+}

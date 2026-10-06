@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q141608064",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q141608064"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "balugrastim"
+      }
+    }
+  ]
+}

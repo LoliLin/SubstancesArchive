@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419820",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419820"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azelastine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419820"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AX19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azelastine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419820"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azelastine"
+      }
+    }
+  ]
+}

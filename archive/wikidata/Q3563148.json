@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3563148",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3563148"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AX26"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vortioxetine"
+      }
+    }
+  ]
+}

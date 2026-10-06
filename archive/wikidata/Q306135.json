@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q306135",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q306135"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "β-carotene"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q306135"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D02BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "β-carotene"
+      }
+    }
+  ]
+}

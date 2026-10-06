@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q425109",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425109"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetrahydrozoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425109"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetrahydrozoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425109"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetrahydrozoline"
+      }
+    }
+  ]
+}

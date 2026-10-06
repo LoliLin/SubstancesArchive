@@ -1,0 +1,95 @@
+{
+  "item": "http://www.wikidata.org/entity/Q132621",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132621"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epinephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132621"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BC09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epinephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132621"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA24"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epinephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132621"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epinephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132621"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epinephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q132621"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "epinephrine"
+      }
+    }
+  ]
+}

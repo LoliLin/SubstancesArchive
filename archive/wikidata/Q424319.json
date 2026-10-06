@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424319",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424319"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bacitracin a"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424319"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XX10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bacitracin a"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424319"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bacitracin a"
+      }
+    }
+  ]
+}

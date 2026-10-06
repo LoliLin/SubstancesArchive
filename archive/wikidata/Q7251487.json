@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7251487",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7251487"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XE"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "protein kinase inhibitors"
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "name": "Buprenorphine",
+  "url": "https://psychonautwiki.org/wiki/Buprenorphine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Buprenex",
+    "Subutex",
+    "Butrans",
+    "Cizdol",
+    "Addnok",
+    "Transtec"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "low toxicity"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.2,
+        "heavy": 1.5,
+        "light": {
+          "min": 0.2,
+          "max": 0.4
+        },
+        "common": {
+          "min": 0.4,
+          "max": 0.8
+        },
+        "strong": {
+          "min": 0.8,
+          "max": 1.5
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 8.0,
+          "max": 14.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.3,
+        "heavy": 8.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 40.0,
+          "max": 80.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 18.0,
+          "max": 24.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "days"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    }
+  ]
+}

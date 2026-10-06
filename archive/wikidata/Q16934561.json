@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q16934561",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q16934561"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AX27"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "favipiravir"
+      }
+    }
+  ]
+}

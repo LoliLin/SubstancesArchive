@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2451397",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2451397"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09EX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "xenon-133"
+      }
+    }
+  ]
+}

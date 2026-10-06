@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q138227",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q138227"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aluminium chlorohydrate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q138227"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M05BX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aluminium chlorohydrate"
+      }
+    }
+  ]
+}

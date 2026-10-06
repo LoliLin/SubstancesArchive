@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q165399",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q165399"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01FA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azithromycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q165399"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA26"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "azithromycin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q433751",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q433751"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code A04"
+      }
+    }
+  ]
+}

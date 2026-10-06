@@ -1,0 +1,146 @@
+{
+  "name": "Methadone",
+  "url": "https://psychonautwiki.org/wiki/Methadone",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Methadone",
+    "Dolophine",
+    "Methadose"
+  ],
+  "class": {
+    "chemical": [
+      "Diphenylpropylamine"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "moderate toxicity",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+  ],
+  "addictionPotential": "extremely addictive with a high potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 30.0,
+        "light": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 10.0,
+          "max": 19.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

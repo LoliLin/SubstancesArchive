@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q425383",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q425383"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M05BC"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bone morphogenetic protein"
+      }
+    }
+  ]
+}

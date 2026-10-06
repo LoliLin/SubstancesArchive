@@ -1,0 +1,19 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4229451",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4229451"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09BA02"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q4229451"
+      }
+    }
+  ]
+}

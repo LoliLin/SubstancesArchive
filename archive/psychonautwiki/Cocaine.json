@@ -1,0 +1,318 @@
+{
+  "name": "Cocaine",
+  "url": "https://psychonautwiki.org/wiki/Cocaine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Cocaine",
+    "Coke",
+    "Coca",
+    "Crack",
+    "Blow",
+    "Girl",
+    "White",
+    "Snow",
+    "Nose Candy",
+    "Yayo",
+    "Perico",
+    "Gear",
+    "Chari"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tropanes"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": [
+    "individuals have died from as little as 30 mg applied to mucous membranes, whereas addicts may tolerate up to 5 grams daily"
+  ],
+  "addictionPotential": "highly addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 90.0,
+        "light": {
+          "min": 10.0,
+          "max": 30.0
+        },
+        "common": {
+          "min": 30.0,
+          "max": 60.0
+        },
+        "strong": {
+          "min": 60.0,
+          "max": 90.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 12.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 7.5,
+          "max": 16.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 10.0,
+          "max": 25.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 10.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 15.0,
+        "light": {
+          "min": 2.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 15.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 13.0,
+        "heavy": 225.0,
+        "light": {
+          "min": 13.0,
+          "max": 75.0
+        },
+        "common": {
+          "min": 75.0,
+          "max": 150.0
+        },
+        "strong": {
+          "min": 150.0,
+          "max": 225.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 40.0,
+          "max": 50.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 180.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 10.0,
+          "max": 25.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 120.0,
+          "max": 240.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "smoked",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.5,
+        "heavy": 45.0,
+        "light": {
+          "min": 5.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 45.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "ΑMT"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Alcohol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Mushrooms"
+    },
+    {
+      "name": "LSD"
+    },
+    {
+      "name": "DMT"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    }
+  ]
+}

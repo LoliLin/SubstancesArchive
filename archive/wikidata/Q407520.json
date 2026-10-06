@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407520",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407520"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium fluoride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407520"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium fluoride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407520"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V09IX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium fluoride"
+      }
+    }
+  ]
+}

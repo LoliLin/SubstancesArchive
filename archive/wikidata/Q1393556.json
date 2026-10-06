@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1393556",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1393556"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BG"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "2,4-thiazolidinedione"
+      }
+    }
+  ]
+}

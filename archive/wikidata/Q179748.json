@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q179748",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q179748"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01DA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isosorbide dinitrate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q179748"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isosorbide dinitrate"
+      }
+    }
+  ]
+}

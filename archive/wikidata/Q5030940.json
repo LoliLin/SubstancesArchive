@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5030940",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5030940"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BK02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "canagliflozin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5030940"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "canagliflozin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4890775",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4890775"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01DX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benziodarone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q245280",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q245280"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-sorbitol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q245280"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AG07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-sorbitol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q245280"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-sorbitol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q245280"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-sorbitol"
+      }
+    }
+  ]
+}

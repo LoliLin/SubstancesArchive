@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5370305",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5370305"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "emedastine"
+      }
+    }
+  ]
+}

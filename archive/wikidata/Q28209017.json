@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28209017",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28209017"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02CX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "erenumab"
+      }
+    }
+  ]
+}

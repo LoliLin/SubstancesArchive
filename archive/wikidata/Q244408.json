@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q244408",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q244408"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Diclofenac"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q244408"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Diclofenac"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q244408"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Diclofenac"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q244408"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Diclofenac"
+      }
+    }
+  ]
+}

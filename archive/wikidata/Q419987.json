@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419987",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419987"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02DB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydralazine"
+      }
+    }
+  ]
+}

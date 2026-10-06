@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5261117",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5261117"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dequalinium chloride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5261117"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dequalinium chloride"
+      }
+    }
+  ]
+}

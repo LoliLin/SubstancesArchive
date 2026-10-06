@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3827439",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3827439"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "latamoxef"
+      }
+    }
+  ]
+}

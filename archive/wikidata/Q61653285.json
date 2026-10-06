@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q61653285",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q61653285"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "candicidin"
+      }
+    }
+  ]
+}

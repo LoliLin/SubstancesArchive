@@ -1,0 +1,138 @@
+{
+  "name": "ΑMT",
+  "url": "https://psychonautwiki.org/wiki/%CE%91MT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "AMT",
+    "αMT",
+    "Indopan"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic",
+      "Entactogen"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "14 days",
+    "zero": "1 month"
+  },
+  "crossTolerances": [
+    "psychedelics"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "moderately habit-forming",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 60.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 40.0
+        },
+        "strong": {
+          "min": 40.0,
+          "max": 60.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 60.0,
+          "max": 180.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 13.0,
+          "max": 15.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Cannabis"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "2C-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Mescaline"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

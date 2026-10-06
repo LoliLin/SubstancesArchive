@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q15628111",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15628111"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iron(III) citrate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15628111"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AE08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "iron(III) citrate"
+      }
+    }
+  ]
+}

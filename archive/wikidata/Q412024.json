@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412024",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412024"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P03BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cypermethrin"
+      }
+    }
+  ]
+}

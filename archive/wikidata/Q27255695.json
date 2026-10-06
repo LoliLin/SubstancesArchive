@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27255695",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27255695"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03EA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prasterone enantate"
+      }
+    }
+  ]
+}

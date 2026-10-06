@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27272118",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27272118"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chiniofon"
+      }
+    }
+  ]
+}

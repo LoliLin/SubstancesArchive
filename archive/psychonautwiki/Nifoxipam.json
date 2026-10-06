@@ -1,0 +1,72 @@
+{
+  "name": "Nifoxipam",
+  "url": "https://psychonautwiki.org/wiki/Nifoxipam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Nifoxipam"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.1,
+        "heavy": 2.0,
+        "light": {
+          "min": 0.25,
+          "max": 0.5
+        },
+        "common": {
+          "min": 0.5,
+          "max": 1.0
+        },
+        "strong": {
+          "min": 1.0,
+          "max": 2.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 10.0,
+          "max": 75.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Alpha-GPC",
+  "url": "https://psychonautwiki.org/wiki/Alpha-GPC",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Alpha-GPC",
+    "Choline Alfoscerate",
+    "L-Alpha Glycerylphosphorylcholine"
+  ],
+  "class": {
+    "chemical": [
+      "Choline derivative"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "after prolonged and repeated usage",
+    "half": "7 days",
+    "zero": "14 days"
+  },
+  "crossTolerances": [],
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 1000.0,
+        "light": {
+          "min": 100.0,
+          "max": 300.0
+        },
+        "common": {
+          "min": 300.0,
+          "max": 500.0
+        },
+        "strong": {
+          "min": 500.0,
+          "max": 1000.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 75.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

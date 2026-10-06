@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416431",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416431"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07DA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diphenoxylate"
+      }
+    }
+  ]
+}

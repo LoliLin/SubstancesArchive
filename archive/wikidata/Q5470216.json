@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5470216",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5470216"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Formocortal"
+      }
+    }
+  ]
+}

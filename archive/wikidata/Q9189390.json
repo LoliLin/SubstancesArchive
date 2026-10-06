@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q9189390",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q9189390"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sodium calcium edetate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421342",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421342"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylbutazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421342"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylbutazone"
+      }
+    }
+  ]
+}

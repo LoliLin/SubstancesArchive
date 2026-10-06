@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q262210",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q262210"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q262210"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoconazole"
+      }
+    }
+  ]
+}

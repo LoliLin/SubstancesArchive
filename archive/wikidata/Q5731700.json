@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5731700",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5731700"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J06BB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hepatitis B immune globulin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Gaboxadol",
+  "url": "https://psychonautwiki.org/wiki/Gaboxadol",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": {
+    "chemical": [
+      "3-hydroxyisoxazole",
+      "3-Hydroxyisoxazole"
+    ],
+    "psychoactive": [
+      "Hallucinogens",
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 45.0,
+        "light": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 30.0
+        },
+        "strong": {
+          "min": 30.0,
+          "max": 45.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

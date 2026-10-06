@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q582559",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q582559"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antiprotozoal"
+      }
+    }
+  ]
+}

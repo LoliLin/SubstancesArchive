@@ -1,0 +1,102 @@
+{
+  "name": "2C-P",
+  "url": "https://psychonautwiki.org/wiki/2C-P",
+  "featured": true,
+  "systematicName": "2-(2,5-Dimethoxy-4-propylphenyl)ethanamine",
+  "commonNames": [
+    "2C-P"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "low potential for abuse and dependence",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 16.0,
+        "light": {
+          "min": 2.0,
+          "max": 6.0
+        },
+        "common": {
+          "min": 6.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 16.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "comeup": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 8.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

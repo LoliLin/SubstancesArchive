@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q426524",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426524"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N03AG05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "progabide"
+      }
+    }
+  ]
+}

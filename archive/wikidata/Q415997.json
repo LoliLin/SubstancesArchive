@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415997",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415997"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02KD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ketanserin"
+      }
+    }
+  ]
+}

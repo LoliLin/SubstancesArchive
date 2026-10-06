@@ -1,0 +1,144 @@
+{
+  "name": "MDEA",
+  "url": "https://psychonautwiki.org/wiki/MDEA",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "MDEA",
+    "MDE",
+    "Eve"
+  ],
+  "class": {
+    "chemical": [
+      "Amphetamine",
+      "MDxx",
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Entactogen"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged and repeated use",
+    "half": "1-1.5 months",
+    "zero": "2-3 months"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "serotonin|serotonergic",
+    "stimulant"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 40.0,
+        "heavy": 225.0,
+        "light": {
+          "min": 70.0,
+          "max": 120.0
+        },
+        "common": {
+          "min": 120.0,
+          "max": 180.0
+        },
+        "strong": {
+          "min": 180.0,
+          "max": 225.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 12.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

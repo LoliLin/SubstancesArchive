@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6064187",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6064187"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ioversol"
+      }
+    }
+  ]
+}

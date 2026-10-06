@@ -1,0 +1,72 @@
+{
+  "name": "Diclazepam",
+  "url": "https://psychonautwiki.org/wiki/Diclazepam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Diclazepam"
+  ],
+  "class": {
+    "chemical": [
+      "Benzodiazepines"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within 3-4 days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "GABAergic"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 4.0,
+        "light": {
+          "min": 0.5,
+          "max": 1.0
+        },
+        "common": {
+          "min": 1.0,
+          "max": 3.0
+        },
+        "strong": {
+          "min": 3.0,
+          "max": 4.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 8.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

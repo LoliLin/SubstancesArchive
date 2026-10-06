@@ -1,0 +1,86 @@
+{
+  "name": "Salvinorin A",
+  "url": "https://psychonautwiki.org/wiki/Salvinorin%20A",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Salvia",
+    "Salvia divinorum",
+    "Diviner's Sage",
+    "Ska María Pastora",
+    "Seer's Sage",
+    "Sally"
+  ],
+  "class": {
+    "chemical": [
+      "Salvinorin",
+      "Terpenoid"
+    ],
+    "psychoactive": [
+      "Hallucinogens"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": [
+    "hallucinogen"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "smoked",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "seconds"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 15.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "afterglow": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "sublingual",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "afterglow": {
+          "min": 30.0,
+          "max": 120.0,
+          "units": "minutes"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

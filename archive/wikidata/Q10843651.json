@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q10843651",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10843651"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methallenestril"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10843651"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03CC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methallenestril"
+      }
+    }
+  ]
+}

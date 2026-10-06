@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408865",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408865"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "resorcin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408865"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "resorcin"
+      }
+    }
+  ]
+}

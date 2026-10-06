@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419953",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419953"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "topotecan"
+      }
+    }
+  ]
+}

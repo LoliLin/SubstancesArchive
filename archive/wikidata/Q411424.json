@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411424",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411424"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzoyl peroxide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1236526",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1236526"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pirbuterol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1236526"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pirbuterol"
+      }
+    }
+  ]
+}

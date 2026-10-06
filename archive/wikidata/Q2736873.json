@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2736873",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2736873"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alfuzosin"
+      }
+    }
+  ]
+}

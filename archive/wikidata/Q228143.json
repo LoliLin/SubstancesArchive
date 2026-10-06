@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q228143",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q228143"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05AF05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "zuclopenthixol"
+      }
+    }
+  ]
+}

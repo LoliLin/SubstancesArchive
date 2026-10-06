@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408588",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408588"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AX24"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vilazodone"
+      }
+    }
+  ]
+}

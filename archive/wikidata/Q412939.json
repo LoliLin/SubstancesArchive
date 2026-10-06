@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412939",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412939"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "estramustine"
+      }
+    }
+  ]
+}

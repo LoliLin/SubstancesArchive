@@ -1,0 +1,107 @@
+{
+  "name": "ALD-52",
+  "url": "https://psychonautwiki.org/wiki/ALD-52",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "ALD-52",
+    "1-Acetyl-LSD",
+    "1A-LSD",
+    "1A-LAD",
+    "Orange Sunshine"
+  ],
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "5-7 days",
+    "zero": "14 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown",
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "µg",
+        "threshold": 30.0,
+        "heavy": 325.0,
+        "light": {
+          "min": 30.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 175.0
+        },
+        "strong": {
+          "min": 175.0,
+          "max": 325.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 14.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

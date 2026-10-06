@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2409",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2409"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A09AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrochloric acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2409"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrochloric acid"
+      }
+    }
+  ]
+}

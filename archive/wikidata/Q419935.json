@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419935",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01CB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "octreotide"
+      }
+    }
+  ]
+}

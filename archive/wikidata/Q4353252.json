@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4353252",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4353252"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07BB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nalmefene"
+      }
+    }
+  ]
+}

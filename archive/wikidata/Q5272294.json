@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5272294",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5272294"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibrompropamidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5272294"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AX14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dibrompropamidine"
+      }
+    }
+  ]
+}

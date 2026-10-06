@@ -1,0 +1,100 @@
+{
+  "name": "DOM",
+  "url": "https://psychonautwiki.org/wiki/DOM",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DOM",
+    "STP (Serenity, Tranquility, and Peace)"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 10.0,
+        "light": {
+          "min": 1.0,
+          "max": 3.0
+        },
+        "common": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "strong": {
+          "min": 5.0,
+          "max": 10.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "comeup": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 12.0,
+          "max": 16.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 16.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

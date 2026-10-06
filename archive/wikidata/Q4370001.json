@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4370001",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4370001"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polynoxylin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4370001"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AE05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "polynoxylin"
+      }
+    }
+  ]
+}

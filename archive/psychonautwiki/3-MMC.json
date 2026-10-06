@@ -1,0 +1,239 @@
+{
+  "name": "3-MMC",
+  "url": "https://psychonautwiki.org/wiki/3-MMC",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "3-MMC",
+    "Metaphedrone"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": null,
+  "addictionPotential": "extremely addictive with a high potential for abuse",
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 120.0,
+        "light": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "common": {
+          "min": 40.0,
+          "max": 60.0
+        },
+        "strong": {
+          "min": 60.0,
+          "max": 120.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.5,
+          "max": 4.5,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "common": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "strong": {
+          "min": 50.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "seconds"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "Hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": 350.0,
+        "light": {
+          "min": 50.0,
+          "max": 150.0
+        },
+        "common": {
+          "min": 150.0,
+          "max": 250.0
+        },
+        "strong": {
+          "min": 250.0,
+          "max": 350.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

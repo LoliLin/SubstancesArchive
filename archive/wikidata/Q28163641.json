@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28163641",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163641"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R07AA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pulmonary surfactant"
+      }
+    }
+  ]
+}

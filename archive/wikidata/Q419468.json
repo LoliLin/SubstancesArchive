@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419468",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419468"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AE14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciclopirox"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419468"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciclopirox"
+      }
+    }
+  ]
+}

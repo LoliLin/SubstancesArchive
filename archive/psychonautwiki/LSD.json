@@ -1,0 +1,121 @@
+{
+  "name": "LSD",
+  "url": "https://psychonautwiki.org/wiki/LSD",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "LSD",
+    "LSD-25",
+    "Lucy",
+    "L",
+    "Acid",
+    "Cid",
+    "Tabs",
+    "Blotter"
+  ],
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": null,
+    "zero": "5 days"
+  },
+  "crossTolerances": [
+    "psychedelics"
+  ],
+  "toxicity": [
+    "extremely low toxicity relative to dose"
+  ],
+  "addictionPotential": "non-addictive with a low abuse potential",
+  "roas": [
+    {
+      "name": "sublingual",
+      "dose": {
+        "units": "µg",
+        "threshold": 15.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 15.0,
+          "max": 75.0
+        },
+        "common": {
+          "min": 75.0,
+          "max": 150.0
+        },
+        "strong": {
+          "min": 150.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 12.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 12.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": {
+        "min": 71.0,
+        "max": 71.0
+      }
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Deliriants"
+    },
+    {
+      "name": "Tricyclic antidepressants"
+    },
+    {
+      "name": "Ritonavir"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

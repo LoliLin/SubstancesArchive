@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4116192",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4116192"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyphenbutazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4116192"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyphenbutazone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4116192"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyphenbutazone"
+      }
+    }
+  ]
+}

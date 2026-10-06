@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421058",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421058"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AX17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "milnacipran"
+      }
+    }
+  ]
+}

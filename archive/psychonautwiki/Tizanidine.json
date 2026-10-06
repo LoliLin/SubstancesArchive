@@ -1,0 +1,77 @@
+{
+  "name": "Tizanidine",
+  "url": "https://psychonautwiki.org/wiki/Tizanidine",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": {
+    "chemical": [
+      "Imidazoline",
+      "Arylaminoimidazoline"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "μg",
+        "threshold": 25.0,
+        "heavy": 8.0,
+        "light": {
+          "min": 2.0,
+          "max": 3.0
+        },
+        "common": {
+          "min": 4.0,
+          "max": 5.0
+        },
+        "strong": {
+          "min": 6.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

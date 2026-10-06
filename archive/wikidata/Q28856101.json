@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28856101",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28856101"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BD16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "canagliflozin / metformin hydrochloride"
+      }
+    }
+  ]
+}

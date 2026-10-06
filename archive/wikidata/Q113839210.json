@@ -1,0 +1,19 @@
+{
+  "item": "http://www.wikidata.org/entity/Q113839210",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q113839210"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BE51"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q113839210"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q31686490",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q31686490"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03BB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "androstanolone"
+      }
+    }
+  ]
+}

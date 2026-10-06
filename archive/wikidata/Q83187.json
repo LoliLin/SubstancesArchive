@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q83187",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83187"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11DA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thiamine(1+) ion"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83187"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11DA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thiamine(1+) ion"
+      }
+    }
+  ]
+}

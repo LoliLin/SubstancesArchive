@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412221",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412221"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02AC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clonidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412221"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02CX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clonidine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412221"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clonidine"
+      }
+    }
+  ]
+}

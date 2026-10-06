@@ -1,0 +1,74 @@
+{
+  "name": "Aniracetam",
+  "url": "https://psychonautwiki.org/wiki/Aniracetam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Aniracetam"
+  ],
+  "class": {
+    "chemical": [
+      "Racetams"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "racetam",
+    "nootropic"
+  ],
+  "toxicity": null,
+  "addictionPotential": "non-addictive with a low potential for abuse",
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 350.0,
+        "heavy": 2400.0,
+        "light": {
+          "min": 500.0,
+          "max": 1200.0
+        },
+        "common": {
+          "min": 1200.0,
+          "max": 1800.0
+        },
+        "strong": {
+          "min": 1800.0,
+          "max": 2400.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "2,5-DMA",
+  "url": "https://psychonautwiki.org/wiki/2%2C5-DMA",
+  "featured": null,
+  "systematicName": "1-(2,5-dimethoxyphenyl)propan-2-amine",
+  "commonNames": [
+    "2,5-DMA",
+    "DOH"
+  ],
+  "class": {
+    "chemical": [
+      "Amphetamine"
+    ],
+    "psychoactive": [
+      "Psychedelic",
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "after ingestion over the couse of multiple days",
+    "half": "3-5 days",
+    "zero": "7-10 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 200.0,
+        "light": {
+          "min": 10.0,
+          "max": 40.0
+        },
+        "common": {
+          "min": 40.0,
+          "max": 80.0
+        },
+        "strong": {
+          "min": 80.0,
+          "max": 200.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

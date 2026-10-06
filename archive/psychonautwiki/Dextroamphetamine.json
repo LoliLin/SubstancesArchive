@@ -1,0 +1,197 @@
+{
+  "name": "Dextroamphetamine",
+  "url": "https://psychonautwiki.org/wiki/Dextroamphetamine",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Dextroamphetamine",
+    "Dexamphetamine",
+    "D-amphetamine",
+    "Dexedrine",
+    "Dex",
+    "Attentin"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": 21.5,
+        "light": {
+          "min": 3.0,
+          "max": 7.5
+        },
+        "common": {
+          "min": 7.5,
+          "max": 12.0
+        },
+        "strong": {
+          "min": 12.0,
+          "max": 21.5
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.5,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.75,
+        "heavy": 30.0,
+        "light": {
+          "min": 3.75,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 16.0
+        },
+        "strong": {
+          "min": 16.0,
+          "max": 30.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.5,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "Methoxetamine"
+    },
+    {
+      "name": "Psychedelics"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "DOx"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

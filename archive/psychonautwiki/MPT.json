@@ -1,0 +1,48 @@
+{
+  "name": "MPT",
+  "url": "https://psychonautwiki.org/wiki/MPT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "MPT",
+    "Methylpropyltryptamine"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": null,
+        "heavy": null,
+        "light": null,
+        "common": null,
+        "strong": null
+      },
+      "duration": null,
+      "bioavailability": null
+    }
+  ]
+}

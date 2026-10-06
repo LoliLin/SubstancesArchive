@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1122870",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1122870"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium gluconate"
+      }
+    }
+  ]
+}

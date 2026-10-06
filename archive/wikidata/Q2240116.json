@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2240116",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2240116"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levocabastine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2240116"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levocabastine"
+      }
+    }
+  ]
+}

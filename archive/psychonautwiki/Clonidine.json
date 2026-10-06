@@ -1,0 +1,86 @@
+{
+  "name": "Clonidine",
+  "url": "https://psychonautwiki.org/wiki/Clonidine",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Catapres",
+    "Catapres-TTS",
+    "Kapvay",
+    "Nexiclon XR"
+  ],
+  "class": {
+    "chemical": [
+      "Imidazoline",
+      "Arylaminoimidazoline"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": "not addictive and has a low potential for abuse",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "μg",
+        "threshold": 25.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 50.0,
+          "max": 75.0
+        },
+        "common": {
+          "min": 75.0,
+          "max": 100.0
+        },
+        "strong": {
+          "min": 100.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

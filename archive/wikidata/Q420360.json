@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420360",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phentolamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420360"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB36"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phentolamine"
+      }
+    }
+  ]
+}

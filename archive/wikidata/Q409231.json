@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409231",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409231"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01EB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "indomethacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409231"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "indomethacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409231"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA23"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "indomethacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409231"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "indomethacin"
+      }
+    }
+  ]
+}

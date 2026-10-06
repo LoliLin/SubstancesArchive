@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q632405",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q632405"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AX24"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-epinastine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q632405"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-epinastine"
+      }
+    }
+  ]
+}

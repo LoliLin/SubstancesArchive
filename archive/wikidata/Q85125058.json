@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q85125058",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q85125058"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA35"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "begelomab"
+      }
+    }
+  ]
+}

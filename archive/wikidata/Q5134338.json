@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5134338",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AH30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clioquinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D09AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clioquinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clioquinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clioquinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5134338"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clioquinol"
+      }
+    }
+  ]
+}

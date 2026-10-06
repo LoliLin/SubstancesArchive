@@ -1,0 +1,19 @@
+{
+  "item": "http://www.wikidata.org/entity/Q647807",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q647807"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AK"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q647807"
+      }
+    }
+  ]
+}

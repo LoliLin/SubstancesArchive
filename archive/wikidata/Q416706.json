@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416706",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416706"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nedocromil"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416706"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nedocromil"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416706"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nedocromil"
+      }
+    }
+  ]
+}

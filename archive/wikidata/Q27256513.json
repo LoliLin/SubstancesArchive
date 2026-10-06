@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27256513",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27256513"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA28"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "piketoprofen"
+      }
+    }
+  ]
+}

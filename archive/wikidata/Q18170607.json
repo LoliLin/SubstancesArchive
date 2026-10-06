@@ -1,0 +1,19 @@
+{
+  "item": "http://www.wikidata.org/entity/Q18170607",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q18170607"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AK08"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q18170607"
+      }
+    }
+  ]
+}

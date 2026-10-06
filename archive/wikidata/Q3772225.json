@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3772225",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3772225"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glibornuride"
+      }
+    }
+  ]
+}

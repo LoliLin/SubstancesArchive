@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q40441442",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q40441442"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07XX12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "patisiran"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421104",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421104"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tetrazepam"
+      }
+    }
+  ]
+}

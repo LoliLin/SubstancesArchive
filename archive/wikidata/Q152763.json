@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q152763",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q152763"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05AN"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lithium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q152763"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05AN01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lithium"
+      }
+    }
+  ]
+}

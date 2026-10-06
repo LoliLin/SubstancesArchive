@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q213511",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q213511"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AF02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "erythromycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q213511"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01FA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "erythromycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q213511"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "erythromycin"
+      }
+    }
+  ]
+}

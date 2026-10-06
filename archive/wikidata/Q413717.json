@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413717",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413717"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-baclofen"
+      }
+    }
+  ]
+}

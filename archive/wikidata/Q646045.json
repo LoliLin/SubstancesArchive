@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q646045",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q646045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AX10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "moxisylyte"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q646045"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BE06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "moxisylyte"
+      }
+    }
+  ]
+}

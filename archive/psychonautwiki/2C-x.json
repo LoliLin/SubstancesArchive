@@ -1,0 +1,43 @@
+{
+  "name": "2C-x",
+  "url": "https://psychonautwiki.org/wiki/2C-x",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": null,
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": [
+    {
+      "name": "amt"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "5-meo-xxt"
+    },
+    {
+      "name": "amphetamines"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "maois"
+    },
+    {
+      "name": "nbomes"
+    }
+  ],
+  "roas": null
+}

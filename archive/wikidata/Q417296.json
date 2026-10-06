@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417296",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417296"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M04AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "febuxostat"
+      }
+    }
+  ]
+}

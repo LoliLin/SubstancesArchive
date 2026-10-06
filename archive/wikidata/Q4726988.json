@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4726988",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4726988"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09XA54"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aliskiren/amlodipine/hydrochlorothiazide"
+      }
+    }
+  ]
+}

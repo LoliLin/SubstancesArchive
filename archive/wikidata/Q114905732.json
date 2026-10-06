@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q114905732",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q114905732"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "1-(diaminomethylidene)-2-hexylguanidine"
+      }
+    }
+  ]
+}

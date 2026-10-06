@@ -1,0 +1,63 @@
+{
+  "name": "N-Acetylcysteine",
+  "url": "https://psychonautwiki.org/wiki/N-Acetylcysteine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "N-Acetylcysteine"
+  ],
+  "class": {
+    "chemical": [
+      "Cysteine"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 100.0,
+        "heavy": 1500.0,
+        "light": {
+          "min": 400.0,
+          "max": 600.0
+        },
+        "common": {
+          "min": 600.0,
+          "max": 1000.0
+        },
+        "strong": {
+          "min": 1000.0,
+          "max": 1500.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1165293",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1165293"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-thiocolchicoside"
+      }
+    }
+  ]
+}

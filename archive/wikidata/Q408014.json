@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408014",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408014"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AX25"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chondroitin sulfate"
+      }
+    }
+  ]
+}

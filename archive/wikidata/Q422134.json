@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422134",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422134"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methylene blue"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422134"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CG05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methylene blue"
+      }
+    }
+  ]
+}

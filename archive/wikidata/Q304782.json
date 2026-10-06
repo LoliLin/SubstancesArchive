@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q304782",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q304782"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "etidocaine"
+      }
+    }
+  ]
+}

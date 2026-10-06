@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2393348",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2393348"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EE03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bimatoprost"
+      }
+    }
+  ]
+}

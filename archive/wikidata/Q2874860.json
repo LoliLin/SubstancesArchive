@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2874860",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2874860"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AC"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bulk-forming laxative"
+      }
+    }
+  ]
+}

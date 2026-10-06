@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q426044",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426044"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07XX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pitolisant"
+      }
+    }
+  ]
+}

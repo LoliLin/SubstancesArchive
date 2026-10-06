@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q17143468",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q17143468"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A16AA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metreleptin"
+      }
+    }
+  ]
+}

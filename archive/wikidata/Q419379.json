@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419379",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419379"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02AA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium peroxide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419379"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium peroxide"
+      }
+    }
+  ]
+}

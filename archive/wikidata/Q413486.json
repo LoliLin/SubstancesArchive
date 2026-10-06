@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q413486",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413486"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA32"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diphenhydramine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q413486"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "diphenhydramine"
+      }
+    }
+  ]
+}

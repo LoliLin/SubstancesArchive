@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27277776",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27277776"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "arginine hydrochloride"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1227218",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1227218"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01CA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxycinchophen"
+      }
+    }
+  ]
+}

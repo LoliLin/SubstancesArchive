@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6659956",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6659956"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BJ03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lixisenatide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6659956"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BX10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lixisenatide"
+      }
+    }
+  ]
+}

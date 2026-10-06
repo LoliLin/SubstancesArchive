@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415196",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415196"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamerazine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415196"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01ED07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulfamerazine"
+      }
+    }
+  ]
+}

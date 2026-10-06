@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2344582",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2344582"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AF03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "zalcitabine"
+      }
+    }
+  ]
+}

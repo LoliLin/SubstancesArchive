@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416473",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metaproterenol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metaproterenol"
+      }
+    }
+  ]
+}

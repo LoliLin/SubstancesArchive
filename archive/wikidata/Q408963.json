@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q408963",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q408963"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "indoramin"
+      }
+    }
+  ]
+}

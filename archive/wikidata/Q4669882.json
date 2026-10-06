@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4669882",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4669882"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "absorbable gelatin sponge"
+      }
+    }
+  ]
+}

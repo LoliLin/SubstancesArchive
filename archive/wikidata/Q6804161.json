@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6804161",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6804161"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BD"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "measles vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6804161"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07BD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "measles vaccine"
+      }
+    }
+  ]
+}

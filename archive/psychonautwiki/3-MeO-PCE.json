@@ -1,0 +1,148 @@
+{
+  "name": "3-MeO-PCE",
+  "url": "https://psychonautwiki.org/wiki/3-MeO-PCE",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "3-MeO-PCE",
+    "Methoxyeticyclidine"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociatives"
+  ],
+  "toxicity": [
+    "toxic dosage is unknown"
+  ],
+  "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
+  "dangerousInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Depressants"
+    }
+  ],
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 20.0,
+        "light": {
+          "min": 3.0,
+          "max": 6.0
+        },
+        "common": {
+          "min": 6.0,
+          "max": 12.0
+        },
+        "strong": {
+          "min": 12.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 3.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 45.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 1.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 45.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.0,
+        "heavy": 25.0,
+        "light": {
+          "min": 4.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 48.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

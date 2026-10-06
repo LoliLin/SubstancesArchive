@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7455005",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7455005"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sermorelin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7455005"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sermorelin"
+      }
+    }
+  ]
+}

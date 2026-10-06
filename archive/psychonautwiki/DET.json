@@ -1,0 +1,76 @@
+{
+  "name": "DET",
+  "url": "https://psychonautwiki.org/wiki/DET",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Diethyltryptamine",
+    "DET"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 20.0,
+          "max": 40.0
+        },
+        "common": {
+          "min": 40.0,
+          "max": 70.0
+        },
+        "strong": {
+          "min": 70.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": null,
+        "afterglow": {
+          "min": 2.0,
+          "max": 8.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

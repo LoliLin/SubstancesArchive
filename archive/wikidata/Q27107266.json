@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27107266",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27107266"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Lypressin"
+      }
+    }
+  ]
+}

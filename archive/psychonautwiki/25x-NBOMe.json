@@ -1,0 +1,82 @@
+{
+  "name": "25x-NBOMe",
+  "url": "https://psychonautwiki.org/wiki/25x-NBOMe",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": null,
+  "class": null,
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "1 week",
+    "zero": "2 weeks"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": null,
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Lithium"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxt"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "DOx"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "MXE"
+    }
+  ],
+  "roas": null
+}

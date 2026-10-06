@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q46452",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q46452"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07DA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "opium"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q46452"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "opium"
+      }
+    }
+  ]
+}

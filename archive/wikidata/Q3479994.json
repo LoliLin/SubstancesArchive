@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3479994",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3479994"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-sertaconazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3479994"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-sertaconazole"
+      }
+    }
+  ]
+}

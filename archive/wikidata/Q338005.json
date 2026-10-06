@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q338005",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q338005"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acarbose"
+      }
+    }
+  ]
+}

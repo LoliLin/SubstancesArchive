@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q174786",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q174786"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05DB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pentoxyverine"
+      }
+    }
+  ]
+}

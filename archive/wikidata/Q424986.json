@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424986",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424986"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thiabendazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424986"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "thiabendazole"
+      }
+    }
+  ]
+}

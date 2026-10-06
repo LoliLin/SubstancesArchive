@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6817833",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6817833"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meprednisone"
+      }
+    }
+  ]
+}

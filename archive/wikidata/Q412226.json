@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q412226",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q412226"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BE04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "yohimbine"
+      }
+    }
+  ]
+}

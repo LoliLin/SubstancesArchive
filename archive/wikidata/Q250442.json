@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q250442",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q250442"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B03BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methylcobalamin"
+      }
+    }
+  ]
+}

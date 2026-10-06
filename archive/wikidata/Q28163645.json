@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28163645",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163645"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J06AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anti-tetanus immunoglobulin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163645"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J06BB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "anti-tetanus immunoglobulin"
+      }
+    }
+  ]
+}

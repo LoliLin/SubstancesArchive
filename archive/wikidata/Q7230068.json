@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7230068",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7230068"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "porfimer sodium"
+      }
+    }
+  ]
+}

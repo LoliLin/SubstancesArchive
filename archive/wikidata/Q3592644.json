@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3592644",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3592644"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04AC30"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "etybenzatropine"
+      }
+    }
+  ]
+}

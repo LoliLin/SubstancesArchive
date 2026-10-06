@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q473522",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q473522"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08CA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ammonium ferric citrate"
+      }
+    }
+  ]
+}

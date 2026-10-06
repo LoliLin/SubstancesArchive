@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q95349913",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q95349913"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AD"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "antithrombotic enzyme"
+      }
+    }
+  ]
+}

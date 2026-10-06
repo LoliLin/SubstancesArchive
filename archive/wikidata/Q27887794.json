@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27887794",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27887794"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06BA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenethylline"
+      }
+    }
+  ]
+}

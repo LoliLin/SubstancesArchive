@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7844989",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7844989"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BG01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-troglitazone"
+      }
+    }
+  ]
+}

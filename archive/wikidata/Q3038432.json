@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3038432",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3038432"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01BA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ornipressin"
+      }
+    }
+  ]
+}

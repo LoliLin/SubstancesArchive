@@ -1,0 +1,168 @@
+{
+  "name": "ETH-CAT",
+  "url": "https://psychonautwiki.org/wiki/ETH-CAT",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "ETH-CAT",
+    "Ethcathinone",
+    "Ethylpropion"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "2 - 3 days",
+    "zero": "3-5 days"
+  },
+  "crossTolerances": [
+    "dopamine",
+    "stimulant"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "mildly addictive with a comparatively low potential for abuse",
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 15.0,
+          "max": 35.0
+        },
+        "common": {
+          "min": 35.0,
+          "max": 70.0
+        },
+        "strong": {
+          "min": 70.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 60.0,
+        "heavy": 325.0,
+        "light": {
+          "min": 100.0,
+          "max": 150.0
+        },
+        "common": {
+          "min": 150.0,
+          "max": 225.0
+        },
+        "strong": {
+          "min": 225.0,
+          "max": 325.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    }
+  ]
+}

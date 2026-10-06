@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419421",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419421"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tyrothricin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419421"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tyrothricin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419421"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tyrothricin"
+      }
+    }
+  ]
+}

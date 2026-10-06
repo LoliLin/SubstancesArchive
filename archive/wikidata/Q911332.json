@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q911332",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q911332"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flaxseed"
+      }
+    }
+  ]
+}

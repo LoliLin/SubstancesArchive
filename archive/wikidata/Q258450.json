@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q258450",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q258450"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01CE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzylpenicillin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q258450"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "benzylpenicillin"
+      }
+    }
+  ]
+}

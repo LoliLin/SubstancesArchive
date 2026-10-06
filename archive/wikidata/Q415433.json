@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415433",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415433"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naphazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415433"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naphazoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415433"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "naphazoline"
+      }
+    }
+  ]
+}

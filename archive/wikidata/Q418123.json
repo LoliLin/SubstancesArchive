@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418123",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418123"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AX07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethyl fumarate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418123"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07XX09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethyl fumarate"
+      }
+    }
+  ]
+}

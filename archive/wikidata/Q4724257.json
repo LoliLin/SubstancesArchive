@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4724257",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4724257"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A16AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alglucerase"
+      }
+    }
+  ]
+}

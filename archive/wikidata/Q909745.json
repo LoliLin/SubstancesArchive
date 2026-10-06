@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q909745",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q909745"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BH05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "linagliptin"
+      }
+    }
+  ]
+}

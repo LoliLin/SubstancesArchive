@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q95359530",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q95359530"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acne treatment"
+      }
+    }
+  ]
+}

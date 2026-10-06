@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q97478183",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q97478183"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09BB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "PERINDOPRIL/AMLODIPINE STADA"
+      }
+    }
+  ]
+}

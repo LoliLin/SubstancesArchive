@@ -1,0 +1,90 @@
+{
+  "name": "DOI",
+  "url": "https://psychonautwiki.org/wiki/DOI",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "DOI"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "5-7 days",
+    "zero": "10-14 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 3.0,
+        "light": {
+          "min": 0.5,
+          "max": 1.0
+        },
+        "common": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "strong": {
+          "min": 2.0,
+          "max": 3.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "comeup": {
+          "min": 1.5,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 16.0,
+          "max": 24.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

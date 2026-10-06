@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4774595",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4774595"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02D"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Anticestodal agent"
+      }
+    }
+  ]
+}

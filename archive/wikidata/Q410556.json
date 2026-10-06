@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410556",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410556"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02AD05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulprostone"
+      }
+    }
+  ]
+}

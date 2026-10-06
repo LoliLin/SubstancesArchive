@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3470652",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3470652"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V10BX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "samarium sm-153 lexidronam pentasodium"
+      }
+    }
+  ]
+}

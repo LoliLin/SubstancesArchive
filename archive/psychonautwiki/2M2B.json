@@ -1,0 +1,88 @@
+{
+  "name": "2M2B",
+  "url": "https://psychonautwiki.org/wiki/2M2B",
+  "featured": true,
+  "systematicName": "2-methylbutan-2-ol",
+  "commonNames": [
+    "2M2B",
+    "2-methyl-2-butanol"
+  ],
+  "class": {
+    "chemical": [
+      "Alcohol"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "GABA",
+    "depressants"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": null,
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mL",
+        "threshold": 0.5,
+        "heavy": 15.0,
+        "light": {
+          "min": 1.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 15.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 8.0,
+          "max": 14.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

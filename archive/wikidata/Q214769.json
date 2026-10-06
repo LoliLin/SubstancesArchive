@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q214769",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q214769"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium oxide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q214769"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium oxide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q214769"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CC10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium oxide"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q433921",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q433921"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code C10"
+      }
+    }
+  ]
+}

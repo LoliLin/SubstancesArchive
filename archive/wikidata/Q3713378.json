@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3713378",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3713378"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05CB08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "domiodol"
+      }
+    }
+  ]
+}

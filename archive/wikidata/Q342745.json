@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q342745",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q342745"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AX18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acrivastine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q222424",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q222424"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fusafungine"
+      }
+    }
+  ]
+}

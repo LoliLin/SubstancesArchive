@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q794152",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q794152"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C02CC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bethanidine"
+      }
+    }
+  ]
+}

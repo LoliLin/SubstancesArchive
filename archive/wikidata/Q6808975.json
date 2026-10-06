@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6808975",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6808975"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "megestrol acetate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6808975"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03DB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "megestrol acetate"
+      }
+    }
+  ]
+}

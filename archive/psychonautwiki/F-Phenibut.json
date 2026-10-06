@@ -1,0 +1,86 @@
+{
+  "name": "F-Phenibut",
+  "url": "https://psychonautwiki.org/wiki/F-Phenibut",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "F-Phenibut",
+    "Fluorophenibut",
+    "Fluorobut"
+  ],
+  "class": {
+    "chemical": [
+      "Gabapentinoids"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "GABA"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids",
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 600.0,
+        "light": {
+          "min": 100.0,
+          "max": 150.0
+        },
+        "common": {
+          "min": 150.0,
+          "max": 400.0
+        },
+        "strong": {
+          "min": 400.0,
+          "max": 600.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q288266",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q288266"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium sulfate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q288266"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium sulfate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q288266"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium sulfate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q288266"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium sulfate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q288266"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magnesium sulfate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Benzodiazepines",
+  "url": "https://psychonautwiki.org/wiki/Benzodiazepines",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": null,
+  "class": null,
+  "tolerance": {
+    "full": "within a couple of days of continuous use",
+    "half": null,
+    "zero": "7-14 days"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "low toxicity",
+    "potentially lethality increases significantly when mixed with depressants like alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "unsafeInteractions": null,
+  "roas": null,
+  "uncertainInteractions": [
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Depressants"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ]
+}

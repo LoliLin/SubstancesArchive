@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6577298",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6577298"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01ED06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Sulfaperin"
+      }
+    }
+  ]
+}

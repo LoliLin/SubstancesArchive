@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q420188",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420188"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenoterol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420188"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenoterol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q420188"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenoterol"
+      }
+    }
+  ]
+}

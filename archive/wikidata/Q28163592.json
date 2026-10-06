@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28163592",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163592"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J04AM03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethambutol/isoniazid"
+      }
+    }
+  ]
+}

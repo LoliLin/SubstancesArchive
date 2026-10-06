@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q37525",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q37525"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glucose"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q37525"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glucose"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q37525"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V06DC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glucose"
+      }
+    }
+  ]
+}

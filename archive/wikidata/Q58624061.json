@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q58624061",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q58624061"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "viral vaccines"
+      }
+    }
+  ]
+}

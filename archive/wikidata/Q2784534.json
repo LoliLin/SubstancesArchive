@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2784534",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2784534"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06BA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenozolone"
+      }
+    }
+  ]
+}

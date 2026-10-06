@@ -1,0 +1,233 @@
+{
+  "name": "2C-B",
+  "url": "https://psychonautwiki.org/wiki/2C-B",
+  "featured": true,
+  "systematicName": "2-(4-Bromo-2,5-dimethoxyphenyl)ethanamine",
+  "commonNames": [
+    "2C-B",
+    "Nexus",
+    "Bees"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted phenethylamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "non-addictive with a low potential for abuse",
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 23.0,
+        "light": {
+          "min": 5.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 12.0
+        },
+        "strong": {
+          "min": 12.0,
+          "max": 23.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 10.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.5
+        },
+        "common": {
+          "min": 2.5,
+          "max": 5.0
+        },
+        "strong": {
+          "min": 5.0,
+          "max": 10.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "seconds"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 1.5,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 45.0,
+        "light": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "common": {
+          "min": 15.0,
+          "max": 25.0
+        },
+        "strong": {
+          "min": 25.0,
+          "max": 45.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 2.5,
+          "max": 3.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 5.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "rectal",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 23.0,
+        "light": {
+          "min": 5.0,
+          "max": 8.0
+        },
+        "common": {
+          "min": 8.0,
+          "max": 12.0
+        },
+        "strong": {
+          "min": 12.0,
+          "max": 23.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 0.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 7.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q423308",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423308"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cabergoline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q423308"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N04BC06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cabergoline"
+      }
+    }
+  ]
+}

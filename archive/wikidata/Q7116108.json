@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7116108",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7116108"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxyphenisatin"
+      }
+    }
+  ]
+}

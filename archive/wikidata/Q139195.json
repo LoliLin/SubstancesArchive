@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q139195",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139195"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11CC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcitriol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139195"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "calcitriol"
+      }
+    }
+  ]
+}

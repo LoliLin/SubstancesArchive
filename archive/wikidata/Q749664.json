@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q749664",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q749664"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "deferiprone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "item": "http://www.wikidata.org/entity/Q216935",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R02AD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01HA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q216935"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02DA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lidocaine"
+      }
+    }
+  ]
+}

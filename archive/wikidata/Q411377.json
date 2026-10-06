@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411377",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411377"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "linezolid"
+      }
+    }
+  ]
+}

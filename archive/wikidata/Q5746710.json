@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5746710",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5746710"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01CA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hetacillin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q39053484",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q39053484"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01BF06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "artesunate/pyronaridine"
+      }
+    }
+  ]
+}

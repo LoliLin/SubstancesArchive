@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1640947",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1640947"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenindione"
+      }
+    }
+  ]
+}

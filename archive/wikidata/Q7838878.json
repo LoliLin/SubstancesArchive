@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7838878",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7838878"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tretoquinol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7838878"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tretoquinol"
+      }
+    }
+  ]
+}

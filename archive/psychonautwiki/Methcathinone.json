@@ -1,0 +1,66 @@
+{
+  "name": "Methcathinone",
+  "url": "https://psychonautwiki.org/wiki/Methcathinone",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Methcathinone",
+    "Ephedrone",
+    "Methcat",
+    "Cat",
+    "Jeff",
+    "MC"
+  ],
+  "class": {
+    "chemical": [
+      "Cathinone",
+      "Substituted cathinones"
+    ],
+    "psychoactive": [
+      "Entactogen",
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "strong": {
+          "min": 200.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

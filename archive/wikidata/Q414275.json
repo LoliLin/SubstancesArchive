@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q414275",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414275"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10BB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolbutamide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414275"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V04CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolbutamide"
+      }
+    }
+  ]
+}

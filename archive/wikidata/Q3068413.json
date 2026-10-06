@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3068413",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3068413"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AC12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenticonazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3068413"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fenticonazole"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2319020",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2319020"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cefadroxil"
+      }
+    }
+  ]
+}

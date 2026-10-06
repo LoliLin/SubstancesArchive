@@ -1,0 +1,80 @@
+{
+  "item": "http://www.wikidata.org/entity/Q169569",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q169569"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metronidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q169569"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metronidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q169569"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metronidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q169569"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metronidazole"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q169569"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "metronidazole"
+      }
+    }
+  ]
+}

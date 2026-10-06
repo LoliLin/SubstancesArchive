@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q304285",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q304285"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M01AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "niflumic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q304285"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AA17"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "niflumic acid"
+      }
+    }
+  ]
+}

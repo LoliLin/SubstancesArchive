@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q851507",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q851507"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nylidrin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q851507"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G02CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nylidrin"
+      }
+    }
+  ]
+}

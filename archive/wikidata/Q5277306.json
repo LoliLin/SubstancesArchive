@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5277306",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5277306"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05DB28"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimethoxanate"
+      }
+    }
+  ]
+}

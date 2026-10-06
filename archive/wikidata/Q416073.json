@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416073",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416073"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rifaximin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416073"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06AX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rifaximin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411447",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411447"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01MA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-ofloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411447"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-ofloxacin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411447"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DL-ofloxacin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5119448",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5119448"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciclesonide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5119448"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ciclesonide"
+      }
+    }
+  ]
+}

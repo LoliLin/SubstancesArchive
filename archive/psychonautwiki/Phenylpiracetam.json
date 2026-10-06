@@ -1,0 +1,80 @@
+{
+  "name": "Phenylpiracetam",
+  "url": "https://psychonautwiki.org/wiki/Phenylpiracetam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Phenylpiracetam",
+    "Phenotropil",
+    "Carphedon"
+  ],
+  "class": {
+    "chemical": [
+      "Racetams"
+    ],
+    "psychoactive": [
+      "Stimulants",
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "racetam",
+    "nootropic"
+  ],
+  "toxicity": [
+    "safe even when high doses are consumed for a long period of time",
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "non-addictive with a low potential for abuse",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 400.0,
+        "light": {
+          "min": 50.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 200.0
+        },
+        "strong": {
+          "min": 200.0,
+          "max": 400.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": null,
+          "max": null,
+          "units": "hour"
+        },
+        "offset": null,
+        "total": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

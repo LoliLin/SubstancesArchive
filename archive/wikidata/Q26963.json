@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q26963",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q26963"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03DA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "progesterone"
+      }
+    }
+  ]
+}

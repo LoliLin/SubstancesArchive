@@ -1,0 +1,119 @@
+{
+  "name": "MCPP",
+  "url": "https://psychonautwiki.org/wiki/MCPP",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "mCPP"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted piperazines"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 15.0,
+        "heavy": 150.0,
+        "light": {
+          "min": 20.0,
+          "max": 50.0
+        },
+        "common": {
+          "min": 50.0,
+          "max": 120.0
+        },
+        "strong": {
+          "min": 120.0,
+          "max": 150.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 20.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 3.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "total": null,
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Dissociatives"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "25x-NBOH"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

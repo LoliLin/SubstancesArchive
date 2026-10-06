@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422273",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422273"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clindamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422273"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clindamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422273"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01FF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clindamycin"
+      }
+    }
+  ]
+}

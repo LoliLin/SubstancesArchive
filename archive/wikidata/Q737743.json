@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q737743",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q737743"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R07AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "doxapram"
+      }
+    }
+  ]
+}

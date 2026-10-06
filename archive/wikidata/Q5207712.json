@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5207712",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5207712"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AP07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "daclatasvir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5207712"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AX14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "daclatasvir"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20817162",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BB12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sinecatechins"
+      }
+    }
+  ]
+}

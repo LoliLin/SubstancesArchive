@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7250328",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7250328"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CM06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "propiomazine"
+      }
+    }
+  ]
+}

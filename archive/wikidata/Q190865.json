@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q190865",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q190865"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium permanganate"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q190865"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium permanganate"
+      }
+    }
+  ]
+}

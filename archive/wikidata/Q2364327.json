@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2364327",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2364327"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AE09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sulbentine"
+      }
+    }
+  ]
+}

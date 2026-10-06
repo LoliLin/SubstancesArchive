@@ -1,0 +1,86 @@
+{
+  "name": "Mephenaqualone",
+  "url": "https://psychonautwiki.org/wiki/Mephenaqualone",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Mephenaqualone"
+  ],
+  "class": {
+    "chemical": [
+      "Quinazolinone"
+    ],
+    "psychoactive": [
+      "Depressant"
+    ]
+  },
+  "tolerance": {
+    "full": "within a few days of repeated administration",
+    "half": null,
+    "zero": null
+  },
+  "crossTolerances": [
+    "GABA|gabaergic",
+    "depressants"
+  ],
+  "toxicity": null,
+  "addictionPotential": "highly addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 4.0,
+        "light": {
+          "min": 0.5,
+          "max": 1.5
+        },
+        "common": {
+          "min": 1.5,
+          "max": 2.5
+        },
+        "strong": {
+          "min": 2.5,
+          "max": 4.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 40.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 10.0,
+          "max": 15.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 15.0,
+          "max": 20.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 6.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ]
+}

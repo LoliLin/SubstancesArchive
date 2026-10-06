@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q273169",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q273169"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AB"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "capsaicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q273169"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M02AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "capsaicin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q273169"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01BX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "capsaicin"
+      }
+    }
+  ]
+}

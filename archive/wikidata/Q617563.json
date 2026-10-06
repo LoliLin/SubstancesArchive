@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q617563",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q617563"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A16AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cysteamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q617563"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cysteamine"
+      }
+    }
+  ]
+}

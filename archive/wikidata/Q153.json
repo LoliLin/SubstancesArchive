@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q153",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q153"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AX08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethanol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q153"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AB16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethanol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q153"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AZ01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethanol"
+      }
+    }
+  ]
+}

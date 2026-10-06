@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407617",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407617"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sertraline"
+      }
+    }
+  ]
+}

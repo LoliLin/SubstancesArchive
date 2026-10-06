@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418546",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418546"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DF01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aztreonam"
+      }
+    }
+  ]
+}

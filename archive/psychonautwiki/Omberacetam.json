@@ -1,0 +1,116 @@
+{
+  "name": "Omberacetam",
+  "url": "https://psychonautwiki.org/wiki/Omberacetam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Noopept",
+    "Ноопепт",
+    "GVS-111",
+    "Omberacetam"
+  ],
+  "class": {
+    "chemical": [
+      "Peptide"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "develops over several weeks of prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "racetam",
+    "nootropic"
+  ],
+  "toxicity": [
+    "exact toxic dosage is unknown"
+  ],
+  "addictionPotential": "non-addictive with a low potential for abuse",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 20.0,
+        "light": {
+          "min": 1.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 20.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 0.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": null,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": null,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 40.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 20.0
+        },
+        "strong": {
+          "min": 20.0,
+          "max": 40.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

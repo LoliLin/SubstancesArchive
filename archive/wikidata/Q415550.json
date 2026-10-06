@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415550",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415550"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoprenaline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415550"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoprenaline"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415550"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "isoprenaline"
+      }
+    }
+  ]
+}

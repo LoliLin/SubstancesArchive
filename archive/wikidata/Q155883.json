@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q155883",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q155883"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11CC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "alfacalcidol"
+      }
+    }
+  ]
+}

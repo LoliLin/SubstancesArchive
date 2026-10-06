@@ -1,0 +1,73 @@
+{
+  "name": "Theanine",
+  "url": "https://psychonautwiki.org/wiki/Theanine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Theanine",
+    "L-Theanine",
+    "L-γ-glutamylethylamide and N5-ethyl-L-glutamine"
+  ],
+  "class": {
+    "chemical": null,
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "after prolonged and repeated usage",
+    "half": "5 days",
+    "zero": "10 days"
+  },
+  "crossTolerances": [],
+  "toxicity": [
+    "extremely low toxicity"
+  ],
+  "addictionPotential": "not habit-forming",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 50.0,
+        "heavy": 500.0,
+        "light": {
+          "min": 75.0,
+          "max": 175.0
+        },
+        "common": {
+          "min": 175.0,
+          "max": 300.0
+        },
+        "strong": {
+          "min": 300.0,
+          "max": 500.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 1.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "offset": null,
+        "total": {
+          "min": 3.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

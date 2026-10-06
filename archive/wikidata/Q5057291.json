@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5057291",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5057291"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01DE03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cefozopran"
+      }
+    }
+  ]
+}

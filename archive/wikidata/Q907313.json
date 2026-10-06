@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q907313",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q907313"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02CA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "trilostane"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q848264",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q848264"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BD02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flavoxate"
+      }
+    }
+  ]
+}

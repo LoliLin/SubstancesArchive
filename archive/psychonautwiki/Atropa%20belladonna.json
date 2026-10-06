@@ -1,0 +1,26 @@
+{
+  "name": "Atropa belladonna",
+  "url": "https://psychonautwiki.org/wiki/Atropa%20belladonna",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Belladonna",
+    "Deadly nightshade"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tropanes"
+    ],
+    "psychoactive": [
+      "Deliriant"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": null
+}

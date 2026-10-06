@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2031078",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2031078"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08CA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gadodiamide hydrate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1164067",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1164067"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C09AA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "delapril"
+      }
+    }
+  ]
+}

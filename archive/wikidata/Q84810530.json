@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q84810530",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q84810530"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AN05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "medical air"
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "name": "Hydromorphone",
+  "url": "https://psychonautwiki.org/wiki/Hydromorphone",
+  "featured": null,
+  "systematicName": null,
+  "commonNames": [
+    "Dilaudid",
+    "Jurnista",
+    "Palladone"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted morphinans"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": null,
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "insufflated",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 8.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "mg",
+        "threshold": 1.0,
+        "heavy": 6.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 6.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 4.0,
+          "max": 5.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 3.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "Hours"
+        }
+      },
+      "bioavailability": null
+    },
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 8.0,
+        "light": {
+          "min": 1.0,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 4.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 8.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 5.0,
+          "max": 15.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 15.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 1.0,
+          "max": 12.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    }
+  ]
+}

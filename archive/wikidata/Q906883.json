@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q906883",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q906883"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AE02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "policresulen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q906883"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "policresulen"
+      }
+    }
+  ]
+}

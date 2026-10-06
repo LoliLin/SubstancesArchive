@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q794162",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q794162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C07AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "betaxolol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q794162"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01ED02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "betaxolol"
+      }
+    }
+  ]
+}

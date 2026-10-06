@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q139890449",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q139890449"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Dizpharm Paracetamol"
+      }
+    }
+  ]
+}

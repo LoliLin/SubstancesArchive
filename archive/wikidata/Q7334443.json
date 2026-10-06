@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7334443",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7334443"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H02AB12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rimexolone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7334443"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA13"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rimexolone"
+      }
+    }
+  ]
+}

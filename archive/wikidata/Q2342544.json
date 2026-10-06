@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2342544",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2342544"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C10AD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "acipimox"
+      }
+    }
+  ]
+}

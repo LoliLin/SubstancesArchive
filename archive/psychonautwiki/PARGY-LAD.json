@@ -1,0 +1,86 @@
+{
+  "name": "PARGY-LAD",
+  "url": "https://psychonautwiki.org/wiki/PARGY-LAD",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "PARGY-LAD"
+  ],
+  "class": {
+    "chemical": [
+      "Lysergamides"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "5-7 days",
+    "zero": "14 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "toxic dose is unknown"
+  ],
+  "addictionPotential": "not habit-forming",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "µg",
+        "threshold": 50.0,
+        "heavy": 700.0,
+        "light": {
+          "min": 125.0,
+          "max": 275.0
+        },
+        "common": {
+          "min": 275.0,
+          "max": 500.0
+        },
+        "strong": {
+          "min": 500.0,
+          "max": 700.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Lithium"
+    }
+  ]
+}

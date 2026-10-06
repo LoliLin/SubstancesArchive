@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q424294",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424294"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ipratropium bromide"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q424294"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ipratropium bromide"
+      }
+    }
+  ]
+}

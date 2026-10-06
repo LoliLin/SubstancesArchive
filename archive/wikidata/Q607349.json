@@ -1,0 +1,95 @@
+{
+  "item": "http://www.wikidata.org/entity/Q607349",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q607349"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorometholone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q607349"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorometholone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q607349"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorometholone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q607349"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D10AA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorometholone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q607349"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01BA07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorometholone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q607349"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01CB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fluorometholone"
+      }
+    }
+  ]
+}

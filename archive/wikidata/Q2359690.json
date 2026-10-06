@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2359690",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2359690"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "prochlorperazine"
+      }
+    }
+  ]
+}

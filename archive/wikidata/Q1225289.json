@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1225289",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1225289"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03A"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "muscle relaxant"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1225289"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03B"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "muscle relaxant"
+      }
+    }
+  ]
+}

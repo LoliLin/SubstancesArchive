@@ -1,0 +1,75 @@
+{
+  "name": "3-HO-PCE",
+  "url": "https://psychonautwiki.org/wiki/3-HO-PCE",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "3-HO-PCE",
+    "Hydroxyeticyclidine"
+  ],
+  "class": {
+    "chemical": [
+      "Arylcyclohexylamines"
+    ],
+    "psychoactive": [
+      "Dissociatives"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged and repeated use",
+    "half": "4 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "dissociative"
+  ],
+  "toxicity": [
+    "toxic dosage is unknown"
+  ],
+  "addictionPotential": "moderately addictive with a moderate potential for adverse side effects such as psychosis",
+  "dangerousInteractions": [
+    {
+      "name": "Stimulants"
+    },
+    {
+      "name": "Depressants"
+    }
+  ],
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 5.0,
+        "heavy": 25.0,
+        "light": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 15.0
+        },
+        "strong": {
+          "min": 15.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": null,
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

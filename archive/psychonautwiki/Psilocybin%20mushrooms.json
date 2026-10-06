@@ -1,0 +1,108 @@
+{
+  "name": "Psilocybin mushrooms",
+  "url": "https://psychonautwiki.org/wiki/Psilocybin%20mushrooms",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Psilocybin",
+    "Psilocybin mushrooms",
+    "Magic Mushrooms",
+    "Shrooms",
+    "4-PO-DMT"
+  ],
+  "class": {
+    "chemical": [
+      "Substituted tryptamines"
+    ],
+    "psychoactive": [
+      "Psychedelic"
+    ]
+  },
+  "tolerance": {
+    "full": "almost immediately after ingestion",
+    "half": "3 days",
+    "zero": "7 days"
+  },
+  "crossTolerances": [
+    "psychedelic"
+  ],
+  "toxicity": [
+    "extremely low toxicity relative to dose"
+  ],
+  "addictionPotential": "low abuse potential, no physical dependence potential",
+  "dangerousInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 2.5,
+        "heavy": 50.0,
+        "light": {
+          "min": 2.5,
+          "max": 10.0
+        },
+        "common": {
+          "min": 10.0,
+          "max": 25.0
+        },
+        "strong": {
+          "min": 25.0,
+          "max": 50.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 45.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 1.0,
+          "max": 1.5,
+          "units": "hours"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 2.5,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.5,
+          "max": 3.5,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 4.0,
+          "max": 24.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Amphetamines"
+    },
+    {
+      "name": "Cocaine"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Lithium"
+    }
+  ]
+}

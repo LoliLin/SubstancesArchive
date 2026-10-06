@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7861081",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7861081"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AP"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "typhoid vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7861081"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AP01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "typhoid vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7861081"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AP02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "typhoid vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7861081"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AP04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "typhoid vaccine"
+      }
+    }
+  ]
+}

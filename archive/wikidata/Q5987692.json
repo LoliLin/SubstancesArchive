@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5987692",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5987692"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AX06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "idanpramine"
+      }
+    }
+  ]
+}

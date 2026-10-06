@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q184630",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q184630"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12BA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium chloride"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q184630"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05XA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "potassium chloride"
+      }
+    }
+  ]
+}

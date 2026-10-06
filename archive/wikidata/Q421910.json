@@ -1,0 +1,95 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421910",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01FB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylephrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421910"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "phenylephrine"
+      }
+    }
+  ]
+}

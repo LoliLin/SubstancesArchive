@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421351",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421351"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxedrine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421351"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oxedrine"
+      }
+    }
+  ]
+}

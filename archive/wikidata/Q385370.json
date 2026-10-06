@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q385370",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q385370"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07AC03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "desoximetasone"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q385370"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D07XC02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "desoximetasone"
+      }
+    }
+  ]
+}

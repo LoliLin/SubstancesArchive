@@ -1,0 +1,52 @@
+{
+  "name": "Datura",
+  "url": "https://psychonautwiki.org/wiki/Datura",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Datura",
+    "Jimson Weed"
+  ],
+  "class": {
+    "chemical": null,
+    "psychoactive": [
+      "Deliriant"
+    ]
+  },
+  "tolerance": {
+    "full": "with repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": null,
+  "toxicity": [
+    "toxic dosage is unknown"
+  ],
+  "addictionPotential": "mildly addictive with a high potential for adverse side effects such as psychosis",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": null,
+      "duration": {
+        "onset": {
+          "min": 20.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 60.0,
+          "max": 120.0,
+          "units": "minutes"
+        },
+        "peak": null,
+        "offset": null,
+        "total": null,
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

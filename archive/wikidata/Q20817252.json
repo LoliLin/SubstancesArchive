@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20817252",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817252"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B01AB10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tinzaparin"
+      }
+    }
+  ]
+}

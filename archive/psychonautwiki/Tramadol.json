@@ -1,0 +1,136 @@
+{
+  "name": "Tramadol",
+  "url": "https://psychonautwiki.org/wiki/Tramadol",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Tramadol",
+    "Tramal",
+    "Tadol",
+    "Tramacur",
+    "Tramundin"
+  ],
+  "class": {
+    "chemical": [
+      "Phenylpropylamine"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "opioids"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+  ],
+  "addictionPotential": "moderately addictive with a high potential for abuse",
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 25.0,
+        "heavy": 300.0,
+        "light": {
+          "min": 25.0,
+          "max": 100.0
+        },
+        "common": {
+          "min": 100.0,
+          "max": 250.0
+        },
+        "strong": {
+          "min": 250.0,
+          "max": 300.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 15.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 2.0,
+          "max": 4.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 6.0,
+          "max": 10.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": {
+        "min": 70.0,
+        "max": 90.0
+      }
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "Amphetamines"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "2C-T-x"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Grapefruit"
+    },
+    {
+      "name": "MDMA"
+    },
+    {
+      "name": "aMT"
+    }
+  ]
+}

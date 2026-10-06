@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q417097",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q417097"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P02CE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "levamisole"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418946",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07AA10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "colistin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418946"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01XB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "colistin"
+      }
+    }
+  ]
+}

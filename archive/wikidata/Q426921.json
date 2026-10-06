@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q426921",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426921"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "P01BE01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "artemisinin"
+      }
+    }
+  ]
+}

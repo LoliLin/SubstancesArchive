@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4784959",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4784959"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C01CA22"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "arbutamine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28163603",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28163603"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J04AM06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethambutol/isoniazid/pyrazinamide/rifampicin"
+      }
+    }
+  ]
+}

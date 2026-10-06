@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6960874",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6960874"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V03AX02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "nalfurafine"
+      }
+    }
+  ]
+}

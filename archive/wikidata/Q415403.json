@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415403",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415403"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BG07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "flupirtine"
+      }
+    }
+  ]
+}

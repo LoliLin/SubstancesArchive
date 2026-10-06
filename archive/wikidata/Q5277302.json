@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5277302",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5277302"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N06AA18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "dimetacrine"
+      }
+    }
+  ]
+}

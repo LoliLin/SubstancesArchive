@@ -1,0 +1,122 @@
+{
+  "name": "Sufentanil",
+  "url": "https://psychonautwiki.org/wiki/Sufentanil",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Sufentanil",
+    "Sufentanyl",
+    "Sufenta",
+    "Chronogesic"
+  ],
+  "class": {
+    "chemical": [
+      "Anilidopiperidine"
+    ],
+    "psychoactive": [
+      "Opioids"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "unsafeInteractions": null,
+  "roas": [
+    {
+      "name": "intravenous",
+      "dose": {
+        "units": "μg",
+        "threshold": 0.1,
+        "heavy": 25.0,
+        "light": {
+          "min": 1.0,
+          "max": 5.0
+        },
+        "common": {
+          "min": 5.0,
+          "max": 10.0
+        },
+        "strong": {
+          "min": 10.0,
+          "max": 25.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 1.0,
+          "max": 2.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 5.0,
+          "max": 10.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": null,
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Nitrous"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "Stimulants"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "SNRIs"
+    },
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "Benzodiazepines"
+    },
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "MXE"
+    },
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "Grapefruit"
+    },
+    {
+      "name": "MAOIs"
+    },
+    {
+      "name": "Serotonin releasers"
+    },
+    {
+      "name": "SSRIs"
+    },
+    {
+      "name": "5-HTP"
+    }
+  ]
+}

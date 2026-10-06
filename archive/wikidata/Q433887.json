@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q433887",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q433887"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code C04"
+      }
+    }
+  ]
+}

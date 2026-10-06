@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28859656",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28859656"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AR18"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide"
+      }
+    }
+  ]
+}

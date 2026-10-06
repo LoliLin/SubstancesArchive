@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q414030",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414030"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01BB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cladribine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414030"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L04AA40"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cladribine"
+      }
+    }
+  ]
+}

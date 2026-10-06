@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q4205889",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4205889"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H03CA"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethiodized oil"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4205889"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "V08AD01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ethiodized oil"
+      }
+    }
+  ]
+}

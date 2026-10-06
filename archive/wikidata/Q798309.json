@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q798309",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q798309"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07AN01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "BCG vaccine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q798309"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "BCG vaccine"
+      }
+    }
+  ]
+}

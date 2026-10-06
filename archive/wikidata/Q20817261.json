@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20817261",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817261"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "spaglumic acid"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20817261"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01GX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "spaglumic acid"
+      }
+    }
+  ]
+}

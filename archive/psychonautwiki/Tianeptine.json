@@ -1,0 +1,90 @@
+{
+  "name": "Tianeptine",
+  "url": "https://psychonautwiki.org/wiki/Tianeptine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Tianeptine",
+    "Stablon",
+    "Coaxil",
+    "Tatinol"
+  ],
+  "class": {
+    "chemical": [
+      "Dibenzothiazepine",
+      "Antidepressants"
+    ],
+    "psychoactive": [
+      "Nootropic",
+      "Opioids",
+      "Antidepressants"
+    ]
+  },
+  "tolerance": {
+    "full": "with prolonged use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "trycyclic antidepressants",
+    "opioids"
+  ],
+  "toxicity": [
+    "large therapeutic index and margin of safety"
+  ],
+  "addictionPotential": "mildly addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 3.0,
+        "heavy": 100.0,
+        "light": {
+          "min": 6.0,
+          "max": 12.0
+        },
+        "common": {
+          "min": 12.0,
+          "max": 35.0
+        },
+        "strong": {
+          "min": 35.0,
+          "max": 100.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 15.0,
+          "max": 30.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "total": {
+          "min": 2.0,
+          "max": 3.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

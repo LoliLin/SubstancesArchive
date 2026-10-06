@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q388565",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q388565"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J04AB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rifamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q388565"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rifamycin"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q388565"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rifamycin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q421937",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q421937"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05BB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "(RS)-hydroxyzine"
+      }
+    }
+  ]
+}

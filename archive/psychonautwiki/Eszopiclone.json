@@ -1,0 +1,79 @@
+{
+  "name": "Eszopiclone",
+  "url": "https://psychonautwiki.org/wiki/Eszopiclone",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Lunesta",
+    "Eszop"
+  ],
+  "class": {
+    "chemical": [
+      "Cyclopyrrolone"
+    ],
+    "psychoactive": [
+      "Hallucinogens",
+      "Depressant",
+      "Hypnotic"
+    ]
+  },
+  "tolerance": {
+    "full": "within a couple of weeks of daily use",
+    "half": null,
+    "zero": "7 - 14 days"
+  },
+  "crossTolerances": [
+    "benzodiazepines"
+  ],
+  "toxicity": [
+    "low toxicity",
+    "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
+  ],
+  "addictionPotential": "extremely physically and psychologically addictive",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 0.5,
+        "heavy": 6.0,
+        "light": {
+          "min": 1.0,
+          "max": 1.5
+        },
+        "common": {
+          "min": 2.0,
+          "max": 3.0
+        },
+        "strong": {
+          "min": 4.0,
+          "max": 5.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 10.0,
+          "max": 20.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "offset": null,
+        "total": {
+          "min": 6.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

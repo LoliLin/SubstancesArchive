@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q28859612",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q28859612"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AR19"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "emtricitabine / rilpivirine / tenofovir alafenamide"
+      }
+    }
+  ]
+}

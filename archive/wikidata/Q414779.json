@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q414779",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q414779"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D05BA03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bergapten"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407646",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A06AD16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-(-)-mannitol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-(-)-mannitol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B05CX04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-(-)-mannitol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407646"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R05CB16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "D-(-)-mannitol"
+      }
+    }
+  ]
+}

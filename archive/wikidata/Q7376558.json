@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7376558",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7376558"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L01XX55"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rucaparib"
+      }
+    }
+  ]
+}

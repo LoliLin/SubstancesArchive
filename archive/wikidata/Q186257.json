@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q186257",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q186257"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N05CD06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lormetazepam"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q419921",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q419921"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A12BA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tripotassium citrate"
+      }
+    }
+  ]
+}

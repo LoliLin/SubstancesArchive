@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q434157",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q434157"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code M09"
+      }
+    }
+  ]
+}

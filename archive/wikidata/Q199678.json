@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q199678",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q199678"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11G"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vitamin C"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q199678"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A11GA01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vitamin C"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q199678"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G01AD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vitamin C"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q199678"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01XA15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vitamin C"
+      }
+    }
+  ]
+}

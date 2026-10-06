@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q238490",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q238490"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D01AE21"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "5-fluorocytosine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q238490"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J02AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "5-fluorocytosine"
+      }
+    }
+  ]
+}

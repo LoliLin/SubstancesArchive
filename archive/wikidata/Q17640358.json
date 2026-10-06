@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q17640358",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q17640358"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J07CA02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "DTaP-IPV vaccine"
+      }
+    }
+  ]
+}

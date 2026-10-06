@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7810486",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7810486"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A07EA05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tixocortol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7810486"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R01AD07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tixocortol"
+      }
+    }
+  ]
+}

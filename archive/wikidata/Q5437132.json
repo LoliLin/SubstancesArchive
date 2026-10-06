@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q5437132",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5437132"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C04AX32"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fasudil"
+      }
+    }
+  ]
+}

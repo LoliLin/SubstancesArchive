@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q411461",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411461"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N07AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pilocarpine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q411461"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pilocarpine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q6897268",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6897268"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AK09"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mometasone/formoterol"
+      }
+    }
+  ]
+}

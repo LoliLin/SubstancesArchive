@@ -1,0 +1,70 @@
+{
+  "name": "Piracetam",
+  "url": "https://psychonautwiki.org/wiki/Piracetam",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Piracetam"
+  ],
+  "class": {
+    "chemical": [
+      "Racetams"
+    ],
+    "psychoactive": [
+      "Nootropic"
+    ]
+  },
+  "tolerance": {
+    "full": "develops with prolonged and repeated use",
+    "half": "3 - 7 days",
+    "zero": "1 - 2 weeks"
+  },
+  "crossTolerances": [
+    "racetam",
+    "nootropic"
+  ],
+  "toxicity": null,
+  "addictionPotential": "not addictive with a low potential for abuse",
+  "dangerousInteractions": null,
+  "unsafeInteractions": null,
+  "uncertainInteractions": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "g",
+        "threshold": 0.25,
+        "heavy": 5.0,
+        "light": {
+          "min": 0.5,
+          "max": 2.0
+        },
+        "common": {
+          "min": 2.0,
+          "max": 3.0
+        },
+        "strong": {
+          "min": 3.0,
+          "max": 5.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 30.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": null,
+        "peak": null,
+        "offset": null,
+        "total": {
+          "min": 4.0,
+          "max": 8.0,
+          "units": "hours"
+        },
+        "afterglow": null
+      },
+      "bioavailability": null
+    }
+  ]
+}

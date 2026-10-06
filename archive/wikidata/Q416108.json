@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q416108",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q416108"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01EB10"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "paraoxon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q9003473",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q9003473"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrotalcite"
+      }
+    }
+  ]
+}

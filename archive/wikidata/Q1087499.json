@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1087499",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1087499"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01FA08"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "troleandomycin"
+      }
+    }
+  ]
+}

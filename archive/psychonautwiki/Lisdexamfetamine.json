@@ -1,0 +1,142 @@
+{
+  "name": "Lisdexamfetamine",
+  "url": "https://psychonautwiki.org/wiki/Lisdexamfetamine",
+  "featured": true,
+  "systematicName": null,
+  "commonNames": [
+    "Lisdexamfetamine",
+    "Vyvanse",
+    "Elvanse"
+  ],
+  "class": {
+    "chemical": [
+      "Amphetamine",
+      "Substituted amphetamines"
+    ],
+    "psychoactive": [
+      "Stimulants"
+    ]
+  },
+  "tolerance": null,
+  "crossTolerances": null,
+  "toxicity": null,
+  "addictionPotential": null,
+  "roas": [
+    {
+      "name": "oral",
+      "dose": {
+        "units": "mg",
+        "threshold": 10.0,
+        "heavy": 90.0,
+        "light": {
+          "min": 20.0,
+          "max": 30.0
+        },
+        "common": {
+          "min": 30.0,
+          "max": 60.0
+        },
+        "strong": {
+          "min": 60.0,
+          "max": 90.0
+        }
+      },
+      "duration": {
+        "onset": {
+          "min": 60.0,
+          "max": 90.0,
+          "units": "minutes"
+        },
+        "comeup": {
+          "min": 30.0,
+          "max": 60.0,
+          "units": "minutes"
+        },
+        "peak": {
+          "min": 3.0,
+          "max": 5.0,
+          "units": "hours"
+        },
+        "offset": {
+          "min": 4.0,
+          "max": 6.0,
+          "units": "hours"
+        },
+        "total": {
+          "min": 10.0,
+          "max": 14.0,
+          "units": "hours"
+        },
+        "afterglow": {
+          "min": 2.0,
+          "max": 6.0,
+          "units": "hours"
+        }
+      },
+      "bioavailability": null
+    }
+  ],
+  "uncertainInteractions": [
+    {
+      "name": "Alcohol"
+    },
+    {
+      "name": "GHB"
+    },
+    {
+      "name": "GBL"
+    },
+    {
+      "name": "Opioids"
+    },
+    {
+      "name": "Cocaine"
+    },
+    {
+      "name": "Cannabis"
+    },
+    {
+      "name": "Caffeine"
+    },
+    {
+      "name": "Ketamine"
+    },
+    {
+      "name": "Methoxetamine"
+    },
+    {
+      "name": "Psychedelics"
+    }
+  ],
+  "unsafeInteractions": [
+    {
+      "name": "DXM"
+    },
+    {
+      "name": "PCP"
+    },
+    {
+      "name": "25x-NBOMe"
+    },
+    {
+      "name": "2C-T-x"
+    },
+    {
+      "name": "5-MeO-xxT"
+    },
+    {
+      "name": "DOx"
+    }
+  ],
+  "dangerousInteractions": [
+    {
+      "name": "Tramadol"
+    },
+    {
+      "name": "aMT"
+    },
+    {
+      "name": "MAOIs"
+    }
+  ]
+}

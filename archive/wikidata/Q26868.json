@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q26868",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q26868"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "B02BC07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "collagen"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q26868"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G04BX11"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "collagen"
+      }
+    }
+  ]
+}

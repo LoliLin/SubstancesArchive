@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q410618",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q410618"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "meptazinol"
+      }
+    }
+  ]
+}

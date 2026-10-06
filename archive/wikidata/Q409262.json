@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q409262",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q409262"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01CF03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "methicillin"
+      }
+    }
+  ]
+}

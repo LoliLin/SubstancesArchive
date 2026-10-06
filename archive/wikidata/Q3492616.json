@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q3492616",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3492616"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10AB04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Insulin Lispro"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3492616"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Insulin Lispro"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3492616"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A10AD04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Insulin Lispro"
+      }
+    }
+  ]
+}

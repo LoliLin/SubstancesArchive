@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7809264",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7809264"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A03AC05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tiropramide"
+      }
+    }
+  ]
+}

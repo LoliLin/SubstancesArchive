@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q827515",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q827515"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "M03BX03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pridinol"
+      }
+    }
+  ]
+}

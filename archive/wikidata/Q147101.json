@@ -1,0 +1,50 @@
+{
+  "item": "http://www.wikidata.org/entity/Q147101",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q147101"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D06BB03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aciclovir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q147101"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J05AB01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aciclovir"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q147101"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AD03"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "aciclovir"
+      }
+    }
+  ]
+}

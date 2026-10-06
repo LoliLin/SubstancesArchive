@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q20801720",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q20801720"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "L03AB06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "interferon alfa-n1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q863389",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q863389"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AK07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "budesonide/formoterol"
+      }
+    }
+  ]
+}

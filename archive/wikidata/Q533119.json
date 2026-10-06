@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q533119",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q533119"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tribenoside"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q533119"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05CX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tribenoside"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q426460",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q426460"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AE05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chloroxylenol"
+      }
+    }
+  ]
+}

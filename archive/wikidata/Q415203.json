@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q415203",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415203"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tripelennamine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q415203"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R06AC04"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tripelennamine"
+      }
+    }
+  ]
+}

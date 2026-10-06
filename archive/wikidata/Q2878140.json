@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q2878140",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2878140"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "J01CA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bacampicillin"
+      }
+    }
+  ]
+}

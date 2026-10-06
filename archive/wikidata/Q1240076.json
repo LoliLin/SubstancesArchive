@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1240076",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1240076"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "C05AD07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pramoxine"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1240076"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AB07"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "pramoxine"
+      }
+    }
+  ]
+}

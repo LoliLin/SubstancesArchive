@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q418730",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q418730"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "G03GB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "clomifene"
+      }
+    }
+  ]
+}

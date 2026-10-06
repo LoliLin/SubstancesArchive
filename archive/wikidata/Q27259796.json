@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q27259796",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q27259796"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N02BA16"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "imidazole salicylate"
+      }
+    }
+  ]
+}

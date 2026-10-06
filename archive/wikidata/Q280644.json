@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q280644",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q280644"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "H01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "ATC code H01"
+      }
+    }
+  ]
+}

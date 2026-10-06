@@ -1,0 +1,35 @@
+{
+  "item": "http://www.wikidata.org/entity/Q1292703",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1292703"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03AC15"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "reproterol"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1292703"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "R03CC14"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "reproterol"
+      }
+    }
+  ]
+}

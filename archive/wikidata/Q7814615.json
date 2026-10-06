@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q7814615",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q7814615"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D04AA12"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tolpropamine"
+      }
+    }
+  ]
+}

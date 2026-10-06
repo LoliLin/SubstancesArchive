@@ -1,0 +1,65 @@
+{
+  "item": "http://www.wikidata.org/entity/Q64878155",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q64878155"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A01AB02"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrogen peroxide solution"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q64878155"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D08AX01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrogen peroxide solution"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q64878155"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "D11AX25"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrogen peroxide solution"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q64878155"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S02AA06"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hydrogen peroxide solution"
+      }
+    }
+  ]
+}

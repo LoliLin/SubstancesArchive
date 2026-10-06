@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q407936",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q407936"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "N01AB05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "trichloroethene"
+      }
+    }
+  ]
+}

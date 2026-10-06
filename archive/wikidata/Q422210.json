@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q422210",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q422210"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "A02BC01"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "omeprazole"
+      }
+    }
+  ]
+}

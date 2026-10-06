@@ -1,0 +1,20 @@
+{
+  "item": "http://www.wikidata.org/entity/Q681387",
+  "bindings": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q681387"
+      },
+      "atc": {
+        "type": "literal",
+        "value": "S01AX05"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bibrocathol"
+      }
+    }
+  ]
+}
